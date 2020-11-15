@@ -100,6 +100,34 @@
 * PLDI20' Validating SMT Solvers via Semantic Fusion
 * PLDI20' Zippy LL(1) Parsing with Derivatives
 
+# POPL20
+* POPL20' Abstract Extensionality: On the Properties of Incomplete Abstract Interpretations
+* POPL20' Actris: Session-Type Based Reasoning in Separation Logic
+* POPL20' Backpropagation in the Simply Typed Lambda-calculus with Linear Negation
+* POPL20' Augmented Example-based Synthesis using Relational Perturbation Properties
+* POPL20' Binders by Day, Labels by Night: Effect Instances via Lexically Scoped Handlers
+* POPL20' Deductive Verification with Ghost Monitors
+* POPL20' Detecting Floating-Point Errors via Atomic Conditions
+* POPL20' Formal Verification of a Constant-Time Preserving C Compiler
+* POPL20' Incorrectness Logic
+* POPL20' Interaction Trees: Representing Recursive and Impure Programs in Coq
+* POPL20' Partial Type Constructors: Or, Making Ad Hoc Datatypes Less Ad Hoc
+* POPL20' Persistency Semantics of the Intel-x86 Architecture
+* POPL20' Willias: Program Synthesis by Type-Guided Abstraction Refinement
+* POPL20' Willias: Synthesis of Coordination Programs from Linear Temporal Specifications
+* POPL20' Synthesizing Replacement Classes
+* POPL20' The Next 700 Relational Program Logics
+
+# ISSTA20
+* ISSTA20' Abstracting Failure-Inducing Inputs
+* ISSTA20' Fast Bit-Vector Satisfiability
+* ISSTA20' How Far We Have Come: Testing Decompilation Correctness of C Decompilers
+* ISSTA20' Learning Input Tokens for Effective Fuzzing
+* ISSTA20' Patch Based Vulnerability Matching for Binary Programs
+* ISSTA20' Relocatable Addressing Model for Symbolic Execution
+* ISSTA20' Running Symbolic Execution Forever
+* ISSTA20' WEIZZ: Automatic Grey-Box Fuzzing for Structured Binary Formats
+
 # 文法相关
 * Stochastic Languages and Stochastic Grammars.
 * A Sentence Generator for Testing Parsers
