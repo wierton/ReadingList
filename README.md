@@ -1,11 +1,11 @@
 # Reading List of Compiler Testing
 
 # Conference
-* ICSE、FSE、TSE、ASE
+* ICSE、FSE、ASE
 * OSDI、PLDI、POPL、ATC、SOSP、ISSTA
 
 # Journal
-* TOSEM、TOPLAS
+* TSE、TOSEM、TOPLAS
 
 # ICSE20
 * ICSE20' Ankou: Guiding Grey-box Fuzzing towards Combinatorial Difference
@@ -56,7 +56,7 @@
 * FSE20' Interval Counterexamples for Loop Invariant Learning
 * FSE20' Java Ranger: Statically Summarizing Regions for Efficient Symbolic Execution of Java
 * FSE20' Making Symbolic Execution Promising by Learning Aggressive State-Pruning Strategy
-* FSE20' Mining Input Grammars from Dynamic Control Flow
+* FSE20' Willias: Mining Input Grammars from Dynamic Control Flow
 * FSE20' Past-Sensitive Pointer Analysis for Symbolic Execution
 * FSE20' UBITect: A Precise and Scalable Method to Detect Use-before-Initialization Bugs in Linux Kernel
 
@@ -71,7 +71,34 @@
 * OSDI20' Testing Configuration Changes in Context to Prevent Production Failures
 
 # PLDI20
-
+* PLDI20' Armada: Low-Effort Verification of High-Performance Concurrent Programs
+* PLDI20' Binary Rewriting without Control Flow Recovery
+* PLDI20' BlankIt Library Debloating: Getting What You Want Instead of Cutting What You Don’t
+* PLDI20' CARAT: A Case for Virtual Memory through Compiler- and Runtime-Based Address Translation
+* PLDI20' Compiler and Runtime Support for Continuation Marks
+* PLDI20' Constant-Time Foundations for the New Spectre Era
+* PLDI20' Data-Driven Inference of Representation Invariants
+* PLDI20' Debug Information Validation for Optimized Code
+* PLDI20' Effective Function Merging in the SSA Form
+* PLDI20' Efficient Handling of String-Number Conversion
+* PLDI20' Exact and Approximate Methods for Proving Unrealizability of Syntax-Guided Synthesis Problems
+* PLDI20' Faster General Parsing through Context-Free Memoization
+* PLDI20' First-Order Quantified Separators
+* PLDI20' Gillian, Part I: A Multi-language Platform for Symbolic Execution
+* PLDI20' Learning Fast and Precise Numerical Analysis
+* PLDI20' Learning Nonlinear Loop Invariants with Gated Continuous Logic Networks
+* PLDI20' Multi-modal Synthesis of Regular Expressions
+* PLDI20' OOElala: Order-of-Evaluation Based Alias Analysis for Compiler Optimization
+* PLDI20' Optimizing Homomorphic Evaluation Circuits by Program Synthesis and Term Rewriting
+* PLDI20' Polynomial Invariant Generation for Non-deterministic Recursive Programs
+* PLDI20' Willias: Reconciling Enumerative and Deductive Program Synthesis
+* PLDI20' SCAF: A Speculation-Aware Collaborative Dependence Analysis Framework
+* PLDI20' Scalable Validation of Binary Lifters
+* PLDI20' Templates and Recurrences: Better Together
+* PLDI20' The Essence of Bluespec: A Core Language for Rule-Based Hardware Design
+* PLDI20' Towards a Verified Range Analysis for JavaScript JITs
+* PLDI20' Validating SMT Solvers via Semantic Fusion
+* PLDI20' Zippy LL(1) Parsing with Derivatives
 
 # 文法相关
 * Stochastic Languages and Stochastic Grammars.
