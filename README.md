@@ -7,6 +7,36 @@
 # Journal
 * TSE、TOSEM、TOPLAS
 
+# Labels
+* Generation: testcase generation, for testing
+* Synthesis: construct program/code pieces/DSL and etc
+* Bug Localization: find where is possibly the bug
+* Symbolic Execution: execute program with symbols and constraints
+* Concolic Execution: combine symbolic execution and concrete execution
+* Repair: fix program either from compile-time or from runtime
+* Fuzzing: randomly generate/manipulate inputs with some heuristic
+* Mutation: Mutate existing testcases
+* Debugging: help better debugging or related to debugging tools
+* Program Comprehension: extract high level summary from program
+* Testcase Reduction: reduce testcases' numbers or size
+* Testcase Prioritization: reorder testcases to help faster testing
+* Verification: manually or automatically give proof to program's properties
+* Fomalization: a lot of formulas/symbols, strictly illustrate the complicated (sometimes naive) solutions/problems/concepts
+* Performance: improve program's performance, or find performance bugs
+* Program Analysis: dynamic or static analysis of program
+* Fault Injection: delibrately return rubbish/inconsistent result to program when invoke external api/syscall
+* Configuration: detect errors in configuration or test systems which higly depends on configuration
+* Regression Testing: as is
+* Testing: as is
+* Misc Testing: hard to classify
+* Refactor: help refactor the code
+* Fault Tolarating: runtime mechanism to help program still keep running after fault
+* JavaScript: as is
+* Web Application: as is
+* SMT: satisfiability modulo theory
+* Program Slicing:
+* Test Acceration: help accelerate some existsing testing methodologies or unit testing/regression testing
+
 # ICSE20
 * ICSE20' Ankou: Guiding Grey-box Fuzzing towards Combinatorial Difference
 * ICSE20' Automatically Testing String Solvers

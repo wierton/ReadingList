@@ -1,1126 +1,1119 @@
 title: Oracle-guided component-based program synthesis
-pub: ICSE'10
-target: Synthesis/Generation
-labels: Synthesis/Generation
+publication: ICSE'10
+domain: Synthesis
+labels: Synthesis
 cites: 423
 score: 0
 
 title: Graph-based pattern-oriented, context-sensitive source code completion
-pub: ICSE'12
-target: Synthesis/Generation
-labels: Synthesis/Generation
+publication: ICSE'12
+domain: Synthesis
+labels: Synthesis
 cites: 138
 score: 0
 
 title: Automatic input rectification
-pub: ICSE'12
-target: Synthesis/Generation
-labels: Synthesis/Generation
+publication: ICSE'12
+domain: Synthesis
+labels: Synthesis
 cites: 64
 score: 0
 
 title: Guided test generation for web applications
-pub: ICSE'13
-target: Synthesis/Generation
-labels: Synthesis/Generation
+publication: ICSE'13
+domain: Generation
+labels: Generation
 cites: 47
 score: 0
 
 title: Strong higher order mutation-based test data generation
-pub: FSE'11
-target: Synthesis/Generation
-labels: Synthesis/Generation
+publication: FSE'11
+domain: Generation
+labels: Generation
 cites: 149
 score: 0
 
 title: Synthesizing data structure manipulations from storyboards
-pub: FSE'11
-target: Synthesis/Generation
-labels: Synthesis/Generation
+publication: FSE'11
+domain: Synthesis
+labels: Synthesis
 cites: 89
 score: 0
 
 title: Test input generation using dynamic programming
-pub: FSE'12
-target: Synthesis/Generation
-labels: Synthesis/Generation
+publication: FSE'12
+domain: Generation
+labels: Generation
 cites: 15
 score: 0
 
 title: Scalable test data generation from multidimensional models
-pub: FSE'12
-target: Synthesis/Generation
-labels: Synthesis/Generation
+publication: FSE'12
+domain: Generation
+labels: Generation
 cites: 18
 score: 0
 
 title: Search-based synthesis of equivalent method sequences
-pub: FSE'14
-target: Synthesis/Generation
-labels: Synthesis/Generation
+publication: FSE'14
+domain: Synthesis
+labels: Synthesis
 cites: 24
 score: 0
 
 title: GR(1) synthesis for LTL specification patterns
-pub: FSE'15
-target: Synthesis/Generation
-labels: Synthesis/Generation
+publication: FSE'15
+domain: Synthesis
+labels: Synthesis
 cites: 41
 score: 0
 
 title: Modeling readability to improve unit tests
-pub: FSE'15
-target: Synthesis/Generation
-labels: Synthesis/Generation
+publication: FSE'15
+domain: Synthesis
+labels: Synthesis
 cites: 68
 score: 0
 
 title: Generating TCP/UDP network data for automated unit test generation
-pub: FSE'15
-target: Synthesis/Generation
-labels: Synthesis/Generation
+publication: FSE'15
+domain: Generation
+labels: Generation
 cites: 14
 score: 0
 
 title: Generating range fixes for software configuration
-pub: ICSE'12
-target: Repair
-labels: Repair
+publication: ICSE'12
+domain: Repair
+labels: Repair, Configuration
 cites: 103
 score: 0
 
 title: Axis: Automatically fixing atomicity violations through solving control constraints
-pub: ICSE'12
-target: Repair
-labels: Repair
+publication: ICSE'12
+domain: Repair
+labels: Repair, Formalization
 cites: 84
 score: 0
 
 title: Feedback-directed unit test generation for C/C++ using concolic execution
-pub: ICSE'13
-target: Repair
-labels: Repair
+publication: ICSE'13
+domain: Generation
+labels: Repair, Generation, Concolic Execution
 cites: 45
 score: 0
 
 title: SemFix: program repair via semantic analysis
-pub: ICSE'13
-target: Repair
-labels: Repair
+publication: ICSE'13
+domain: Repair
+labels: Repair, Program Analysis
 cites: 499
 score: 0
 
 title: Automatic recovery from runtime failures
-pub: ICSE'13
-target: Repair
-labels: Repair
+publication: ICSE'13
+domain: Repair
+labels: Repair, Fault Tolerating
 cites: 95
 score: 0
 
 title: Program transformations to fix C integers
-pub: ICSE'13
-target: Repair
+publication: ICSE'13
+domain: Repair
 labels: Repair
 cites: 68
 score: 0
 
 title: Automatic patch generation learned from human-written patches
-pub: ICSE'13
-target: Repair
-labels: Repair
+publication: ICSE'13
+domain: Repair
+labels: Repair, Generation
 cites: 504
 score: 0
 
 title: MintHint: automated synthesis of repair hints
-pub: ICSE'14
-target: Repair
-labels: Repair
+publication: ICSE'14
+domain: Repair
+labels: Repair, Synthesis
 cites: 89
 score: 0
 
 title: DirectFix: Looking for Simple Program Repairs
-pub: ICSE'15
-target: Repair
+publication: ICSE'15
+domain: Repair
 labels: Repair
 cites: 223
 score: 0
 
 title: Safe Memory-Leak Fixing for C Programs
-pub: ICSE'15
-target: Repair
-labels: Repair
+publication: ICSE'15
+domain: Repair
+labels: Repair, Fault Tolerating
 cites: 76
 score: 0
 
 title: Grail: context-aware fixing of concurrency bugs
-pub: FSE'14
-target: Repair
-labels: Repair
+publication: FSE'14
+domain: Repair
+labels: Repair, Concurrency
 cites: 47
 score: 0
 
 title: Staged program repair with condition synthesis
-pub: FSE'15
-target: Repair
+publication: FSE'15
+domain: Repair
 labels: Repair
 cites: 269
 score: 0
 
 title: CLOTHO: saving programs from malformed strings and incorrect string-handling
-pub: FSE'15
-target: Repair
-labels: Repair
+publication: FSE'15
+domain: Repair
+labels: Repair, Fault Tolerating
 cites: 7
 score: 0
 
 title: Leveraging test generation and specification mining for automated bug detection without false positives
-pub: ICSE'12
-target: Testcase Reduction/Prioritization/Improvement
-labels: Testcase Reduction/Prioritization/Improvement
+publication: ICSE'12
+domain: Testcase Reduction
+labels: Testcase Reduction
 cites: 67
 score: 0
 
 title: On-demand test suite reduction
-pub: ICSE'12
-target: Testcase Reduction/Prioritization/Improvement
-labels: Testcase Reduction/Prioritization/Improvement
+publication: ICSE'12
+domain: Testcase Reduction
+labels: Testcase Reduction
 cites: 79
 score: 0
 
 title: Bridging the gap between the total and additional test-case prioritization strategies
-pub: ICSE'13
-target: Testcase Reduction/Prioritization/Improvement
-labels: Testcase Reduction/Prioritization/Improvement
+publication: ICSE'13
+domain: Testcase Prioritization
+labels: Testcase Prioritization
 cites: 152
 score: 0
 
 title: Interaction-based test-suite minimization
-pub: ICSE'13
-target: Testcase Reduction/Prioritization/Improvement
-labels: Testcase Reduction/Prioritization/Improvement
+publication: ICSE'13
+domain: Testcase Reduction
+labels: Testcase Reduction
 cites: 45
 score: 0
 
 title: A trace simplification technique for effective debugging of concurrent programs
-pub: FSE'10
-target: Testcase Reduction/Prioritization/Improvement
-labels: Testcase Reduction/Prioritization/Improvement
+publication: FSE'10
+domain: Testcase Reduction
+labels: Testcase Reduction, Debugging, Concurrency
 cites: 62
 score: 0
 
 title: Using an SMT solver for interactive requirements prioritization
-pub: FSE'11
-target: Testcase Reduction/Prioritization/Improvement
-labels: Testcase Reduction/Prioritization/Improvement
+publication: FSE'11
+domain: Testcase Prioritization
+labels: Testcase Prioritization, SMT
 cites: 23
 score: 0
 
 title: Effective test suites for mixed discrete-continuous stateflow controllers
-pub: FSE'15
-target: Testcase Reduction/Prioritization/Improvement
-labels: Testcase Reduction/Prioritization/Improvement
+publication: FSE'15
+domain: Testcase Improvement
+labels: Testcase Improvement
 cites: 24
 score: 0
 
 title: Comparing and combining test-suite reduction and regression test selection
-pub: FSE'15
-target: Testcase Reduction/Prioritization/Improvement
-labels: Testcase Reduction/Prioritization/Improvement
+publication: FSE'15
+domain: Testcase Reduction
+labels: Testcase Reduction
 cites: 72
 score: 0
 
 title: Efficient dependency detection for safe Java test acceleration
-pub: FSE'15
-target: Testcase Reduction/Prioritization/Improvement
-labels: Testcase Reduction/Prioritization/Improvement
+publication: FSE'15
+domain: Testing Acceration
+labels: Testing Acceration
 cites: 50
 score: 0
 
 title: Test generation through programming in UDITA
-pub: ICSE'10
-target: Testing
-labels: Testing
+publication: ICSE'10
+domain: Generation
+labels: Generation
 cites: 165
 score: 0
 
 title: Detecting atomic-set serializability violations in multithreaded programs through active randomized testing
-pub: ICSE'10
-target: Testing
-labels: Testing
+publication: ICSE'10
+domain: Fuzzing
+labels: Fuzzing
 cites: 94
 score: 0
 
 title: Using symbolic evaluation to understand behavior in configurable software systems
-pub: ICSE'10
-target: Testing
-labels: Testing
+publication: ICSE'10
+domain: Configuration
+labels: Configuration
 cites: 123
 score: 0
 
 title: Willias: From behaviour preservation to behaviour modification: constraint-based mutant generation
-pub: ICSE'10
-target: Testing
-labels: Testing
+publication: ICSE'10
+domain: Mutation
+labels: Mutation, Generation
 cites: 13
 score: 0
 
 title: Model-based performance testing
-pub: ICSE'11
-target: Testing
-labels: Testing
+publication: ICSE'11
+domain: Performance
+labels: Performance
 cites: 40
 score: 0
 
 title: Automated repair of HTML generation errors in PHP applications using string constraint solving
-pub: ICSE'12
-target: Testing
-labels: Testing
+publication: ICSE'12
+domain: Repair
+labels: Repair, SMT
 cites: 114
 score: 0
 
 title: CBCD: Cloned buggy code detector
-pub: ICSE'12
-target: Testing
+publication: ICSE'12
+domain: Testing
 labels: Testing
 cites: 119
 score: 0
 
 title: Micro execution
-pub: ICSE'14
-target: Testing
-labels: Testing
+publication: ICSE'14
+domain: Misc
+labels: Misc
 cites: 48
 score: 0
 
 title: Unit test virtualization with VMVM
-pub: ICSE'14
-target: Testing
-labels: Testing
+publication: ICSE'14
+domain: Misc
+labels: Misc
 cites: 71
 score: 0
 
-title: An analysis of the relationship between conditional entropy and failed error propagation in software testing
-pub: ICSE'14
-target: Testing
-labels: Testing
-cites: 47
-score: 0
-
 title: Detecting memory leaks through introspective dynamic behavior modelling using machine learning
-pub: ICSE'14
-target: Testing
+publication: ICSE'14
+domain: Testing
 labels: Testing
 cites: 25
 score: 0
 
 title: Automated memory leak detection for production use
-pub: ICSE'14
-target: Testing
+publication: ICSE'14
+domain: Testing
 labels: Testing
 cites: 33
 score: 0
 
 title: Exploring variability-aware execution for testing plugin-based web applications
-pub: ICSE'14
-target: Testing
-labels: Testing
+publication: ICSE'14
+domain: Testing
+labels: Web Application, Testing
 cites: 106
 score: 0
 
 title: Patch verification via multiversion interprocedural control flow graphs
-pub: ICSE'14
-target: Testing
-labels: Testing
+publication: ICSE'14
+domain: Testing
+labels: Testing, Verification, Program Analysis
 cites: 30
 score: 0
 
 title: Automated Modularization of GUI Test Cases
-pub: ICSE'15
-target: Testing
-labels: Testing
+publication: ICSE'15
+domain: Testing
+labels: Misc Testing
 cites: 8
 score: 0
 
 title: ZoomIn: Discovering Failures by Detecting Wrong Assertions
-pub: ICSE'15
-target: Testing
-labels: Testing
+publication: ICSE'15
+domain: Testing
+labels: Misc Testing
 cites: 10
 score: 0
 
 title: RECONTEST: Effective Regression Testing of Concurrent Programs
-pub: ICSE'15
-target: Testing
-labels: Testing
+publication: ICSE'15
+domain: Testing
+labels: Testing, Regression Testing, Concurrency
 cites: 29
 score: 0
 
 title: Detecting Inconsistencies in JavaScript MVC Applications
-pub: ICSE'15
-target: Testing
-labels: Testing
+publication: ICSE'15
+domain: Testing
+labels: Testing, JavaScript
 cites: 40
 score: 0
 
 title: No PAIN, No Gain? The Utility of PArallel Fault INjections
-pub: ICSE'15
-target: Testing
-labels: Testing
+publication: ICSE'15
+domain: Fault Injection
+labels: Fault Injection
 cites: 29
 score: 0
 
 title: A Flexible and Non-intrusive Approach for Computing Complex Structural Coverage Metrics
-pub: ICSE'15
-target: Testing
-labels: Testing
+publication: ICSE'15
+domain: Testing
+labels: Misc Testing
 cites: 9
 score: 0
 
 title: Combining Multi-Objective Search and Constraint Solving for Configuring Large Software Product Lines.
-pub: ICSE'15
-target: Testing
-labels: Testing
+publication: ICSE'15
+domain: Configuration
+labels: Configuration
 cites: 148
 score: 0
 
 title: A Genetic Algorithm for Detecting Significant Floating-Point Inaccuracies
-pub: ICSE'15
-target: Testing
+publication: ICSE'15
+domain: Testing
 labels: Testing
 cites: 25
 score: 0
 
 title: Learning Combinatorial Interaction Test Generation Strategies Using Hyperheuristic Search
-pub: ICSE'15
-target: Testing
-labels: Testing
+publication: ICSE'15
+domain: Generation
+labels: Generation
 cites: 90
 score: 0
 
 title: Dynamic data flow testing of object oriented systems
-pub: ICSE'15
-target: Testing
-labels: Testing
+publication: ICSE'15
+domain: Testing
+labels: Misc Testing
 cites: 30
 score: 0
 
 title: Representation dependence testing using program inversion
-pub: FSE'10
-target: Testing
-labels: Testing
+publication: FSE'10
+domain: Testing
+labels: Misc Testing
 cites: 12
 score: 0
 
 title: Practical and effective symbolic analysis for buffer overflow detection
-pub: FSE'10
-target: Testing
+publication: FSE'10
+domain: Testing
 labels: Testing
 cites: 36
 score: 0
 
 title: Improved multithreaded unit testing
-pub: FSE'11
-target: Testing
-labels: Testing
+publication: FSE'11
+domain: Testing
+labels: Testing, Concurrency
 cites: 62
 score: 0
 
 title: Path exploration based on symbolic output
-pub: FSE'11
-target: Testing
-labels: Testing
+publication: FSE'11
+domain: Symbolic Execution
+labels: Symbolic Execution
 cites: 52
 score: 0
 
 title: Testing mined specifications
-pub: FSE'11
-target: Testing
-labels: Testing
+publication: FSE'11
+domain: Testing
+labels: Testing, Formalization
 cites: 33
 score: 0
 
 title: CarFast: achieving higher statement coverage faster
-pub: FSE'12
-target: Testing
-labels: Testing
+publication: FSE'12
+domain: Test Acceration
+labels: Test Acceration
 cites: 63
 score: 0
 
 title: Efficiency and early fault detection with lower and higher strength combinatorial interaction testing
-pub: FSE'13
-target: Testing
+publication: FSE'13
+domain: Testing
 labels: Testing
 cites: 85
 score: 0
 
 title: KATCH: high-coverage testing of software patches
-pub: FSE'13
-target: Testing
-labels: Testing
+publication: FSE'13
+domain: Testing
+labels: Misc Testing
 cites: 123
 score: 0
 
 title: Differential assertion checking
-pub: FSE'13
-target: Testing
+publication: FSE'13
+domain: Testing
 labels: Testing
 cites: 107
 score: 0
 
 title: Server interface descriptions for automated testing of JavaScript web applications
-pub: FSE'13
-target: Testing
-labels: Testing
+publication: FSE'13
+domain: Testing
+labels: Testing, JavaScript, Web Application
 cites: 15
 score: 0
 
 title: A foundation for refactoring C with macros
-pub: FSE'14
-target: Testing
+publication: FSE'14
+domain: Testing
 labels: Testing
 cites: 14
 score: 0
 
 title: Improving oracle quality by detecting brittle assertions and unused inputs in tests
-pub: FSE'14
-target: Testing
+publication: FSE'14
+domain: Testing
 labels: Testing
 cites: 32
 score: 0
 
 title: Test report prioritization to assist crowdsourced testing
-pub: FSE'15
-target: Testing
+publication: FSE'15
+domain: Testing
 labels: Testing
 cites: 49
 score: 0
 
 title: Turning programs against each other: high coverage fuzz-testing using binary-code mutation and dynamic slicing
-pub: FSE'15
-target: Testing
+publication: FSE'15
+domain: Testing
 labels: Testing
 cites: 49
 score: 0
 
 title: Falcon: fault localization in concurrent programs
-pub: ICSE'10
-target: Bug localization
+publication: ICSE'10
+domain: Bug localization
 labels: Bug localization
 cites: 150
 score: 0
 
 title: Adaptive bug isolation
-pub: ICSE'10
-target: Bug localization
+publication: ICSE'10
+domain: Bug localization
 labels: Bug localization
 cites: 67
 score: 0
 
 title: Practical fault localization for dynamic web applications
-pub: ICSE'10
-target: Bug localization
+publication: ICSE'10
+domain: Bug localization
 labels: Bug localization
 cites: 96
 score: 0
 
 title: Where should the bugs be fixed? More accurate information retrieval-based bug localization based on bug reports
-pub: ICSE'12
-target: Bug localization
+publication: ICSE'12
+domain: Bug localization
 labels: Bug localization
 cites: 450
 score: 0
 
 title: Developer prioritization in bug repositories
-pub: ICSE'12
-target: Bug localization
+publication: ICSE'12
+domain: Bug localization
 labels: Bug localization
 cites: 169
 score: 0
 
 title: WhoseFault: Automatic developer-to-fault assignment through fault localization
-pub: ICSE'12
-target: Bug localization
+publication: ICSE'12
+domain: Bug localization
 labels: Bug localization
 cites: 60
 score: 0
 
 title: Test case purification for improving fault localization
-pub: FSE'14
-target: Bug localization
+publication: FSE'14
+domain: Bug localization
 labels: Bug localization
 cites: 129
 score: 0
 
 title: Static extraction of program configuration options
-pub: ICSE'11
-target: Debugging
+publication: ICSE'11
+domain: Debugging
 labels: Debugging
 cites: 107
 score: 0
 
 title: An empirical study of build maintenance effort
-pub: ICSE'11
-target: Debugging
+publication: ICSE'11
+domain: Debugging
 labels: Debugging
 cites: 126
 score: 0
 
 title: Reducing confounding bias in predicate-level statistical debugging metrics
-pub: ICSE'12
-target: Debugging
+publication: ICSE'12
+domain: Debugging
 labels: Debugging
 cites: 38
 score: 0
 
 title: BugRedux: Reproducing field failures for in-house debugging
-pub: ICSE'12
-target: Debugging
+publication: ICSE'12
+domain: Debugging
 labels: Debugging
 cites: 194
 score: 0
 
 title: Object-centric debugging
-pub: ICSE'12
-target: Debugging
+publication: ICSE'12
+domain: Debugging
 labels: Debugging
 cites: 74
 score: 0
 
 title: Partial replay of long-running applications
-pub: FSE'11
-target: Debugging
+publication: FSE'11
+domain: Debugging
 labels: Debugging
 cites: 23
 score: 0
 
 title: Model checking lots of systems: efficient verification of temporal properties in software product lines
-pub: ICSE'10
-target: Verification/Formalization
+publication: ICSE'10
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 356
 score: 0
 
 title: Symbolic model checking of software product lines
-pub: ICSE'11
-target: Verification/Formalization
+publication: ICSE'11
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 256
 score: 0
 
 title: Verifying multi-threaded software using smt-based context-bounded model checking
-pub: ICSE'11
-target: Verification/Formalization
+publication: ICSE'11
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 166
 score: 0
 
 title: Run-time efficient probabilistic model checking
-pub: ICSE'11
-target: Verification/Formalization
+publication: ICSE'11
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 194
 score: 0
 
 title: Matching logic: a new program verification approach
-pub: ICSE'11
-target: Verification/Formalization
+publication: ICSE'11
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 63
 score: 0
 
 title: abstractions for software product-line model checking
-pub: Simulation-based
-target: Verification/Formalization
+publication: Simulation-based
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 77
 score: 0
 
 title: Unifying execution of imperative and declarative code.
-pub: ICSE'11
-target: Verification/Formalization
+publication: ICSE'11
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 50
 score: 0
 
 title: An automated approach to generating efficient constraint solvers
-pub: ICSE'12
-target: Verification/Formalization
+publication: ICSE'12
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 12
 score: 0
 
 title: Efficient Scalable Verification of LTL Specifications
-pub: ICSE'15
-target: Verification/Formalization
+publication: ICSE'15
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 14
 score: 0
 
 title: Specifying Event-Based Systems with a Counting Fluent Temporal Logic
-pub: ICSE'15
-target: Verification/Formalization
+publication: ICSE'15
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 8
 score: 0
 
 title: Scalable SMT-based verification of GPU kernel functions
-pub: FSE'10
-target: Verification/Formalization
+publication: FSE'10
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 124
 score: 0
 
 title: CSSL: a logic for specifying conditional scenarios
-pub: FSE'11
-target: Verification/Formalization
+publication: FSE'11
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 12
 score: 0
 
 title: Modeling the HTML DOM and browser API in static analysis of JavaScript web applications
-pub: FSE'11
-target: Verification/Formalization
+publication: FSE'11
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 129
 score: 0
 
 title: Conditional model checking: a technique to pass information between verifiers
-pub: FSE'12
-target: Verification/Formalization
+publication: FSE'12
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 87
 score: 0
 
 title: Termination proofs from tests
-pub: FSE'13
-target: Verification/Formalization
+publication: FSE'13
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 27
 score: 0
 
 title: Verifying CTL-live properties of infinite state models using an SMT solver
-pub: FSE'14
-target: Verification/Formalization
+publication: FSE'14
+domain: Verification/Formalization
 labels: Verification/Formalization
 cites: 6
 score: 0
 
 title: Uncovering performance problems in Java applications with reference propagation profiling
-pub: ICSE'12
-target: Performance
+publication: ICSE'12
+domain: Performance
 labels: Performance
 cites: 56
 score: 0
 
 title: Performance debugging in the large via mining millions of stack traces
-pub: ICSE'12
-target: Performance
+publication: ICSE'12
+domain: Performance
 labels: Performance
 cites: 170
 score: 0
 
 title: Automatically finding performance problems with feedback-directed learning software testing
-pub: ICSE'12
-target: Performance
+publication: ICSE'12
+domain: Performance
 labels: Performance
 cites: 111
 score: 0
 
 title: Predicting performance via automated feature-interaction detection
-pub: ICSE'12
-target: Performance
+publication: ICSE'12
+domain: Performance
 labels: Performance
 cites: 213
 score: 0
 
 title: Performance regression testing target prioritization via performance risk analysis
-pub: ICSE'14
-target: Performance
+publication: ICSE'14
+domain: Performance
 labels: Performance
 cites: 54
 score: 0
 
 title: Finding latent performance bugs in systems implementations
-pub: FSE'10
-target: Performance
+publication: FSE'10
+domain: Performance
 labels: Performance
 cites: 71
 score: 0
 
 title: LEAKPOINT: pinpointing the causes of memory leaks
-pub: ICSE'10
-target: Program Analysis
+publication: ICSE'10
+domain: Program Analysis
 labels: Program Analysis
 cites: 91
 score: 0
 
 title: Precise calling context encoding
-pub: ICSE'10
-target: Program Analysis
+publication: ICSE'10
+domain: Program Analysis
 labels: Program Analysis
 cites: 70
 score: 0
 
 title: Effective interprocedural resource leak detection
-pub: ICSE'10
-target: Program Analysis
+publication: ICSE'10
+domain: Program Analysis
 labels: Program Analysis
 cites: 59
 score: 0
 
 title: Inference of field initialization
-pub: ICSE'11
-target: Program Analysis
+publication: ICSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 21
 score: 0
 
 title: Taming reflection: Aiding static analysis in the presence of reflection and custom class loaders
-pub: ICSE'11
-target: Program Analysis
+publication: ICSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 228
 score: 0
 
 title: Patching vulnerabilities with sanitization synthesis
-pub: ICSE'11
-target: Program Analysis
+publication: ICSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 60
 score: 0
 
 title: Model projection: simplifying models in response to restricting the environment
-pub: ICSE'11
-target: Program Analysis
+publication: ICSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 32
 score: 0
 
 title: Program abstractions for behaviour validation
-pub: ICSE'11
-target: Program Analysis
+publication: ICSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 23
 score: 0
 
 title: Code coverage analysis in practice for large systems
-pub: ICSE'11
-target: Program Analysis
+publication: ICSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 12
 score: 0
 
 title: Practical change impact analysis based on static program slicing for industrial software systems
-pub: ICSE'11
-target: Program Analysis
+publication: ICSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 132
 score: 0
 
 title: Value-based program characterization and its application to software plagiarism detection
-pub: ICSE'11
-target: Program Analysis
+publication: ICSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 86
 score: 0
 
 title: Automatically detecting and describing high level actions within methods
-pub: ICSE'11
-target: Program Analysis
+publication: ICSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 143
 score: 0
 
 title: Graph-based analysis and prediction for software evolution
-pub: ICSE'12
-target: Program Analysis
+publication: ICSE'12
+domain: Program Analysis
 labels: Program Analysis
 cites: 212
 score: 0
 
 title: Build code analysis with symbolic evaluation
-pub: ICSE'12
-target: Program Analysis
+publication: ICSE'12
+domain: Program Analysis
 labels: Program Analysis
 cites: 62
 score: 0
 
 title: Using dynamic analysis to discover polynomial and array invariants
-pub: ICSE'12
-target: Program Analysis
+publication: ICSE'12
+domain: Program Analysis
 labels: Program Analysis
 cites: 74
 score: 0
 
 title: Generating obstacle conditions for requirements completeness
-pub: ICSE'12
-target: Program Analysis
+publication: ICSE'12
+domain: Program Analysis
 labels: Program Analysis
 cites: 39
 score: 0
 
 title: Inferring class level specifications for distributed systems
-pub: ICSE'12
-target: Program Analysis
+publication: ICSE'12
+domain: Program Analysis
 labels: Program Analysis
 cites: 28
 score: 0
 
 title: Statically checking API protocol conformance with mined multi-object specifications
-pub: ICSE'12
-target: Program Analysis
+publication: ICSE'12
+domain: Program Analysis
 labels: Program Analysis
 cites: 85
 score: 0
 
 title: Detecting spurious counterexamples efficiently in abstract model checking
-pub: ICSE'13
-target: Program Analysis
+publication: ICSE'13
+domain: Program Analysis
 labels: Program Analysis
 cites: 21
 score: 0
 
 title: Segmented symbolic analysis
-pub: ICSE'13
-target: Program Analysis
+publication: ICSE'13
+domain: Program Analysis
 labels: Program Analysis
 cites: 18
 score: 0
 
 title: Using dynamic analysis to generate disjunctive invariants
-pub: ICSE'14
-target: Program Analysis
+publication: ICSE'14
+domain: Program Analysis
 labels: Program Analysis
 cites: 28
 score: 0
 
 title: Inductive verification of data model invariants for web applications
-pub: ICSE'14
-target: Program Analysis
+publication: ICSE'14
+domain: Program Analysis
 labels: Program Analysis
 cites: 17
 score: 0
 
 title: TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript
-pub: ICSE'15
-target: Program Analysis
+publication: ICSE'15
+domain: Program Analysis
 labels: Program Analysis
 cites: 59
 score: 0
 
 title: Proving programs robust
-pub: FSE'11
-target: Program Analysis
+publication: FSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 134
 score: 0
 
 title: Checking conformance of a producer and a consumer
-pub: FSE'11
-target: Program Analysis
+publication: FSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 14
 score: 0
 
 title: Managing performance vs. accuracy trade-offs with loop perforation
-pub: FSE'11
-target: Program Analysis
+publication: FSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 493
 score: 0
 
 title: Boosting the performance of flow-sensitive points-to analysis using value flow
-pub: FSE'11
-target: Program Analysis
+publication: FSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 79
 score: 0
 
 title: Automating presentation changes in dynamic web applications via collaborative hybrid analysis
-pub: FSE'11
-target: Program Analysis
+publication: FSE'11
+domain: Program Analysis
 labels: Program Analysis
 cites: 47
 score: 0
 
 title: Green: reducing, reusing and recycling constraints in program analysis
-pub: FSE'12
-target: Program Analysis
+publication: FSE'12
+domain: Program Analysis
 labels: Program Analysis
 cites: 134
 score: 0
 
 title: Bayesian inference using data flow analysis
-pub: FSE'13
-target: Program Analysis
+publication: FSE'13
+domain: Program Analysis
 labels: Program Analysis
 cites: 59
 score: 0
 
 title: Second-order constraints in dynamic invariant inference
-pub: FSE'13
-target: Program Analysis
+publication: FSE'13
+domain: Program Analysis
 labels: Program Analysis
 cites: 8
 score: 0
 
 title: Z3-str: a z3-based string solver for web application analysis
-pub: FSE'13
-target: Program Analysis
+publication: FSE'13
+domain: Program Analysis
 labels: Program Analysis
 cites: 202
 score: 0
 
 title: Effective dynamic detection of alias analysis errors
-pub: FSE'13
-target: Program Analysis
+publication: FSE'13
+domain: Program Analysis
 labels: Program Analysis
 cites: 17
 score: 0
 
 title: Practical static analysis of JavaScript applications in the presence of frameworks and libraries
-pub: FSE'13
-target: Program Analysis
+publication: FSE'13
+domain: Program Analysis
 labels: Program Analysis
 cites: 114
 score: 0
 
 title: Automatically computing path complexity of programs
-pub: FSE'15
-target: Program Analysis
+publication: FSE'15
+domain: Program Analysis
 labels: Program Analysis
 cites: 12
 score: 0
 
 title: A user-guided approach to program analysis
-pub: FSE'15
-target: Program Analysis
+publication: FSE'15
+domain: Program Analysis
 labels: Program Analysis
 cites: 66
 score: 0
 
 title: Automated concolic testing of smartphone apps
-pub: FSE'12
-target: Concolic Testing
+publication: FSE'12
+domain: Concolic Testing
 labels: Concolic Testing
 cites: 400
 score: 0
 
 title: Con2colic testing
-pub: FSE'13
-target: Concolic Testing
+publication: FSE'13
+domain: Concolic Testing
 labels: Concolic Testing
 cites: 70
 score: 0
 
 title: Boosting concolic testing via interpolation
-pub: FSE'13
-target: Concolic Testing
+publication: FSE'13
+domain: Concolic Testing
 labels: Concolic Testing
 cites: 62
 score: 0
 
 title: How we get there: a context-guided search strategy in concolic testing
-pub: FSE'14
-target: Concolic Testing
+publication: FSE'14
+domain: Concolic Testing
 labels: Concolic Testing
 cites: 59
 score: 0
 
 title: Enhancing symbolic execution with veritesting
-pub: ICSE'14
-target: Symbolic Execution
+publication: ICSE'14
+domain: Symbolic Execution
 labels: Symbolic Execution
 cites: 236
 score: 0
 
 title: Combining Symbolic Execution and Model Checking for Data Flow Testing
-pub: ICSE'15
-target: Symbolic Execution
+publication: ICSE'15
+domain: Symbolic Execution
 labels: Symbolic Execution
 cites: 49
 score: 0
 
 title: Enhancing symbolic execution with built-in term rewriting and constrained lazy initialization
-pub: FSE'13
-target: Symbolic Execution
+publication: FSE'13
+domain: Symbolic Execution
 labels: Symbolic Execution
 cites: 29
 score: 0
 
 title: Explicating symbolic execution (xSymExe): an evidence-based verification framework
-pub: ICSE'13
-target: Symbolic Execution
+publication: ICSE'13
+domain: Symbolic Execution
 labels: Symbolic Execution
 cites: 10
 score: 0
 
 title: Solving complex path conditions through heuristic search on induced polytopes
-pub: FSE'14
-target: Symbolic Execution
+publication: FSE'14
+domain: Symbolic Execution
 labels: Symbolic Execution
 cites: 36
 score: 0
 
 title: Statistical symbolic execution with informed sampling
-pub: FSE'14
-target: Symbolic Execution
+publication: FSE'14
+domain: Symbolic Execution
 labels: Symbolic Execution
 cites: 29
 score: 0
 
 title: SymJS: automatic symbolic testing of JavaScript web applications
-pub: FSE'14
-target: Symbolic Execution
+publication: FSE'14
+domain: Symbolic Execution
 labels: Symbolic Execution
 cites: 87
 score: 0
 
 title: Symbolic execution of programs with heap inputs
-pub: FSE'15
-target: Symbolic Execution
+publication: FSE'15
+domain: Symbolic Execution
 labels: Symbolic Execution
 cites: 24
 score: 0
 
 title: Assertion guided symbolic execution of multithreaded programs
-pub: FSE'15
-target: Symbolic Execution
+publication: FSE'15
+domain: Symbolic Execution
 labels: Symbolic Execution
 cites: 47
 score: 0
 
 title: On software component co-installability
-pub: FSE'11
-target: Misc
+publication: FSE'11
+domain: Misc
 labels: Misc
 cites: 26
 score: 0
 
 title: Detecting and analyzing insecure component usage
-pub: FSE'11
-target: Misc
+publication: FSE'11
+domain: Misc
 labels: Misc
 cites: 1
 score: 0
 
 title: AI: a lightweight system for tolerating concurrency bugs
-pub: FSE'14
-target: Misc
+publication: FSE'14
+domain: Misc
 labels: Misc
 cites: 20
 score: 0
 
 title: Beyond the rainbow: self-adaptive failure avoidance in configurable systems
-pub: FSE'14
-target: Misc
+publication: FSE'14
+domain: Misc
 labels: Misc
 cites: 32
 score: 0
 
 title: Cross-language program slicing for dynamic web applications
-pub: FSE'15
-target: Misc
+publication: FSE'15
+domain: Misc
 labels: Misc
 cites: 33
 score: 0
