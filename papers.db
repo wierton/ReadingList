@@ -483,79 +483,72 @@ score: 0
 
 title: Test report prioritization to assist crowdsourced testing
 publication: FSE'15
-domain: Testing
-labels: Testing
+domain: Testcase Prioritization
+labels: Testcase Prioritization
 cites: 49
 score: 0
 
 title: Turning programs against each other: high coverage fuzz-testing using binary-code mutation and dynamic slicing
 publication: FSE'15
-domain: Testing
-labels: Testing
+domain: Fuzzing
+labels: Fuzzing
 cites: 49
 score: 0
 
 title: Falcon: fault localization in concurrent programs
 publication: ICSE'10
-domain: Bug localization
-labels: Bug localization
+domain: Fault Localization
+labels: Fault Localization, Concurrency
 cites: 150
 score: 0
 
 title: Adaptive bug isolation
 publication: ICSE'10
-domain: Bug localization
-labels: Bug localization
+domain: Fault Localization
+labels: Fault Localization
 cites: 67
 score: 0
 
 title: Practical fault localization for dynamic web applications
 publication: ICSE'10
-domain: Bug localization
-labels: Bug localization
+domain: Fault Localization
+labels: Fault Localization
 cites: 96
 score: 0
 
 title: Where should the bugs be fixed? More accurate information retrieval-based bug localization based on bug reports
 publication: ICSE'12
-domain: Bug localization
-labels: Bug localization
+domain: Fault Localization
+labels: Fault Localization
 cites: 450
 score: 0
 
 title: Developer prioritization in bug repositories
 publication: ICSE'12
-domain: Bug localization
-labels: Bug localization
+domain: Fault Localization
+labels: Fault Localization
 cites: 169
 score: 0
 
 title: WhoseFault: Automatic developer-to-fault assignment through fault localization
 publication: ICSE'12
-domain: Bug localization
-labels: Bug localization
+domain: Fault Localization
+labels: Fault Localization
 cites: 60
 score: 0
 
 title: Test case purification for improving fault localization
 publication: FSE'14
-domain: Bug localization
-labels: Bug localization
+domain: Fault Localization
+labels: Fault Localization
 cites: 129
 score: 0
 
 title: Static extraction of program configuration options
 publication: ICSE'11
 domain: Debugging
-labels: Debugging
+labels: Debugging, Configuration
 cites: 107
-score: 0
-
-title: An empirical study of build maintenance effort
-publication: ICSE'11
-domain: Debugging
-labels: Debugging
-cites: 126
 score: 0
 
 title: Reducing confounding bias in predicate-level statistical debugging metrics
@@ -581,120 +574,120 @@ score: 0
 
 title: Partial replay of long-running applications
 publication: FSE'11
-domain: Debugging
-labels: Debugging
+domain: Replay
+labels: Debugging, Replay
 cites: 23
 score: 0
 
 title: Model checking lots of systems: efficient verification of temporal properties in software product lines
 publication: ICSE'10
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification
 cites: 356
 score: 0
 
 title: Symbolic model checking of software product lines
 publication: ICSE'11
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification
 cites: 256
 score: 0
 
 title: Verifying multi-threaded software using smt-based context-bounded model checking
 publication: ICSE'11
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification
 cites: 166
 score: 0
 
 title: Run-time efficient probabilistic model checking
 publication: ICSE'11
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification
 cites: 194
 score: 0
 
 title: Matching logic: a new program verification approach
 publication: ICSE'11
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification, Formalization
 cites: 63
 score: 0
 
 title: abstractions for software product-line model checking
 publication: Simulation-based
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification
 cites: 77
 score: 0
 
 title: Unifying execution of imperative and declarative code.
 publication: ICSE'11
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification
 cites: 50
 score: 0
 
 title: An automated approach to generating efficient constraint solvers
 publication: ICSE'12
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: SMT
+labels: SMT
 cites: 12
 score: 0
 
 title: Efficient Scalable Verification of LTL Specifications
 publication: ICSE'15
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification
 cites: 14
 score: 0
 
 title: Specifying Event-Based Systems with a Counting Fluent Temporal Logic
 publication: ICSE'15
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification
 cites: 8
 score: 0
 
 title: Scalable SMT-based verification of GPU kernel functions
 publication: FSE'10
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification, SMT
 cites: 124
 score: 0
 
 title: CSSL: a logic for specifying conditional scenarios
 publication: FSE'11
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Formalization
+labels: Formalization
 cites: 12
 score: 0
 
 title: Modeling the HTML DOM and browser API in static analysis of JavaScript web applications
 publication: FSE'11
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Formalization
+labels: Formalization
 cites: 129
 score: 0
 
 title: Conditional model checking: a technique to pass information between verifiers
 publication: FSE'12
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification
 cites: 87
 score: 0
 
 title: Termination proofs from tests
 publication: FSE'13
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification
 cites: 27
 score: 0
 
 title: Verifying CTL-live properties of infinite state models using an SMT solver
 publication: FSE'14
-domain: Verification/Formalization
-labels: Verification/Formalization
+domain: Verification
+labels: Verification
 cites: 6
 score: 0
 
@@ -820,7 +813,7 @@ score: 0
 title: Automatically detecting and describing high level actions within methods
 publication: ICSE'11
 domain: Program Analysis
-labels: Program Analysis
+labels: Program Analysis, Program Comprehension
 cites: 143
 score: 0
 
@@ -834,14 +827,14 @@ score: 0
 title: Build code analysis with symbolic evaluation
 publication: ICSE'12
 domain: Program Analysis
-labels: Program Analysis
+labels: Program Analysis, Symbolic Execution
 cites: 62
 score: 0
 
 title: Using dynamic analysis to discover polynomial and array invariants
 publication: ICSE'12
 domain: Program Analysis
-labels: Program Analysis
+labels: Program Analysis, Invariant Deduction
 cites: 74
 score: 0
 
@@ -883,21 +876,21 @@ score: 0
 title: Using dynamic analysis to generate disjunctive invariants
 publication: ICSE'14
 domain: Program Analysis
-labels: Program Analysis
+labels: Program Analysis, Invariant Deduction
 cites: 28
 score: 0
 
 title: Inductive verification of data model invariants for web applications
 publication: ICSE'14
 domain: Program Analysis
-labels: Program Analysis
+labels: Program Analysis, Invariant Deduction
 cites: 17
 score: 0
 
 title: TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript
 publication: ICSE'15
 domain: Program Analysis
-labels: Program Analysis
+labels: Program Analysis, JavaScript
 cites: 59
 score: 0
 
@@ -918,7 +911,7 @@ score: 0
 title: Managing performance vs. accuracy trade-offs with loop perforation
 publication: FSE'11
 domain: Program Analysis
-labels: Program Analysis
+labels: Program Analysis, Performance
 cites: 493
 score: 0
 
@@ -1092,28 +1085,28 @@ score: 0
 
 title: Detecting and analyzing insecure component usage
 publication: FSE'11
-domain: Misc
-labels: Misc
+domain: Testing
+labels: Misc Testing
 cites: 1
 score: 0
 
 title: AI: a lightweight system for tolerating concurrency bugs
 publication: FSE'14
-domain: Misc
-labels: Misc
+domain: Testing
+labels: Misc Testing
 cites: 20
 score: 0
 
 title: Beyond the rainbow: self-adaptive failure avoidance in configurable systems
 publication: FSE'14
-domain: Misc
-labels: Misc
+domain: Repair
+labels: Repair, Configuration
 cites: 32
 score: 0
 
 title: Cross-language program slicing for dynamic web applications
 publication: FSE'15
-domain: Misc
-labels: Misc
+domain: Program Slicing
+labels: Program Slicing
 cites: 33
 score: 0
