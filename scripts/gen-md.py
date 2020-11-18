@@ -24,8 +24,11 @@ class Paper:
 
 
 class Renderer:
-    def __init__(self):
-        pass
+    curdir=''
+    def __init__(self, curdir):
+        self.curdir = curdir
+    def compute_relative_path(self, path):
+        return os.path.relpath(path, self.curdir)
     def google_scholar_query_url(self, query):
         google_scholar_query_prefix = 'https://scholar.google.com/scholar?q='
         words = re.split('\s+', query.strip())
@@ -37,7 +40,10 @@ class Renderer:
     def quote_label(self, label):
         return re.sub('\s+', '-', label)
     def render_label(self, label):
-        return '[{0}](labels/{0}.md)'.format(self.quote_label(label))
+        label = self.quote_label(label)
+        path = 'docs/labels/' + label + '.md'
+        return '[{}]({})'.format(label,
+                self.compute_relative_path(path))
     def render_conference(self, conf_year):
         urlpfx = 'https://dblp.org/db/conf/'
         configs = {
@@ -112,7 +118,7 @@ def generate_readinglist_md(papers):
     fp = open('docs/ReadingList.md', 'w+')
     fp.write('# total list\n')
     fp.write('\n')
-    renderer = Renderer()
+    renderer = Renderer('docs/')
     fp.write(renderer.render_papers_as_table(papers))
     fp.close()
 
@@ -123,7 +129,7 @@ def generate_md_by_labels(papers):
             label2paper.setdefault(label, [])
             label2paper[label].append(paper)
     os.system('mkdir -p docs/labels')
-    renderer = Renderer()
+    renderer = Renderer('docs/labels/')
     for label in label2paper.keys():
         fp = open('docs/labels/{}.md'.format(
             renderer.quote_label(label)), 'w+')
