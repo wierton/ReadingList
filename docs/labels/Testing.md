@@ -1,0 +1,18 @@
+# Testing
+
+* ICSE'12 [CBCD: Cloned buggy code detector](https://scholar.google.com/scholar?q=CBCD%3A+Cloned+buggy+code+detector)
+* ICSE'14 [Detecting memory leaks through introspective dynamic behavior modelling using machine learning](https://scholar.google.com/scholar?q=Detecting+memory+leaks+through+introspective+dynamic+behavior+modelling+using+machine+learning)
+* ICSE'14 [Automated memory leak detection for production use](https://scholar.google.com/scholar?q=Automated+memory+leak+detection+for+production+use)
+* ICSE'14 [Exploring variability-aware execution for testing plugin-based web applications](https://scholar.google.com/scholar?q=Exploring+variability-aware+execution+for+testing+plugin-based+web+applications)
+* ICSE'14 [Patch verification via multiversion interprocedural control flow graphs](https://scholar.google.com/scholar?q=Patch+verification+via+multiversion+interprocedural+control+flow+graphs)
+* ICSE'15 [RECONTEST: Effective Regression Testing of Concurrent Programs](https://scholar.google.com/scholar?q=RECONTEST%3A+Effective+Regression+Testing+of+Concurrent+Programs)
+* ICSE'15 [Detecting Inconsistencies in JavaScript MVC Applications](https://scholar.google.com/scholar?q=Detecting+Inconsistencies+in+JavaScript+MVC+Applications)
+* ICSE'15 [A Genetic Algorithm for Detecting Significant Floating-Point Inaccuracies](https://scholar.google.com/scholar?q=A+Genetic+Algorithm+for+Detecting+Significant+Floating-Point+Inaccuracies)
+* FSE'10 [Practical and effective symbolic analysis for buffer overflow detection](https://scholar.google.com/scholar?q=Practical+and+effective+symbolic+analysis+for+buffer+overflow+detection)
+* FSE'11 [Improved multithreaded unit testing](https://scholar.google.com/scholar?q=Improved+multithreaded+unit+testing)
+* FSE'11 [Testing mined specifications](https://scholar.google.com/scholar?q=Testing+mined+specifications)
+* FSE'13 [Efficiency and early fault detection with lower and higher strength combinatorial interaction testing](https://scholar.google.com/scholar?q=Efficiency+and+early+fault+detection+with+lower+and+higher+strength+combinatorial+interaction+testing)
+* FSE'13 [Differential assertion checking](https://scholar.google.com/scholar?q=Differential+assertion+checking)
+* FSE'13 [Server interface descriptions for automated testing of JavaScript web applications](https://scholar.google.com/scholar?q=Server+interface+descriptions+for+automated+testing+of+JavaScript+web+applications)
+* FSE'14 [A foundation for refactoring C with macros](https://scholar.google.com/scholar?q=A+foundation+for+refactoring+C+with+macros)
+* FSE'14 [Improving oracle quality by detecting brittle assertions and unused inputs in tests](https://scholar.google.com/scholar?q=Improving+oracle+quality+by+detecting+brittle+assertions+and+unused+inputs+in+tests)

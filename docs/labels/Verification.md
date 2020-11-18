@@ -1,0 +1,16 @@
+# Verification
+
+* ICSE'14 [Patch verification via multiversion interprocedural control flow graphs](https://scholar.google.com/scholar?q=Patch+verification+via+multiversion+interprocedural+control+flow+graphs)
+* ICSE'10 [Model checking lots of systems: efficient verification of temporal properties in software product lines](https://scholar.google.com/scholar?q=Model+checking+lots+of+systems%3A+efficient+verification+of+temporal+properties+in+software+product+lines)
+* ICSE'11 [Symbolic model checking of software product lines](https://scholar.google.com/scholar?q=Symbolic+model+checking+of+software+product+lines)
+* ICSE'11 [Verifying multi-threaded software using smt-based context-bounded model checking](https://scholar.google.com/scholar?q=Verifying+multi-threaded+software+using+smt-based+context-bounded+model+checking)
+* ICSE'11 [Run-time efficient probabilistic model checking](https://scholar.google.com/scholar?q=Run-time+efficient+probabilistic+model+checking)
+* ICSE'11 [Matching logic: a new program verification approach](https://scholar.google.com/scholar?q=Matching+logic%3A+a+new+program+verification+approach)
+* ICSE'12 [Simulation-based abstractions for software product-line model checking](https://scholar.google.com/scholar?q=Simulation-based+abstractions+for+software+product-line+model+checking)
+* ICSE'11 [Unifying execution of imperative and declarative code.](https://scholar.google.com/scholar?q=Unifying+execution+of+imperative+and+declarative+code.)
+* ICSE'15 [Efficient Scalable Verification of LTL Specifications](https://scholar.google.com/scholar?q=Efficient+Scalable+Verification+of+LTL+Specifications)
+* ICSE'15 [Specifying Event-Based Systems with a Counting Fluent Temporal Logic](https://scholar.google.com/scholar?q=Specifying+Event-Based+Systems+with+a+Counting+Fluent+Temporal+Logic)
+* FSE'10 [Scalable SMT-based verification of GPU kernel functions](https://scholar.google.com/scholar?q=Scalable+SMT-based+verification+of+GPU+kernel+functions)
+* FSE'12 [Conditional model checking: a technique to pass information between verifiers](https://scholar.google.com/scholar?q=Conditional+model+checking%3A+a+technique+to+pass+information+between+verifiers)
+* FSE'13 [Termination proofs from tests](https://scholar.google.com/scholar?q=Termination+proofs+from+tests)
+* FSE'14 [Verifying CTL-live properties of infinite state models using an SMT solver](https://scholar.google.com/scholar?q=Verifying+CTL-live+properties+of+infinite+state+models+using+an+SMT+solver)

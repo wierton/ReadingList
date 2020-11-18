@@ -1,0 +1,17 @@
+# Repair
+
+* ICSE'12 [Generating range fixes for software configuration](https://scholar.google.com/scholar?q=Generating+range+fixes+for+software+configuration)
+* ICSE'12 [Axis: Automatically fixing atomicity violations through solving control constraints](https://scholar.google.com/scholar?q=Axis%3A+Automatically+fixing+atomicity+violations+through+solving+control+constraints)
+* ICSE'13 [Feedback-directed unit test generation for C/C++ using concolic execution](https://scholar.google.com/scholar?q=Feedback-directed+unit+test+generation+for+C/C%2B%2B+using+concolic+execution)
+* ICSE'13 [SemFix: program repair via semantic analysis](https://scholar.google.com/scholar?q=SemFix%3A+program+repair+via+semantic+analysis)
+* ICSE'13 [Automatic recovery from runtime failures](https://scholar.google.com/scholar?q=Automatic+recovery+from+runtime+failures)
+* ICSE'13 [Program transformations to fix C integers](https://scholar.google.com/scholar?q=Program+transformations+to+fix+C+integers)
+* ICSE'13 [Automatic patch generation learned from human-written patches](https://scholar.google.com/scholar?q=Automatic+patch+generation+learned+from+human-written+patches)
+* ICSE'14 [MintHint: automated synthesis of repair hints](https://scholar.google.com/scholar?q=MintHint%3A+automated+synthesis+of+repair+hints)
+* ICSE'15 [DirectFix: Looking for Simple Program Repairs](https://scholar.google.com/scholar?q=DirectFix%3A+Looking+for+Simple+Program+Repairs)
+* ICSE'15 [Safe Memory-Leak Fixing for C Programs](https://scholar.google.com/scholar?q=Safe+Memory-Leak+Fixing+for+C+Programs)
+* FSE'14 [Grail: context-aware fixing of concurrency bugs](https://scholar.google.com/scholar?q=Grail%3A+context-aware+fixing+of+concurrency+bugs)
+* FSE'15 [Staged program repair with condition synthesis](https://scholar.google.com/scholar?q=Staged+program+repair+with+condition+synthesis)
+* FSE'15 [CLOTHO: saving programs from malformed strings and incorrect string-handling](https://scholar.google.com/scholar?q=CLOTHO%3A+saving+programs+from+malformed+strings+and+incorrect+string-handling)
+* ICSE'12 [Automated repair of HTML generation errors in PHP applications using string constraint solving](https://scholar.google.com/scholar?q=Automated+repair+of+HTML+generation+errors+in+PHP+applications+using+string+constraint+solving)
+* FSE'14 [Beyond the rainbow: self-adaptive failure avoidance in configurable systems](https://scholar.google.com/scholar?q=Beyond+the+rainbow%3A+self-adaptive+failure+avoidance+in+configurable+systems)
