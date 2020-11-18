@@ -1,3 +1,5 @@
 # Replay
 
-* [FSE'11](https://dblp.org/db/conf/sigsoft/fse2011.html) [Partial replay of long-running applications](https://scholar.google.com/scholar?q=Partial+replay+of+long-running+applications)
+|pub|labels|cites|score|title|
+|---|------|-----|-----|-----|
+|[FSE'11](https://dblp.org/db/conf/sigsoft/fse2011.html)|[Debugging](labels/Debugging.md), [Replay](labels/Replay.md)|23|0|[Partial replay of long-running applications](https://scholar.google.com/scholar?q=Partial+replay+of+long-running+applications)|

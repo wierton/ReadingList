@@ -59,6 +59,24 @@ class Renderer:
         else:
             url = info[0].replace('%y', year)
             return '[{}]({})'.format(conf_year, url)
+    def render_paper_as_table_entry(self, paper):
+        pub = self.render_conference(paper.pub)
+        labels = []
+        for label in paper.labels:
+            labels.append(self.render_label(label))
+        labels = ', '.join(labels)
+        cites = paper.cites
+        score = paper.score
+        title = self.render_title(paper.title)
+        return '|{}|{}|{}|{}|{}|\n'.format(
+            pub, labels, cites, score, title)
+    def render_papers_as_table(self, papers):
+        ret_table = ''
+        ret_table += '|pub|labels|cites|score|title|\n'
+        ret_table += '|---|------|-----|-----|-----|\n'
+        for paper in papers:
+            ret_table += self.render_paper_as_table_entry(paper)
+        return ret_table
 
 def parse_dbfile(fname):
     papers=[]
@@ -92,20 +110,8 @@ def generate_readinglist_md(papers):
     fp = open('docs/ReadingList.md', 'w+')
     fp.write('# total list\n')
     fp.write('\n')
-    fp.write('|pub|labels|cites|score|title|\n')
-    fp.write('|---|------|-----|-----|-----|\n')
     renderer = Renderer()
-    for paper in papers:
-        pub = renderer.render_conference(paper.pub)
-        labels = []
-        for label in paper.labels:
-            labels.append(renderer.render_label(label))
-        labels = ', '.join(labels)
-        cites = paper.cites
-        score = paper.score
-        title = renderer.render_title(paper.title)
-        fp.write('|{}|{}|{}|{}|{}|\n'.format(
-            pub, labels, cites, score, title))
+    fp.write(renderer.render_papers_as_table(papers))
     fp.close()
 
 def generate_md_by_labels(papers):
@@ -121,10 +127,7 @@ def generate_md_by_labels(papers):
             renderer.quote_label(label)), 'w+')
         fp.write('# {}\n'.format(label))
         fp.write('\n')
-        for paper in label2paper[label]:
-            fp.write('* {} {}\n'.format(
-                renderer.render_conference(paper.pub),
-                renderer.render_title(paper.title)))
+        fp.write(renderer.render_papers_as_table(label2paper[label]))
         fp.close()
 
 if __name__ == '__main__':
