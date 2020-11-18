@@ -84,6 +84,8 @@ def parse_dbfile(fname):
         paper=Paper()
         for line in fp.readlines():
             if line[0] == '\n':
+                if paper.domain not in paper.labels:
+                    paper.labels = [paper.domain] + paper.labels
                 papers.append(paper)
                 paper=Paper()
                 continue
