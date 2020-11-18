@@ -22,11 +22,22 @@ class Paper:
     def __init__(self):
         pass
 
-def google_scholar_query_url(query):
-    google_scholar_query_prefix = 'https://scholar.google.com/scholar?q='
-    words = re.split('\s+', query.strip())
-    return google_scholar_query_prefix + \
-            '+'.join([urllib.parse.quote(w) for w in words])
+
+class Renderer:
+    def __init__(self):
+        pass
+    def google_scholar_query_url(self, query):
+        google_scholar_query_prefix = 'https://scholar.google.com/scholar?q='
+        words = re.split('\s+', query.strip())
+        return google_scholar_query_prefix + \
+                '+'.join([urllib.parse.quote(w) for w in words])
+
+    def render_title(self, title):
+        return '[{}]({})'.format(title, self.google_scholar_query_url(title))
+    def quote_label(self, label):
+        return re.sub('\s+', '-', label)
+    def render_label(self, label):
+        return '[{0}](docs/labels/{0}.md)'.format(self.quote_label(label))
 
 def parse_dbfile(fname):
     papers=[]
@@ -56,21 +67,22 @@ def parse_dbfile(fname):
     return papers
 
 def generate_readinglist_md(papers):
-    fp = open('ReadingList.md', 'w+')
+    os.system('mkdir -p docs')
+    fp = open('docs/ReadingList.md', 'w+')
     fp.write('# total list\n')
     fp.write('\n')
     fp.write('|pub|labels|cites|score|title|\n')
     fp.write('|---|------|-----|-----|-----|\n')
+    renderer = Renderer()
     for paper in papers:
         pub = paper.pub
         labels = []
         for label in paper.labels:
-            labels.append('[{0}](docs/labels/{0}.md)'.format(
-                label))
+            labels.append(renderer.render_label(label))
         labels = ', '.join(labels)
         cites = paper.cites
         score = paper.score
-        title = '[{}]({})'.format(paper.title, google_scholar_query_url(paper.title))
+        title = renderer.render_title(paper.title)
         fp.write('|{}|{}|{}|{}|{}|\n'.format(
             pub, labels, cites, score, title))
     fp.close()
@@ -82,14 +94,14 @@ def generate_md_by_labels(papers):
             label2paper.setdefault(label, [])
             label2paper[label].append(paper)
     os.system('mkdir -p docs/labels')
+    renderer = Renderer()
     for label in label2paper.keys():
-        fp = open('docs/labels/{}.md'.format(label), 'w+')
+        fp = open('docs/labels/{}.md'.format(renderer.quote_label(label)), 'w+')
         fp.write('# {}\n'.format(label))
         fp.write('\n')
         for paper in label2paper[label]:
-            fp.write('* {} [{}]({})\n'.format(
-                paper.pub, paper.title,
-                google_scholar_query_url(paper.title)))
+            fp.write('* {} {}\n'.format(
+                paper.pub, renderer.render_title(paper.title)))
         fp.close()
 
 if __name__ == '__main__':

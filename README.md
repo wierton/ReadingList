@@ -1,4 +1,4 @@
-# Reading List of Complicated System Testing
+# [Reading List](docs/ReadingList.md) of Complicated System Testing
 
 ## Conference
 * ICSE、FSE、ASE
@@ -40,5 +40,3 @@
 * Repair: fix program either from compile-time or from runtime
 * Invariant Deduction: kind of program analysis
 * Model Checking: STFW
-
-## [reading list](ReadingList.md)
