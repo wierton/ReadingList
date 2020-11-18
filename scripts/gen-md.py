@@ -41,20 +41,21 @@ class Renderer:
     def render_conference(self, conf_year):
         urlpfx = 'https://dblp.org/db/conf/'
         configs = {
+        # name, url template, years with multiple volumes
           "ICSE": [ urlpfx + 'icse/icse%y.html', [ 2015, 2010 ] ],
           "FSE": [ urlpfx + 'sigsoft/fse%y.html', [ ] ]
         }
 
         conf, year = conf_year.split("'")
         if int(year) < 50: year = '20' + year
-        else: year = '19' + year
+        else: year = year
 
         info = configs[conf]
         if int(year) in info[1]:
             volume_1 = info[0].replace('%y', year + '-1')
             volume_2 = info[0].replace('%y', year + '-2')
-            return '{}([1]({}), [2]({}))'.format(
-                conf_year, volume_1, volume_2)
+            return '[{}-1]({}),[-2]({})'.format(
+                conf_year, volume_1, conf_year, volume_2)
         else:
             url = info[0].replace('%y', year)
             return '[{}]({})'.format(conf_year, url)
@@ -122,7 +123,8 @@ def generate_md_by_labels(papers):
         fp.write('\n')
         for paper in label2paper[label]:
             fp.write('* {} {}\n'.format(
-                paper.pub, renderer.render_title(paper.title)))
+                renderer.render_conference(paper.pub),
+                renderer.render_title(paper.title)))
         fp.close()
 
 if __name__ == '__main__':
