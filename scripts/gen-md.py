@@ -37,7 +37,9 @@ class Renderer:
     def quote_label(self, label):
         return re.sub('\s+', '-', label)
     def render_label(self, label):
-        return '[{0}](docs/labels/{0}.md)'.format(self.quote_label(label))
+        return '[{0}](labels/{0}.md)'.format(self.quote_label(label))
+    def render_conference(self, conference, year):
+        pass
 
 def parse_dbfile(fname):
     papers=[]
@@ -96,7 +98,8 @@ def generate_md_by_labels(papers):
     os.system('mkdir -p docs/labels')
     renderer = Renderer()
     for label in label2paper.keys():
-        fp = open('docs/labels/{}.md'.format(renderer.quote_label(label)), 'w+')
+        fp = open('docs/labels/{}.md'.format(
+            renderer.quote_label(label)), 'w+')
         fp.write('# {}\n'.format(label))
         fp.write('\n')
         for paper in label2paper[label]:

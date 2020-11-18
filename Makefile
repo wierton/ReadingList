@@ -2,7 +2,7 @@
 
 .DEFAULT_GOAL := mds
 
-mds:
+mds: clean
 	./scripts/gen-md.py
 
 clean:
