@@ -38,8 +38,26 @@ class Renderer:
         return re.sub('\s+', '-', label)
     def render_label(self, label):
         return '[{0}](labels/{0}.md)'.format(self.quote_label(label))
-    def render_conference(self, conference, year):
-        pass
+    def render_conference(self, conf_year):
+        urlpfx = 'https://dblp.org/db/conf/'
+        configs = {
+          "ICSE": [ urlpfx + 'icse/icse%y.html', [ 2015, 2010 ] ],
+          "FSE": [ urlpfx + 'sigsoft/fse%y.html', [ ] ]
+        }
+
+        conf, year = conf_year.split("'")
+        if int(year) < 50: year = '20' + year
+        else: year = '19' + year
+
+        info = configs[conf]
+        if int(year) in info[1]:
+            volume_1 = info[0].replace('%y', year + '-1')
+            volume_2 = info[0].replace('%y', year + '-2')
+            return '{}([1]({}), [2]({}))'.format(
+                conf_year, volume_1, volume_2)
+        else:
+            url = info[0].replace('%y', year)
+            return '[{}]({})'.format(conf_year, url)
 
 def parse_dbfile(fname):
     papers=[]
@@ -66,7 +84,7 @@ def parse_dbfile(fname):
                 paper.cites = int(value)
             elif attr == 'score':
                 paper.score = int(value)
-    return papers
+    return sorted(papers, key=lambda p: p.cites, reverse=True)
 
 def generate_readinglist_md(papers):
     os.system('mkdir -p docs')
@@ -77,7 +95,7 @@ def generate_readinglist_md(papers):
     fp.write('|---|------|-----|-----|-----|\n')
     renderer = Renderer()
     for paper in papers:
-        pub = paper.pub
+        pub = renderer.render_conference(paper.pub)
         labels = []
         for label in paper.labels:
             labels.append(renderer.render_label(label))
