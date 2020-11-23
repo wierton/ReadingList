@@ -393,7 +393,7 @@ score: 0
 title: Dynamic data flow testing of object oriented systems
 publication: ICSE'15
 domain: Testing
-labels: Misc Testing
+labels: Misc Testing, OOP
 cites: 30
 score: 0
 
@@ -1109,4 +1109,1201 @@ publication: FSE'15
 domain: Program Slicing
 labels: Program Slicing
 cites: 33
+score: 0
+
+title: Automatic generation and maintenance of correct spreadsheets
+publication: ICSE'05
+domain: Spreadsheet
+labels: Generation, Repair
+cites: 0
+score: 0
+
+title: Demand-driven structural testing with dynamic instrumentation
+publication: ICSE'05
+domain: Structural Testing
+labels: Testing, Structural Testing
+cites: 0
+score: 0
+
+title: Data structure repair using goal-directed reasoning
+publication: ICSE'05
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Verifying safety policies with size properties and alias controls
+publication: ICSE'05
+domain: Verification
+labels: Verification
+cites: 0
+score: 0
+
+title: Locating causes of program failures
+publication: ICSE'05
+domain: Fault Localization
+labels: Fault Localization
+cites: 0
+score: 0
+
+title: One evaluation of model-based testing and its automation
+publication: ICSE'05
+domain: Testing Evaluation
+labels: Testing Evaluation
+cites: 0
+score: 0
+
+title: Is mutation an appropriate tool for testing experiments
+publication: ICSE'05
+domain: Testing Evaluation
+labels: Testing Evaluation
+cites: 0
+score: 0
+
+title: An empirical evaluation of test case filtering techniques based on exercising complex information flows
+publication: ICSE'05
+domain: Testing Evaluation
+labels: Testing Evaluation
+cites: 0
+score: 0
+
+title: Check 'n' crash: combining static checking and testing
+publication: ICSE'05
+domain: Testing
+labels: Testing, Program Analysis, Static Analysis
+cites: 0
+score: 0
+
+title: Efficient and precise dynamic impact analysis using execute-after sequences
+publication: ICSE'05
+domain: Program Analysis
+labels: Testing, Program Analysis, Dynamic Analysis
+cites: 0
+score: 0
+
+title: Improving test suites for efficient fault localization
+publication: ICSE'06
+domain: Testcase Improvement
+labels: Fault Localization
+cites: 0
+score: 0
+
+title: An intensional approach to the specification of test cases for database applications
+publication: ICSE'06
+domain: Testcase Improvement
+labels: Database Application
+cites: 0
+score: 0
+
+title: HDD: hierarchical Delta Debugging
+publication: ICSE'06
+domain: Debugging
+labels: Delta Debugging
+cites: 0
+score: 0
+
+title: Managing space for finite-state verification
+publication: ICSE'06
+domain: Verification
+labels: Verification
+cites: 0
+score: 0
+
+title: Backwards-compatible array bounds checking for C with very low overhead
+publication: ICSE'06
+domain: Bug Detection
+labels: Bug Detection, Program Analysis
+cites: 0
+score: 0
+
+title: Inferring templates from spreadsheets
+publication: ICSE'06
+domain: Spreadsheet
+labels: Spreadsheet
+cites: 0
+score: 0
+
+title: Semantics-based reverse engineering of object-oriented data models
+publication: ICSE'06
+domain: Reverse Engineering
+labels: Reverse Engineering, OOP
+cites: 0
+score: 0
+
+title: Modular checking for buffer overflows in the large
+publication: ICSE'06
+domain: Bug Detection
+labels: Bug Detection, Program Analysis
+cites: 0
+score: 0
+
+title: Discovering faults in idiom-based exception handling
+publication: ICSE'06
+domain: Bug Detection
+labels: Bug Detection, Program Analysis
+cites: 0
+score: 0
+
+title: Static detection of leaks in polymorphic containers
+publication: ICSE'06
+domain: Bug Detection
+labels: Bug Detection, Program Analysis
+cites: 0
+score: 0
+
+title: Osprey: a practical type system for validating dimensional unit correctness of C programs
+publication: ICSE'06
+domain: Verification
+labels: Verification, Type System, Programming Language
+cites: 0
+score: 0
+
+title: Locating faults through automated predicate switching
+publication: ICSE'06
+domain: Fault Localization
+labels: Fault Localization
+cites: 0
+score: 0
+
+title: Perracotta: mining temporal API rules from imperfect traces
+publication: ICSE'06
+domain: API Mining
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Symbolic model checking of declarative relational models
+publication: ICSE'06
+domain: Model Checking
+labels: Model Checking
+cites: 0
+score: 0
+
+title: Evaluation of mutation testing for object-oriented programs.
+publication: ICSE'06
+domain: Testing Evaluation
+labels: Testing Evaluation, OOP
+cites: 0
+score: 0
+
+title: Integrating static analysis and general-purpose theorem proving for termination analysis
+publication: ICSE'06
+domain: Verification
+labels: Verification
+cites: 0
+score: 0
+
+title: Dynamically discovering likely interface invariants
+publication: ICSE'06
+domain: API Mining
+labels: API Mining
+cites: 0
+score: 0
+
+title: Understanding software application interfaces via string analysis
+publication: ICSE'06
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Parallel Randomized State-Space Search
+publication: ICSE'07
+domain: Model Checking
+labels: Model Checking
+cites: 0
+score: 0
+
+title: Sequential Circuits for Relational Analysis
+publication: ICSE'07
+domain: Circuit Analysis
+labels: Circuit Analysis
+cites: 0
+score: 0
+
+title: Behaviour Model Synthesis from Properties and Scenarios
+publication: ICSE'07
+domain: Synthesis
+labels: Synthesis
+cites: 0
+score: 0
+
+title: Regression Test Selection for AspectJ Software
+publication: ICSE'07
+domain: Testcase Reduction
+labels: Testing, Regression Testing, Testcase Reduction
+cites: 0
+score: 0
+
+title: Adaptive Online Program Analysis
+publication: ICSE'07
+domain: Static Analysis
+labels: Static Analysis
+cites: 0
+score: 0
+
+title: Path-Sensitive Inference of Function Precedence Protocols
+publication: ICSE'07
+domain: Static Analysis
+labels: Static Analysis
+cites: 0
+score: 0
+
+title: Using GUI Run-Time State as Feedback to Generate Test Cases
+publication: ICSE'07
+domain: Testing
+labels: Misc Testing, GUI Testing
+cites: 0
+score: 0
+
+title: Automated Generation of Context-Aware Tests
+publication: ICSE'07
+domain: Generation
+labels: Generation
+cites: 0
+score: 0
+
+title: Hybrid Concolic Testing
+publication: ICSE'07
+domain: Concolic Testing
+labels: Concolic Testing
+cites: 0
+score: 0
+
+title: Time will tell: fault localization using time spectra
+publication: ICSE'08
+domain: Fault Localization
+labels: Fault Localization
+cites: 0
+score: 0
+
+title: ARTOO: adaptive random testing for object-oriented software
+publication: ICSE'08
+domain: Testing
+labels: Testing, OOP
+cites: 0
+score: 0
+
+title: Mining library specifications using inductive logic programming
+publication: ICSE'08
+domain: API Mining
+labels: API Mining
+cites: 0
+score: 0
+
+title: DySy: dynamic symbolic execution for invariant inference
+publication: ICSE'08
+domain: API Mining
+labels: API Mining
+cites: 0
+score: 0
+
+title: Incremental state-space exploration for programs with dynamically allocated data
+publication: ICSE'08
+domain: Model Checking
+labels: Model Checking
+cites: 0
+score: 0
+
+title: Data flow testing of service-oriented workflow applications
+publication: ICSE'08
+domain: Bug Detection
+labels: Testing, Web Application
+cites: 0
+score: 0
+
+title: Automatic generation of software behavioral models
+publication: ICSE'08
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Juzi: a tool for repairing complex data structures
+publication: ICSE'08
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Deryaft: a tool for generating representation invariants of structurally complex data
+publication: ICSE'08
+domain: Generation
+labels: Generation
+cites: 0
+score: 0
+
+title: Lightweight fault-localization using multiple coverage types
+publication: ICSE'09
+domain: Fault Localization
+labels: Fault Localization
+cites: 0
+score: 0
+
+title: HOLMES: Effective statistical debugging via efficient path profiling
+publication: ICSE'09
+domain: Debugging
+labels: Debugging
+cites: 0
+score: 0
+
+title: Taming coincidental correctness: Coverage refinement with context patterns to improve fault localization
+publication: ICSE'09
+domain: Fault Localization
+labels: Fault Localization
+cites: 0
+score: 0
+
+title: Accurate Interprocedural Null-Dereference Analysis for Java
+publication: ICSE'09
+domain: Program Analysis
+labels: Null-Dereference Analysis, Java
+cites: 0
+score: 0
+
+title: The road not taken: Estimating path execution frequency statically
+publication: ICSE'09
+domain: Program Analysis
+labels: Static Analysis
+cites: 0
+score: 0
+
+title: Automatic dimension inference and checking for object-oriented programs
+publication: ICSE'09
+domain: Program Analysis
+labels: Static Analysis, OOP
+cites: 0
+score: 0
+
+title: Automatic creation of SQL Injection and cross-site scripting attacks
+publication: ICSE'09
+domain: Security
+labels: Generation, SQL, Web Application
+cites: 0
+score: 0
+
+title: Invariant-based automatic testing of AJAX user interfaces
+publication: ICSE'09
+domain: Testing
+labels: Web Application, AJAX
+cites: 0
+score: 0
+
+title: Complete and accurate clone detection in graph-based models
+publication: ICSE'09
+domain: Clone Detection
+labels: Model
+cites: 0
+score: 0
+
+title: Automatically finding patches using genetic programming
+publication: ICSE'09
+domain: Repair
+labels: Repair, Generation
+cites: 0
+score: 0
+
+title: Effective static deadlock detection
+publication: ICSE'09
+domain: Bug Detection
+labels: Static Analysis
+cites: 0
+score: 0
+
+title: Maintaining and evolving GUI-directed test scripts
+publication: ICSE'09
+domain: Misc Testing
+labels: GUI Testing
+cites: 0
+score: 0
+
+title: MINTS: A general framework and tool for supporting test-suite minimization
+publication: ICSE'09
+domain: Testcase Reduction
+labels: Testcase Reduction
+cites: 0
+score: 0
+
+title: Synthesizing intensional behavior models by graph transformation
+publication: ICSE'09
+domain: Synthesis
+labels: Model
+cites: 0
+score: 0
+
+title: WISE: Automated test generation for worst-case complexity
+publication: ICSE'09
+domain: Generation
+labels: Generation
+cites: 0
+score: 0
+
+title: Taint-based directed whitebox fuzzing
+publication: ICSE'09
+domain: Fuzzing
+labels: Fuzzing
+cites: 0
+score: 0
+
+title: Generating performance distributions via probabilistic symbolic execution
+publication: ICSE'16
+domain: Performance
+labels: Symbolic Execution
+cites: 0
+score: 0
+
+title: Reliability of Run-Time Quality-of-Service evaluation using parametric model checking
+publication: ICSE'16
+domain: Model Checking
+labels: Model Checking
+cites: 0
+score: 0
+
+title: Synthesizing framework models for symbolic execution
+publication: ICSE'16
+domain: Symbolic Execution
+labels: Symbolic Execution
+cites: 0
+score: 0
+
+title: Type-aware concolic testing of JavaScript programs
+publication: ICSE'16
+domain: Concolic Testing
+labels: Concolic Testing, JavaScript, Web Application
+cites: 0
+score: 0
+
+title: Finding and analyzing compiler warning defects
+publication: ICSE'16
+domain: Compiler Testing
+labels: Compiler Testing
+cites: 0
+score: 0
+
+title: Automatically learning semantic features for defect prediction
+publication: ICSE'16
+domain: Bug Prediction
+labels: Machine Learning
+cites: 0
+score: 0
+
+title: Automatic model generation from documentation for Java API functions
+publication: ICSE'16
+domain: Model
+labels: Model
+cites: 0
+score: 0
+
+title: Comparing white-box and black-box test prioritization
+publication: ICSE'16
+domain: Testing Evaluation
+labels: Testing Evaluation
+cites: 0
+score: 0
+
+title: Reducing combinatorics in GUI testing of android applications
+publication: ICSE'16
+domain: Android Testing
+labels: GUI Testing, Testcase Reduction
+cites: 0
+score: 0
+
+title: Automated test suite generation for time-continuous simulink models
+publication: ICSE'16
+domain: Generation
+labels: Simulink
+cites: 0
+score: 0
+
+title: Angelix: scalable multiline program patch synthesis via symbolic analysis
+publication: ICSE'16
+domain: Repair
+labels: Generation, Symbolic Analysis
+cites: 0
+score: 0
+
+title: PAC learning-based verification and model synthesis
+publication: ICSE'16
+domain: Synthesis
+labels: Machine Learning, Model, Synthesis
+cites: 0
+score: 0
+
+title: BigDebug: debugging primitives for interactive big data processing in spark
+publication: ICSE'16
+domain: Debugging
+labels: Debugging
+cites: 0
+score: 0
+
+title: Efficient large-scale trace checking using mapreduce
+publication: ICSE'16
+domain: Dynamic Analysis
+labels: Dynamic Analysis
+cites: 0
+score: 0
+
+title: Feedback-directed instrumentation for deployed JavaScript applications
+publication: ICSE'16
+domain: Debugging
+labels: JavaScript, Web Application
+cites: 0
+score: 0
+
+title: Floating-point precision tuning using blame analysis
+publication: ICSE'16
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Fixing deadlocks via lock pre-acquisitions
+publication: ICSE'16
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Coverage-driven test code generation for concurrent classes
+publication: ICSE'16
+domain: Generation
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Symbolic model extraction for web application verification
+publication: ICSE'17
+domain: Verification
+labels: Web Application, Symbolic Analysis
+cites: 0
+score: 0
+
+title: Optimizing test placement for module-level regression testing
+publication: ICSE'17
+domain: Testcase Prioritization
+labels: Testcase Prioritization
+cites: 0
+score: 0
+
+title: Learning to prioritize test programs for compiler testing
+publication: ICSE'17
+domain: Testcase Prioritization
+labels: Testcase Prioritization, Compiler Testing
+cites: 0
+score: 0
+
+title: Syntactic and semantic differencing for combinatorial models of test designs
+publication: ICSE'17
+domain: Model
+labels: Model
+cites: 0
+score: 0
+
+title: Balancing soundness and efficiency for practical testing of configurable systems
+publication: ICSE'17
+domain: Configuration
+labels: Configuration
+cites: 0
+score: 0
+
+title: Automatic text input generation for mobile testing
+publication: ICSE'17
+domain: Generation
+labels: Android Testing
+cites: 0
+score: 0
+
+title: Evaluating and improving fault localization
+publication: ICSE'17
+domain: Fault Localization
+labels: Fault Localization
+cites: 0
+score: 0
+
+title: Learning syntactic program transformations from examples
+publication: ICSE'17
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Precise condition synthesis for program repair
+publication: ICSE'17
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Performance diagnosis for inefficient loops
+publication: ICSE'17
+domain: Performance
+labels: Performance
+cites: 0
+score: 0
+
+title: Efficient detection of thread safety violations via coverage-guided generation of concurrent tests
+publication: ICSE'17
+domain: Concurrency Testing
+labels: Concurrency Testing
+cites: 0
+score: 0
+
+title: Statically checking web API requests in JavaScript
+publication: ICSE'17
+domain: Testing
+labels: Static Analysis, JavaScript, Web Application
+cites: 0
+score: 0
+
+title: On cross-stack configuration errors
+publication: ICSE'17
+domain: Configuration
+labels: Configuration
+cites: 0
+score: 0
+
+title: Search-driven string constraint solving for vulnerability detection
+publication: ICSE'17
+domain: Security
+labels: Symbolic Analysis
+cites: 0
+score: 0
+
+title: Context-aware patch generation for better automated program repair
+publication: ICSE'18
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Towards practical program repair with on-demand candidate generation
+publication: ICSE'18
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Static automated program repair for heap properties
+publication: ICSE'18
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Semantic program repair using a reference implementation
+publication: ICSE'18
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Hybrid regression test selection
+publication: ICSE'18
+domain: Testcase Reduction
+labels: Testcase Reduction
+cites: 0
+score: 0
+
+title: Fine-grained test minimization
+publication: ICSE'18
+domain: Testcase Reduction
+labels: Testcase Reduction
+cites: 0
+score: 0
+
+title: FAST approaches to scalable similarity-based test case prioritization
+publication: ICSE'18
+domain: Testcase Reduction
+labels: Testcase Reduction
+cites: 0
+score: 0
+
+title: Towards refactoring-aware regression test selection
+publication: ICSE'18
+domain: Testcase Reduction
+labels: Testcase Reduction
+cites: 0
+score: 0
+
+title: Towards optimal concolic testing
+publication: ICSE'18
+domain: Concolic Testing
+labels: Concolic Testing
+cites: 0
+score: 0
+
+title: Perses: syntax-guided program reduction
+publication: ICSE'18
+domain: Testcase Reduction
+labels: Testcase Reduction
+cites: 0
+score: 0
+
+title: Spatio-temporal context reduction: a pointer-analysis-based static approach for detecting use-after-free vulnerabilities
+publication: ICSE'18
+domain: Security
+labels: Security
+cites: 0
+score: 0
+
+title: DeFlaker: automatically detecting flaky tests
+publication: ICSE'18
+domain: Testcase Improvement
+labels: Testcase Improvement
+cites: 0
+score: 0
+
+title: ChangeLocator: locate crash-inducing changes based on crash reports
+publication: ICSE'18
+domain: Bug Localization
+labels: Bug Localization
+cites: 0
+score: 0
+
+title: Efficient sampling of SAT solutions for testing
+publication: ICSE'18
+domain: Symbolic Execution
+labels: SMT
+cites: 0
+score: 0
+
+title: UFO: predictive concurrency use-after-free detection
+publication: ICSE'18
+domain: Bug Detection
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Collective program analysis
+publication: ICSE'18
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Redefining prioritization: continuous prioritization for continuous integration
+publication: ICSE'18
+domain: Testcase Prioritization
+labels: Testcase Prioritization
+cites: 0
+score: 0
+
+title: ConflictJS: finding and understanding conflicts between JavaScript libraries
+publication: ICSE'18
+domain: Bug Detection
+labels: JavaScript, Web Application
+cites: 0
+score: 0
+
+title: Debugging data flows in reactive programs
+publication: ICSE'18
+domain: Debugging
+labels: Debugging
+cites: 0
+score: 0
+
+title: Identifying patch correctness in test-based program repair
+publication: ICSE'18
+domain: Misc Testing
+labels: Misc Testing
+cites: 0
+score: 0
+
+title: RFC-directed differential testing of certificate validation in SSL/TLS implementations
+publication: ICSE'18
+domain: Differential Testing
+labels: Differential Testing
+cites: 0
+score: 0
+
+title: Symbolic verification of regular properties
+publication: ICSE'18
+domain: Symbolic Analysis
+labels: Symbolic Analysis
+cites: 0
+score: 0
+
+title: Metamorphic testing of RESTful web APIs
+publication: ICSE'18
+domain: Metamorphic Testing
+labels: Web Application
+cites: 0
+score: 0
+
+title: Generalized data structure synthesis
+publication: ICSE'18
+domain: Synthesis
+labels: Synthesis
+cites: 0
+score: 0
+
+title: A graph solver for the automated generation of consistent domain-specific models
+publication: ICSE'18
+domain: Generation
+labels: Generation, Model
+cites: 0
+score: 0
+
+title: Automatically finding bugs in a commercial cyber-physical system development tool chain with SLforge
+publication: ICSE'18
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: MSeer: an advanced technique for locating multiple bugs in parallel
+publication: ICSE'18
+domain: Bug Localization
+labels: Bug Localization
+cites: 0
+score: 0
+
+title: Programming not only by example
+publication: ICSE'18
+domain: PBE
+labels: PBE
+cites: 0
+score: 0
+
+title: A static verification framework for message passing in Go using behavioural types
+publication: ICSE'18
+domain: Verification
+labels: Static Analysis
+cites: 0
+score: 0
+
+title: Learning to spot and refactor inconsistent method names
+publication: ICSE'19
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Harnessing evolution for multi-hunk program repair
+publication: ICSE'19
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Smoke: scalable path-sensitive memory leak detection for millions of lines of code
+publication: ICSE'19
+domain: Bug Detection
+labels: Static Analysis
+cites: 0
+score: 0
+
+title: A system identification based Oracle for control-CPS software fault localization
+publication: ICSE'19
+domain: Bug Localization
+labels: Bug Localization
+cites: 0
+score: 0
+
+title: ReCDroid: automatically reproducing Android application crashes from bug reports
+publication: ICSE'19
+domain: Replay
+labels: Replay
+cites: 0
+score: 0
+
+title: DifFuzz: differential fuzzing for side-channel analysis
+publication: ICSE'19
+domain: Program Analysis
+labels: Fuzzing, Differential Testing
+cites: 0
+score: 0
+
+title: Zero-overhead path prediction with progressive symbolic execution
+publication: ICSE'19
+domain: Program Analysis
+labels: Symbolic Execution
+cites: 0
+score: 0
+
+title: Practical GUI testing of Android applications via model abstraction and refinement
+publication: ICSE'19
+domain: Android Testing
+labels: GUI Testing
+cites: 0
+score: 0
+
+title: AutoTap: synthesizing and repairing trigger-action programs using LTL properties
+publication: ICSE'19
+domain: Synthesis
+labels: Synthesis, Logic
+cites: 0
+score: 0
+
+title: DockerizeMe: automatic inference of environment dependencies for python code snippets
+publication: ICSE'19
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Scalable approaches for test suite reduction
+publication: ICSE'19
+domain: Testcase Reduction
+labels: Testcase Reduction
+cites: 0
+score: 0
+
+title: Hunting for bugs in code coverage tools via randomized differential testing
+publication: ICSE'19
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: VFix: value-flow-guided precise program repair for null pointer dereferences
+publication: ICSE'19
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Detecting atomicity violations for event-driven Node.js applications
+publication: ICSE'19
+domain: Bug Detection
+labels: JavaScript
+cites: 0
+score: 0
+
+title: Parallel refinement for multi-threaded program verification
+publication: ICSE'19
+domain: Verification
+labels: Verification
+cites: 0
+score: 0
+
+title: Class imbalance evolution and verification latency in just-in-time software defect prediction
+publication: ICSE'19
+domain: Bug Prediction
+labels: Bug Prediction
+cites: 0
+score: 0
+
+title: SLF: fuzzing without valid seed inputs
+publication: ICSE'19
+domain: Fuzzing
+labels: Fuzzing
+cites: 0
+score: 0
+
+title: Superion: grammar-aware greybox fuzzing
+publication: ICSE'19
+domain: Fuzzing
+labels: Fuzzing
+cites: 0
+score: 0
+
+title: Grey-box concolic testing on binary code
+publication: ICSE'19
+domain: Concolic Testing
+labels: Concolic Testing
+cites: 0
+score: 0
+
+title: RESTler: stateful REST API fuzzing
+publication: ICSE'19
+domain: Fuzzing
+labels: Web Application
+cites: 0
+score: 0
+
+title: SafeCheck: safety enhancement of Java unsafe API
+publication: ICSE'19
+domain: Bug Prevention
+labels: Java, API
+cites: 0
+score: 0
+
+title: Redundant loads: a software inefficiency indicator
+publication: ICSE'19
+domain: Performance
+labels: Android, Performance
+cites: 0
+score: 0
+
+title: Symbolic repairs for GR(1) specifications
+publication: ICSE'19
+domain: Specification Repair
+labels: Symbolic Analysis
+cites: 0
+score: 0
+
+title: Global optimization of numerical programs via prioritized stochastic algebraic transformations
+publication: ICSE'19
+domain: Program Optimization
+labels: Program Optimization
+cites: 0
+score: 0
+
+title: Ankou: Guiding Grey-box Fuzzing towards Combinatorial Difference
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Automatically Testing String Solvers
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: BCFA: Bespoke Control Flow Analysis for CFA at Scale
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Burn After Reading: A Shadow Stack with Microsecond-level Runtime Rerandomization for Protecting Return Addresses
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Causal Testing: Understanding Defects' Root Causes
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Debugging Inputs
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Efficient Generation of Error-Inducing Floating-Point Inputs via Symbolic Execution
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Extracting Taint Specifications for JavaScript Libraries
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: HyDiff: Hybrid Differential Software Analysis
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: JVM Fuzzing for JIT-Induced Side-Channel Detection
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: MemLock: Memory Usage Guided Fuzzing
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Pipelining Bottom-up Data Flow Analysis
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Quickly Generating Diverse Valid Test Inputs with Reinforcement Learning
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS Models for Finding Compiler Bugs in Simulink
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Securing UnSafe Rust Programs with XRust
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: SpecuSym: Speculative Symbolic Execution for Cache Timing Leak Detection
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Symbolic Verification of Message Passing Interface Programs
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Tailoring Programs for Static Analysis via Program Transformation
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Taming Behavioral Backward Incompatibilities via Cross-Project Testing and Analysis
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Targeted Greybox Fuzzing with Static Lookahead Analysis
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Typestate-Guided Fuzzer for Discovering Use-after-Free Vulnerabilities
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Verifying Object Construction
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: White-box Fairness Testing through Adversarial Sampling
+publication: ICSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: sFuzz: An Efficient Adaptive Fuzzer for Solidity Smart Contracts
+publication: ICSE'20
+domain:
+labels:
+cites: 0
 score: 0

@@ -7,6 +7,12 @@
 ## Journal
 * TSE、TOSEM、TOPLAS
 
+## Classification
+* tags: Incremental Work, Application of Methodology, Tool Integration, New Idea, Minor New Direction
+* target: the researched item
+* technique: conducted methodologies
+* keywords: null pointer dereference, ...
+
 ## Labels
 * SMT: satisfiability modulo theory
 * Program Slicing:
@@ -40,3 +46,11 @@
 * Repair: fix program either from compile-time or from runtime
 * Invariant Deduction: kind of program analysis
 * Model Checking: STFW
+
+## score
+* 0, default value (unchecked)
+* 1, not suggested to read
+* 2, incremental work
+* 3, minor novelty
+* 4, be of great novelty, has great impacts
+* 5, open a new direction/domain, great breakthrough
