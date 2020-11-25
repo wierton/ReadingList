@@ -1,3919 +1,3919 @@
 title: Oracle-guided component-based program synthesis
 publication: ICSE'10
-domain: Synthesis
-labels: Synthesis
+domain: Program Synthesis
+relevant:
 cites: 423
 score: 0
 
 title: Graph-based pattern-oriented, context-sensitive source code completion
 publication: ICSE'12
-domain: Synthesis
-labels: Synthesis
+domain: Code Completion
+relevant:
 cites: 138
 score: 0
 
 title: Automatic input rectification
 publication: ICSE'12
-domain: Synthesis
-labels: Synthesis
+domain: Fault Tolerating
+relevant:
 cites: 64
 score: 0
 
 title: Guided test generation for web applications
 publication: ICSE'13
-domain: Generation
-labels: Generation
+domain: Test Data Generation, Web Application
+relevant:
 cites: 47
 score: 0
 
 title: Strong higher order mutation-based test data generation
 publication: FSE'11
-domain: Generation
-labels: Generation
+domain: Test Data Mutation
+relevant:
 cites: 149
 score: 0
 
 title: Synthesizing data structure manipulations from storyboards
 publication: FSE'11
-domain: Synthesis
-labels: Synthesis
+domain: PBE
+relevant:
 cites: 89
 score: 0
 
 title: Test input generation using dynamic programming
 publication: FSE'12
-domain: Generation
-labels: Generation
+domain: Test Data Generation
+relevant: Dynamic Programming
 cites: 15
 score: 0
 
 title: Scalable test data generation from multidimensional models
 publication: FSE'12
-domain: Generation
-labels: Generation
+domain: Test Data Generation
+relevant:
 cites: 18
 score: 0
 
 title: Search-based synthesis of equivalent method sequences
 publication: FSE'14
 domain: Synthesis
-labels: Synthesis
+relevant: Synthesis
 cites: 24
 score: 0
 
 title: GR(1) synthesis for LTL specification patterns
 publication: FSE'15
 domain: Synthesis
-labels: Synthesis
+relevant: Synthesis
 cites: 41
 score: 0
 
 title: Modeling readability to improve unit tests
 publication: FSE'15
 domain: Synthesis
-labels: Synthesis
+relevant: Synthesis
 cites: 68
 score: 0
 
 title: Generating TCP/UDP network data for automated unit test generation
 publication: FSE'15
 domain: Generation
-labels: Generation
+relevant: Generation
 cites: 14
 score: 0
 
 title: Generating range fixes for software configuration
 publication: ICSE'12
 domain: Repair
-labels: Repair, Configuration
+relevant: Repair, Configuration
 cites: 103
 score: 0
 
 title: Axis: Automatically fixing atomicity violations through solving control constraints
 publication: ICSE'12
 domain: Repair
-labels: Repair, Formalization
+relevant: Repair, Formalization
 cites: 84
 score: 0
 
 title: Feedback-directed unit test generation for C/C++ using concolic execution
 publication: ICSE'13
 domain: Generation
-labels: Repair, Generation, Concolic Execution
+relevant: Repair, Generation, Concolic Execution
 cites: 45
 score: 0
 
 title: SemFix: program repair via semantic analysis
 publication: ICSE'13
 domain: Repair
-labels: Repair, Program Analysis
+relevant: Repair, Program Analysis
 cites: 499
 score: 0
 
 title: Automatic recovery from runtime failures
 publication: ICSE'13
 domain: Repair
-labels: Repair, Fault Tolerating
+relevant: Repair, Fault Tolerating
 cites: 95
 score: 0
 
 title: Program transformations to fix C integers
 publication: ICSE'13
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 68
 score: 0
 
 title: Automatic patch generation learned from human-written patches
 publication: ICSE'13
 domain: Repair
-labels: Repair, Generation
+relevant: Repair, Generation
 cites: 504
 score: 0
 
 title: MintHint: automated synthesis of repair hints
 publication: ICSE'14
 domain: Repair
-labels: Repair, Synthesis
+relevant: Repair, Synthesis
 cites: 89
 score: 0
 
 title: DirectFix: Looking for Simple Program Repairs
 publication: ICSE'15
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 223
 score: 0
 
 title: Safe Memory-Leak Fixing for C Programs
 publication: ICSE'15
 domain: Repair
-labels: Repair, Fault Tolerating
+relevant: Repair, Fault Tolerating
 cites: 76
 score: 0
 
 title: Grail: context-aware fixing of concurrency bugs
 publication: FSE'14
 domain: Repair
-labels: Repair, Concurrency
+relevant: Repair, Concurrency
 cites: 47
 score: 0
 
 title: Staged program repair with condition synthesis
 publication: FSE'15
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 269
 score: 0
 
 title: CLOTHO: saving programs from malformed strings and incorrect string-handling
 publication: FSE'15
 domain: Repair
-labels: Repair, Fault Tolerating
+relevant: Repair, Fault Tolerating
 cites: 7
 score: 0
 
 title: Leveraging test generation and specification mining for automated bug detection without false positives
 publication: ICSE'12
 domain: Testcase Reduction
-labels: Testcase Reduction
+relevant: Testcase Reduction
 cites: 67
 score: 0
 
 title: On-demand test suite reduction
 publication: ICSE'12
 domain: Testcase Reduction
-labels: Testcase Reduction
+relevant: Testcase Reduction
 cites: 79
 score: 0
 
 title: Bridging the gap between the total and additional test-case prioritization strategies
 publication: ICSE'13
 domain: Testcase Prioritization
-labels: Testcase Prioritization
+relevant: Testcase Prioritization
 cites: 152
 score: 0
 
 title: Interaction-based test-suite minimization
 publication: ICSE'13
 domain: Testcase Reduction
-labels: Testcase Reduction
+relevant: Testcase Reduction
 cites: 45
 score: 0
 
 title: A trace simplification technique for effective debugging of concurrent programs
 publication: FSE'10
 domain: Testcase Reduction
-labels: Testcase Reduction, Debugging, Concurrency
+relevant: Testcase Reduction, Debugging, Concurrency
 cites: 62
 score: 0
 
 title: Using an SMT solver for interactive requirements prioritization
 publication: FSE'11
 domain: Testcase Prioritization
-labels: Testcase Prioritization, SMT
+relevant: Testcase Prioritization, SMT
 cites: 23
 score: 0
 
 title: Effective test suites for mixed discrete-continuous stateflow controllers
 publication: FSE'15
 domain: Testcase Improvement
-labels: Testcase Improvement
+relevant: Testcase Improvement
 cites: 24
 score: 0
 
 title: Comparing and combining test-suite reduction and regression test selection
 publication: FSE'15
 domain: Testcase Reduction
-labels: Testcase Reduction
+relevant: Testcase Reduction
 cites: 72
 score: 0
 
 title: Efficient dependency detection for safe Java test acceleration
 publication: FSE'15
 domain: Testing Acceration
-labels: Testing Acceration
+relevant: Testing Acceration
 cites: 50
 score: 0
 
 title: Test generation through programming in UDITA
 publication: ICSE'10
 domain: Generation
-labels: Generation
+relevant: Generation
 cites: 165
 score: 0
 
 title: Detecting atomic-set serializability violations in multithreaded programs through active randomized testing
 publication: ICSE'10
 domain: Fuzzing
-labels: Fuzzing
+relevant: Fuzzing
 cites: 94
 score: 0
 
 title: Using symbolic evaluation to understand behavior in configurable software systems
 publication: ICSE'10
 domain: Configuration
-labels: Configuration
+relevant: Configuration
 cites: 123
 score: 0
 
 title: Willias: From behaviour preservation to behaviour modification: constraint-based mutant generation
 publication: ICSE'10
 domain: Mutation
-labels: Mutation, Generation
+relevant: Mutation, Generation
 cites: 13
 score: 0
 
 title: Model-based performance testing
 publication: ICSE'11
 domain: Performance
-labels: Performance
+relevant: Performance
 cites: 40
 score: 0
 
 title: Automated repair of HTML generation errors in PHP applications using string constraint solving
 publication: ICSE'12
 domain: Repair
-labels: Repair, SMT
+relevant: Repair, SMT
 cites: 114
 score: 0
 
 title: CBCD: Cloned buggy code detector
 publication: ICSE'12
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 119
 score: 0
 
 title: Micro execution
 publication: ICSE'14
 domain: Misc
-labels: Misc
+relevant: Misc
 cites: 48
 score: 0
 
 title: Unit test virtualization with VMVM
 publication: ICSE'14
 domain: Misc
-labels: Misc
+relevant: Misc
 cites: 71
 score: 0
 
 title: Detecting memory leaks through introspective dynamic behavior modelling using machine learning
 publication: ICSE'14
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 25
 score: 0
 
 title: Automated memory leak detection for production use
 publication: ICSE'14
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 33
 score: 0
 
 title: Exploring variability-aware execution for testing plugin-based web applications
 publication: ICSE'14
 domain: Testing
-labels: Web Application, Testing
+relevant: Web Application, Testing
 cites: 106
 score: 0
 
 title: Patch verification via multiversion interprocedural control flow graphs
 publication: ICSE'14
 domain: Testing
-labels: Testing, Verification, Program Analysis
+relevant: Testing, Verification, Program Analysis
 cites: 30
 score: 0
 
 title: Automated Modularization of GUI Test Cases
 publication: ICSE'15
 domain: Testing
-labels: Misc Testing
+relevant: Misc Testing
 cites: 8
 score: 0
 
 title: ZoomIn: Discovering Failures by Detecting Wrong Assertions
 publication: ICSE'15
 domain: Testing
-labels: Misc Testing
+relevant: Misc Testing
 cites: 10
 score: 0
 
 title: RECONTEST: Effective Regression Testing of Concurrent Programs
 publication: ICSE'15
 domain: Testing
-labels: Testing, Regression Testing, Concurrency
+relevant: Testing, Regression Testing, Concurrency
 cites: 29
 score: 0
 
 title: Detecting Inconsistencies in JavaScript MVC Applications
 publication: ICSE'15
 domain: Testing
-labels: Testing, JavaScript
+relevant: Testing, JavaScript
 cites: 40
 score: 0
 
 title: No PAIN, No Gain? The Utility of PArallel Fault INjections
 publication: ICSE'15
 domain: Fault Injection
-labels: Fault Injection
+relevant: Fault Injection
 cites: 29
 score: 0
 
 title: A Flexible and Non-intrusive Approach for Computing Complex Structural Coverage Metrics
 publication: ICSE'15
 domain: Testing
-labels: Misc Testing
+relevant: Misc Testing
 cites: 9
 score: 0
 
 title: Combining Multi-Objective Search and Constraint Solving for Configuring Large Software Product Lines.
 publication: ICSE'15
 domain: Configuration
-labels: Configuration
+relevant: Configuration
 cites: 148
 score: 0
 
 title: A Genetic Algorithm for Detecting Significant Floating-Point Inaccuracies
 publication: ICSE'15
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 25
 score: 0
 
 title: Learning Combinatorial Interaction Test Generation Strategies Using Hyperheuristic Search
 publication: ICSE'15
 domain: Generation
-labels: Generation
+relevant: Generation
 cites: 90
 score: 0
 
 title: Dynamic data flow testing of object oriented systems
 publication: ICSE'15
 domain: Testing
-labels: Misc Testing, OOP
+relevant: Misc Testing, OOP
 cites: 30
 score: 0
 
 title: Representation dependence testing using program inversion
 publication: FSE'10
 domain: Testing
-labels: Misc Testing
+relevant: Misc Testing
 cites: 12
 score: 0
 
 title: Practical and effective symbolic analysis for buffer overflow detection
 publication: FSE'10
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 36
 score: 0
 
 title: Improved multithreaded unit testing
 publication: FSE'11
 domain: Testing
-labels: Testing, Concurrency
+relevant: Testing, Concurrency
 cites: 62
 score: 0
 
 title: Path exploration based on symbolic output
 publication: FSE'11
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 52
 score: 0
 
 title: Testing mined specifications
 publication: FSE'11
 domain: Testing
-labels: Testing, Formalization
+relevant: Testing, Formalization
 cites: 33
 score: 0
 
 title: CarFast: achieving higher statement coverage faster
 publication: FSE'12
 domain: Test Acceration
-labels: Test Acceration
+relevant: Test Acceration
 cites: 63
 score: 0
 
 title: Efficiency and early fault detection with lower and higher strength combinatorial interaction testing
 publication: FSE'13
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 85
 score: 0
 
 title: KATCH: high-coverage testing of software patches
 publication: FSE'13
 domain: Testing
-labels: Misc Testing
+relevant: Misc Testing
 cites: 123
 score: 0
 
 title: Differential assertion checking
 publication: FSE'13
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 107
 score: 0
 
 title: Server interface descriptions for automated testing of JavaScript web applications
 publication: FSE'13
 domain: Testing
-labels: Testing, JavaScript, Web Application
+relevant: Testing, JavaScript, Web Application
 cites: 15
 score: 0
 
 title: A foundation for refactoring C with macros
 publication: FSE'14
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 14
 score: 0
 
 title: Improving oracle quality by detecting brittle assertions and unused inputs in tests
 publication: FSE'14
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 32
 score: 0
 
 title: Test report prioritization to assist crowdsourced testing
 publication: FSE'15
 domain: Testcase Prioritization
-labels: Testcase Prioritization
+relevant: Testcase Prioritization
 cites: 49
 score: 0
 
 title: Turning programs against each other: high coverage fuzz-testing using binary-code mutation and dynamic slicing
 publication: FSE'15
 domain: Fuzzing
-labels: Fuzzing
+relevant: Fuzzing
 cites: 49
 score: 0
 
 title: Falcon: fault localization in concurrent programs
 publication: ICSE'10
 domain: Fault Localization
-labels: Fault Localization, Concurrency
+relevant: Fault Localization, Concurrency
 cites: 150
 score: 0
 
 title: Adaptive bug isolation
 publication: ICSE'10
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 67
 score: 0
 
 title: Practical fault localization for dynamic web applications
 publication: ICSE'10
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 96
 score: 0
 
 title: Where should the bugs be fixed? More accurate information retrieval-based bug localization based on bug reports
 publication: ICSE'12
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 450
 score: 0
 
 title: Developer prioritization in bug repositories
 publication: ICSE'12
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 169
 score: 0
 
 title: WhoseFault: Automatic developer-to-fault assignment through fault localization
 publication: ICSE'12
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 60
 score: 0
 
 title: Test case purification for improving fault localization
 publication: FSE'14
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 129
 score: 0
 
 title: Static extraction of program configuration options
 publication: ICSE'11
 domain: Debugging
-labels: Debugging, Configuration
+relevant: Debugging, Configuration
 cites: 107
 score: 0
 
 title: Reducing confounding bias in predicate-level statistical debugging metrics
 publication: ICSE'12
 domain: Debugging
-labels: Debugging
+relevant: Debugging
 cites: 38
 score: 0
 
 title: BugRedux: Reproducing field failures for in-house debugging
 publication: ICSE'12
 domain: Debugging
-labels: Debugging
+relevant: Debugging
 cites: 194
 score: 0
 
 title: Object-centric debugging
 publication: ICSE'12
 domain: Debugging
-labels: Debugging
+relevant: Debugging
 cites: 74
 score: 0
 
 title: Partial replay of long-running applications
 publication: FSE'11
 domain: Replay
-labels: Debugging, Replay
+relevant: Debugging, Replay
 cites: 23
 score: 0
 
 title: Model checking lots of systems: efficient verification of temporal properties in software product lines
 publication: ICSE'10
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 356
 score: 0
 
 title: Symbolic model checking of software product lines
 publication: ICSE'11
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 256
 score: 0
 
 title: Verifying multi-threaded software using smt-based context-bounded model checking
 publication: ICSE'11
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 166
 score: 0
 
 title: Run-time efficient probabilistic model checking
 publication: ICSE'11
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 194
 score: 0
 
 title: Matching logic: a new program verification approach
 publication: ICSE'11
 domain: Verification
-labels: Verification, Formalization
+relevant: Verification, Formalization
 cites: 63
 score: 0
 
 title: Simulation-based abstractions for software product-line model checking
 publication: ICSE'12
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 77
 score: 0
 
 title: Unifying execution of imperative and declarative code.
 publication: ICSE'11
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 50
 score: 0
 
 title: An automated approach to generating efficient constraint solvers
 publication: ICSE'12
 domain: SMT
-labels: SMT
+relevant: SMT
 cites: 12
 score: 0
 
 title: Efficient Scalable Verification of LTL Specifications
 publication: ICSE'15
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 14
 score: 0
 
 title: Specifying Event-Based Systems with a Counting Fluent Temporal Logic
 publication: ICSE'15
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 8
 score: 0
 
 title: Scalable SMT-based verification of GPU kernel functions
 publication: FSE'10
 domain: Verification
-labels: Verification, SMT
+relevant: Verification, SMT
 cites: 124
 score: 0
 
 title: CSSL: a logic for specifying conditional scenarios
 publication: FSE'11
 domain: Formalization
-labels: Formalization
+relevant: Formalization
 cites: 12
 score: 0
 
 title: Modeling the HTML DOM and browser API in static analysis of JavaScript web applications
 publication: FSE'11
 domain: Formalization
-labels: Formalization
+relevant: Formalization
 cites: 129
 score: 0
 
 title: Conditional model checking: a technique to pass information between verifiers
 publication: FSE'12
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 87
 score: 0
 
 title: Termination proofs from tests
 publication: FSE'13
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 27
 score: 0
 
 title: Verifying CTL-live properties of infinite state models using an SMT solver
 publication: FSE'14
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 6
 score: 0
 
 title: Uncovering performance problems in Java applications with reference propagation profiling
 publication: ICSE'12
 domain: Performance
-labels: Performance
+relevant: Performance
 cites: 56
 score: 0
 
 title: Performance debugging in the large via mining millions of stack traces
 publication: ICSE'12
 domain: Performance
-labels: Performance
+relevant: Performance
 cites: 170
 score: 0
 
 title: Automatically finding performance problems with feedback-directed learning software testing
 publication: ICSE'12
 domain: Performance
-labels: Performance
+relevant: Performance
 cites: 111
 score: 0
 
 title: Predicting performance via automated feature-interaction detection
 publication: ICSE'12
 domain: Performance
-labels: Performance
+relevant: Performance
 cites: 213
 score: 0
 
 title: Performance regression testing target prioritization via performance risk analysis
 publication: ICSE'14
 domain: Performance
-labels: Performance
+relevant: Performance
 cites: 54
 score: 0
 
 title: Finding latent performance bugs in systems implementations
 publication: FSE'10
 domain: Performance
-labels: Performance
+relevant: Performance
 cites: 71
 score: 0
 
 title: LEAKPOINT: pinpointing the causes of memory leaks
 publication: ICSE'10
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 91
 score: 0
 
 title: Precise calling context encoding
 publication: ICSE'10
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 70
 score: 0
 
 title: Effective interprocedural resource leak detection
 publication: ICSE'10
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 59
 score: 0
 
 title: Inference of field initialization
 publication: ICSE'11
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 21
 score: 0
 
 title: Taming reflection: Aiding static analysis in the presence of reflection and custom class loaders
 publication: ICSE'11
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 228
 score: 0
 
 title: Patching vulnerabilities with sanitization synthesis
 publication: ICSE'11
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 60
 score: 0
 
 title: Model projection: simplifying models in response to restricting the environment
 publication: ICSE'11
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 32
 score: 0
 
 title: Program abstractions for behaviour validation
 publication: ICSE'11
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 23
 score: 0
 
 title: Code coverage analysis in practice for large systems
 publication: ICSE'11
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 12
 score: 0
 
 title: Practical change impact analysis based on static program slicing for industrial software systems
 publication: ICSE'11
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 132
 score: 0
 
 title: Value-based program characterization and its application to software plagiarism detection
 publication: ICSE'11
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 86
 score: 0
 
 title: Automatically detecting and describing high level actions within methods
 publication: ICSE'11
 domain: Program Analysis
-labels: Program Analysis, Program Comprehension
+relevant: Program Analysis, Program Comprehension
 cites: 143
 score: 0
 
 title: Graph-based analysis and prediction for software evolution
 publication: ICSE'12
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 212
 score: 0
 
 title: Build code analysis with symbolic evaluation
 publication: ICSE'12
 domain: Program Analysis
-labels: Program Analysis, Symbolic Execution
+relevant: Program Analysis, Symbolic Execution
 cites: 62
 score: 0
 
 title: Using dynamic analysis to discover polynomial and array invariants
 publication: ICSE'12
 domain: Program Analysis
-labels: Program Analysis, Invariant Deduction
+relevant: Program Analysis, Invariant Deduction
 cites: 74
 score: 0
 
 title: Generating obstacle conditions for requirements completeness
 publication: ICSE'12
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 39
 score: 0
 
 title: Inferring class level specifications for distributed systems
 publication: ICSE'12
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 28
 score: 0
 
 title: Statically checking API protocol conformance with mined multi-object specifications
 publication: ICSE'12
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 85
 score: 0
 
 title: Detecting spurious counterexamples efficiently in abstract model checking
 publication: ICSE'13
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 21
 score: 0
 
 title: Segmented symbolic analysis
 publication: ICSE'13
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 18
 score: 0
 
 title: Using dynamic analysis to generate disjunctive invariants
 publication: ICSE'14
 domain: Program Analysis
-labels: Program Analysis, Invariant Deduction
+relevant: Program Analysis, Invariant Deduction
 cites: 28
 score: 0
 
 title: Inductive verification of data model invariants for web applications
 publication: ICSE'14
 domain: Program Analysis
-labels: Program Analysis, Invariant Deduction
+relevant: Program Analysis, Invariant Deduction
 cites: 17
 score: 0
 
 title: TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript
 publication: ICSE'15
 domain: Program Analysis
-labels: Program Analysis, JavaScript
+relevant: Program Analysis, JavaScript
 cites: 59
 score: 0
 
 title: Proving programs robust
 publication: FSE'11
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 134
 score: 0
 
 title: Checking conformance of a producer and a consumer
 publication: FSE'11
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 14
 score: 0
 
 title: Managing performance vs. accuracy trade-offs with loop perforation
 publication: FSE'11
 domain: Program Analysis
-labels: Program Analysis, Performance
+relevant: Program Analysis, Performance
 cites: 493
 score: 0
 
 title: Boosting the performance of flow-sensitive points-to analysis using value flow
 publication: FSE'11
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 79
 score: 0
 
 title: Automating presentation changes in dynamic web applications via collaborative hybrid analysis
 publication: FSE'11
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 47
 score: 0
 
 title: Green: reducing, reusing and recycling constraints in program analysis
 publication: FSE'12
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 134
 score: 0
 
 title: Bayesian inference using data flow analysis
 publication: FSE'13
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 59
 score: 0
 
 title: Second-order constraints in dynamic invariant inference
 publication: FSE'13
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 8
 score: 0
 
 title: Z3-str: a z3-based string solver for web application analysis
 publication: FSE'13
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 202
 score: 0
 
 title: Effective dynamic detection of alias analysis errors
 publication: FSE'13
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 17
 score: 0
 
 title: Practical static analysis of JavaScript applications in the presence of frameworks and libraries
 publication: FSE'13
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 114
 score: 0
 
 title: Automatically computing path complexity of programs
 publication: FSE'15
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 12
 score: 0
 
 title: A user-guided approach to program analysis
 publication: FSE'15
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 66
 score: 0
 
 title: Automated concolic testing of smartphone apps
 publication: FSE'12
 domain: Concolic Testing
-labels: Concolic Testing
+relevant: Concolic Testing
 cites: 400
 score: 0
 
 title: Con2colic testing
 publication: FSE'13
 domain: Concolic Testing
-labels: Concolic Testing
+relevant: Concolic Testing
 cites: 70
 score: 0
 
 title: Boosting concolic testing via interpolation
 publication: FSE'13
 domain: Concolic Testing
-labels: Concolic Testing
+relevant: Concolic Testing
 cites: 62
 score: 0
 
 title: How we get there: a context-guided search strategy in concolic testing
 publication: FSE'14
 domain: Concolic Testing
-labels: Concolic Testing
+relevant: Concolic Testing
 cites: 59
 score: 0
 
 title: Enhancing symbolic execution with veritesting
 publication: ICSE'14
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 236
 score: 0
 
 title: Combining Symbolic Execution and Model Checking for Data Flow Testing
 publication: ICSE'15
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 49
 score: 0
 
 title: Enhancing symbolic execution with built-in term rewriting and constrained lazy initialization
 publication: FSE'13
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 29
 score: 0
 
 title: Explicating symbolic execution (xSymExe): an evidence-based verification framework
 publication: ICSE'13
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 10
 score: 0
 
 title: Solving complex path conditions through heuristic search on induced polytopes
 publication: FSE'14
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 36
 score: 0
 
 title: Statistical symbolic execution with informed sampling
 publication: FSE'14
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 29
 score: 0
 
 title: SymJS: automatic symbolic testing of JavaScript web applications
 publication: FSE'14
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 87
 score: 0
 
 title: Symbolic execution of programs with heap inputs
 publication: FSE'15
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 24
 score: 0
 
 title: Assertion guided symbolic execution of multithreaded programs
 publication: FSE'15
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 47
 score: 0
 
 title: On software component co-installability
 publication: FSE'11
 domain: Misc
-labels: Misc
+relevant: Misc
 cites: 26
 score: 0
 
 title: Detecting and analyzing insecure component usage
 publication: FSE'11
 domain: Testing
-labels: Misc Testing
+relevant: Misc Testing
 cites: 1
 score: 0
 
 title: AI: a lightweight system for tolerating concurrency bugs
 publication: FSE'14
 domain: Testing
-labels: Misc Testing
+relevant: Misc Testing
 cites: 20
 score: 0
 
 title: Beyond the rainbow: self-adaptive failure avoidance in configurable systems
 publication: FSE'14
 domain: Repair
-labels: Repair, Configuration
+relevant: Repair, Configuration
 cites: 32
 score: 0
 
 title: Cross-language program slicing for dynamic web applications
 publication: FSE'15
 domain: Program Slicing
-labels: Program Slicing
+relevant: Program Slicing
 cites: 33
 score: 0
 
 title: Automatic generation and maintenance of correct spreadsheets
 publication: ICSE'05
 domain: Spreadsheet
-labels: Generation, Repair
+relevant: Generation, Repair
 cites: 0
 score: 0
 
 title: Demand-driven structural testing with dynamic instrumentation
 publication: ICSE'05
 domain: Structural Testing
-labels: Testing, Structural Testing
+relevant: Testing, Structural Testing
 cites: 0
 score: 0
 
 title: Data structure repair using goal-directed reasoning
 publication: ICSE'05
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Verifying safety policies with size properties and alias controls
 publication: ICSE'05
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 0
 score: 0
 
 title: Locating causes of program failures
 publication: ICSE'05
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 0
 score: 0
 
 title: One evaluation of model-based testing and its automation
 publication: ICSE'05
 domain: Testing Evaluation
-labels: Testing Evaluation
+relevant: Testing Evaluation
 cites: 0
 score: 0
 
 title: Is mutation an appropriate tool for testing experiments
 publication: ICSE'05
 domain: Testing Evaluation
-labels: Testing Evaluation
+relevant: Testing Evaluation
 cites: 0
 score: 0
 
 title: An empirical evaluation of test case filtering techniques based on exercising complex information flows
 publication: ICSE'05
 domain: Testing Evaluation
-labels: Testing Evaluation
+relevant: Testing Evaluation
 cites: 0
 score: 0
 
 title: Check 'n' crash: combining static checking and testing
 publication: ICSE'05
 domain: Testing
-labels: Testing, Program Analysis, Static Analysis
+relevant: Testing, Program Analysis, Static Analysis
 cites: 0
 score: 0
 
 title: Efficient and precise dynamic impact analysis using execute-after sequences
 publication: ICSE'05
 domain: Program Analysis
-labels: Testing, Program Analysis, Dynamic Analysis
+relevant: Testing, Program Analysis, Dynamic Analysis
 cites: 0
 score: 0
 
 title: Improving test suites for efficient fault localization
 publication: ICSE'06
 domain: Testcase Improvement
-labels: Fault Localization
+relevant: Fault Localization
 cites: 0
 score: 0
 
 title: An intensional approach to the specification of test cases for database applications
 publication: ICSE'06
 domain: Testcase Improvement
-labels: Database Application
+relevant: Database Application
 cites: 0
 score: 0
 
 title: HDD: hierarchical Delta Debugging
 publication: ICSE'06
 domain: Debugging
-labels: Delta Debugging
+relevant: Delta Debugging
 cites: 0
 score: 0
 
 title: Managing space for finite-state verification
 publication: ICSE'06
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 0
 score: 0
 
 title: Backwards-compatible array bounds checking for C with very low overhead
 publication: ICSE'06
 domain: Bug Detection
-labels: Bug Detection, Program Analysis
+relevant: Bug Detection, Program Analysis
 cites: 0
 score: 0
 
 title: Inferring templates from spreadsheets
 publication: ICSE'06
 domain: Spreadsheet
-labels: Spreadsheet
+relevant: Spreadsheet
 cites: 0
 score: 0
 
 title: Semantics-based reverse engineering of object-oriented data models
 publication: ICSE'06
 domain: Reverse Engineering
-labels: Reverse Engineering, OOP
+relevant: Reverse Engineering, OOP
 cites: 0
 score: 0
 
 title: Modular checking for buffer overflows in the large
 publication: ICSE'06
 domain: Bug Detection
-labels: Bug Detection, Program Analysis
+relevant: Bug Detection, Program Analysis
 cites: 0
 score: 0
 
 title: Discovering faults in idiom-based exception handling
 publication: ICSE'06
 domain: Bug Detection
-labels: Bug Detection, Program Analysis
+relevant: Bug Detection, Program Analysis
 cites: 0
 score: 0
 
 title: Static detection of leaks in polymorphic containers
 publication: ICSE'06
 domain: Bug Detection
-labels: Bug Detection, Program Analysis
+relevant: Bug Detection, Program Analysis
 cites: 0
 score: 0
 
 title: Osprey: a practical type system for validating dimensional unit correctness of C programs
 publication: ICSE'06
 domain: Verification
-labels: Verification, Type System, Programming Language
+relevant: Verification, Type System, Programming Language
 cites: 0
 score: 0
 
 title: Locating faults through automated predicate switching
 publication: ICSE'06
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 0
 score: 0
 
 title: Perracotta: mining temporal API rules from imperfect traces
 publication: ICSE'06
 domain: API Mining
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Symbolic model checking of declarative relational models
 publication: ICSE'06
 domain: Model Checking
-labels: Model Checking
+relevant: Model Checking
 cites: 0
 score: 0
 
 title: Evaluation of mutation testing for object-oriented programs.
 publication: ICSE'06
 domain: Testing Evaluation
-labels: Testing Evaluation, OOP
+relevant: Testing Evaluation, OOP
 cites: 0
 score: 0
 
 title: Integrating static analysis and general-purpose theorem proving for termination analysis
 publication: ICSE'06
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 0
 score: 0
 
 title: Dynamically discovering likely interface invariants
 publication: ICSE'06
 domain: API Mining
-labels: API Mining
+relevant: API Mining
 cites: 0
 score: 0
 
 title: Understanding software application interfaces via string analysis
 publication: ICSE'06
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Parallel Randomized State-Space Search
 publication: ICSE'07
 domain: Model Checking
-labels: Model Checking
+relevant: Model Checking
 cites: 0
 score: 0
 
 title: Sequential Circuits for Relational Analysis
 publication: ICSE'07
 domain: Circuit Analysis
-labels: Circuit Analysis
+relevant: Circuit Analysis
 cites: 0
 score: 0
 
 title: Behaviour Model Synthesis from Properties and Scenarios
 publication: ICSE'07
 domain: Synthesis
-labels: Synthesis
+relevant: Synthesis
 cites: 0
 score: 0
 
 title: Regression Test Selection for AspectJ Software
 publication: ICSE'07
 domain: Testcase Reduction
-labels: Testing, Regression Testing, Testcase Reduction
+relevant: Testing, Regression Testing, Testcase Reduction
 cites: 0
 score: 0
 
 title: Adaptive Online Program Analysis
 publication: ICSE'07
 domain: Static Analysis
-labels: Static Analysis
+relevant: Static Analysis
 cites: 0
 score: 0
 
 title: Path-Sensitive Inference of Function Precedence Protocols
 publication: ICSE'07
 domain: Static Analysis
-labels: Static Analysis
+relevant: Static Analysis
 cites: 0
 score: 0
 
 title: Using GUI Run-Time State as Feedback to Generate Test Cases
 publication: ICSE'07
 domain: Testing
-labels: Misc Testing, GUI Testing
+relevant: Misc Testing, GUI Testing
 cites: 0
 score: 0
 
 title: Automated Generation of Context-Aware Tests
 publication: ICSE'07
 domain: Generation
-labels: Generation
+relevant: Generation
 cites: 0
 score: 0
 
 title: Hybrid Concolic Testing
 publication: ICSE'07
 domain: Concolic Testing
-labels: Concolic Testing
+relevant: Concolic Testing
 cites: 0
 score: 0
 
 title: Time will tell: fault localization using time spectra
 publication: ICSE'08
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 0
 score: 0
 
 title: ARTOO: adaptive random testing for object-oriented software
 publication: ICSE'08
 domain: Testing
-labels: Testing, OOP
+relevant: Testing, OOP
 cites: 0
 score: 0
 
 title: Mining library specifications using inductive logic programming
 publication: ICSE'08
 domain: API Mining
-labels: API Mining
+relevant: API Mining
 cites: 0
 score: 0
 
 title: DySy: dynamic symbolic execution for invariant inference
 publication: ICSE'08
 domain: API Mining
-labels: API Mining
+relevant: API Mining
 cites: 0
 score: 0
 
 title: Incremental state-space exploration for programs with dynamically allocated data
 publication: ICSE'08
 domain: Model Checking
-labels: Model Checking
+relevant: Model Checking
 cites: 0
 score: 0
 
 title: Data flow testing of service-oriented workflow applications
 publication: ICSE'08
 domain: Bug Detection
-labels: Testing, Web Application
+relevant: Testing, Web Application
 cites: 0
 score: 0
 
 title: Automatic generation of software behavioral models
 publication: ICSE'08
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Juzi: a tool for repairing complex data structures
 publication: ICSE'08
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Deryaft: a tool for generating representation invariants of structurally complex data
 publication: ICSE'08
 domain: Generation
-labels: Generation
+relevant: Generation
 cites: 0
 score: 0
 
 title: Lightweight fault-localization using multiple coverage types
 publication: ICSE'09
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 0
 score: 0
 
 title: HOLMES: Effective statistical debugging via efficient path profiling
 publication: ICSE'09
 domain: Debugging
-labels: Debugging
+relevant: Debugging
 cites: 0
 score: 0
 
 title: Taming coincidental correctness: Coverage refinement with context patterns to improve fault localization
 publication: ICSE'09
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 0
 score: 0
 
 title: Accurate Interprocedural Null-Dereference Analysis for Java
 publication: ICSE'09
 domain: Program Analysis
-labels: Null-Dereference Analysis, Java
+relevant: Null-Dereference Analysis, Java
 cites: 0
 score: 0
 
 title: The road not taken: Estimating path execution frequency statically
 publication: ICSE'09
 domain: Program Analysis
-labels: Static Analysis
+relevant: Static Analysis
 cites: 0
 score: 0
 
 title: Automatic dimension inference and checking for object-oriented programs
 publication: ICSE'09
 domain: Program Analysis
-labels: Static Analysis, OOP
+relevant: Static Analysis, OOP
 cites: 0
 score: 0
 
 title: Automatic creation of SQL Injection and cross-site scripting attacks
 publication: ICSE'09
 domain: Security
-labels: Generation, SQL, Web Application
+relevant: Generation, SQL, Web Application
 cites: 0
 score: 0
 
 title: Invariant-based automatic testing of AJAX user interfaces
 publication: ICSE'09
 domain: Testing
-labels: Web Application, AJAX
+relevant: Web Application, AJAX
 cites: 0
 score: 0
 
 title: Complete and accurate clone detection in graph-based models
 publication: ICSE'09
 domain: Clone Detection
-labels: Model
+relevant: Model
 cites: 0
 score: 0
 
 title: Automatically finding patches using genetic programming
 publication: ICSE'09
 domain: Repair
-labels: Repair, Generation
+relevant: Repair, Generation
 cites: 0
 score: 0
 
 title: Effective static deadlock detection
 publication: ICSE'09
 domain: Bug Detection
-labels: Static Analysis
+relevant: Static Analysis
 cites: 0
 score: 0
 
 title: Maintaining and evolving GUI-directed test scripts
 publication: ICSE'09
 domain: Misc Testing
-labels: GUI Testing
+relevant: GUI Testing
 cites: 0
 score: 0
 
 title: MINTS: A general framework and tool for supporting test-suite minimization
 publication: ICSE'09
 domain: Testcase Reduction
-labels: Testcase Reduction
+relevant: Testcase Reduction
 cites: 0
 score: 0
 
 title: Synthesizing intensional behavior models by graph transformation
 publication: ICSE'09
 domain: Synthesis
-labels: Model
+relevant: Model
 cites: 0
 score: 0
 
 title: WISE: Automated test generation for worst-case complexity
 publication: ICSE'09
 domain: Generation
-labels: Generation
+relevant: Generation
 cites: 0
 score: 0
 
 title: Taint-based directed whitebox fuzzing
 publication: ICSE'09
 domain: Fuzzing
-labels: Fuzzing
+relevant: Fuzzing
 cites: 0
 score: 0
 
 title: Generating performance distributions via probabilistic symbolic execution
 publication: ICSE'16
 domain: Performance
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 0
 score: 0
 
 title: Reliability of Run-Time Quality-of-Service evaluation using parametric model checking
 publication: ICSE'16
 domain: Model Checking
-labels: Model Checking
+relevant: Model Checking
 cites: 0
 score: 0
 
 title: Synthesizing framework models for symbolic execution
 publication: ICSE'16
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 0
 score: 0
 
 title: Type-aware concolic testing of JavaScript programs
 publication: ICSE'16
 domain: Concolic Testing
-labels: Concolic Testing, JavaScript, Web Application
+relevant: Concolic Testing, JavaScript, Web Application
 cites: 0
 score: 0
 
 title: Finding and analyzing compiler warning defects
 publication: ICSE'16
 domain: Compiler Testing
-labels: Compiler Testing
+relevant: Compiler Testing
 cites: 0
 score: 0
 
 title: Automatically learning semantic features for defect prediction
 publication: ICSE'16
 domain: Bug Prediction
-labels: Machine Learning
+relevant: Machine Learning
 cites: 0
 score: 0
 
 title: Automatic model generation from documentation for Java API functions
 publication: ICSE'16
 domain: Model
-labels: Model
+relevant: Model
 cites: 0
 score: 0
 
 title: Comparing white-box and black-box test prioritization
 publication: ICSE'16
 domain: Testing Evaluation
-labels: Testing Evaluation
+relevant: Testing Evaluation
 cites: 0
 score: 0
 
 title: Reducing combinatorics in GUI testing of android applications
 publication: ICSE'16
 domain: Android Testing
-labels: GUI Testing, Testcase Reduction
+relevant: GUI Testing, Testcase Reduction
 cites: 0
 score: 0
 
 title: Automated test suite generation for time-continuous simulink models
 publication: ICSE'16
 domain: Generation
-labels: Simulink
+relevant: Simulink
 cites: 0
 score: 0
 
 title: Angelix: scalable multiline program patch synthesis via symbolic analysis
 publication: ICSE'16
 domain: Repair
-labels: Generation, Symbolic Analysis
+relevant: Generation, Symbolic Analysis
 cites: 0
 score: 0
 
 title: PAC learning-based verification and model synthesis
 publication: ICSE'16
 domain: Synthesis
-labels: Machine Learning, Model, Synthesis
+relevant: Machine Learning, Model, Synthesis
 cites: 0
 score: 0
 
 title: BigDebug: debugging primitives for interactive big data processing in spark
 publication: ICSE'16
 domain: Debugging
-labels: Debugging
+relevant: Debugging
 cites: 0
 score: 0
 
 title: Efficient large-scale trace checking using mapreduce
 publication: ICSE'16
 domain: Dynamic Analysis
-labels: Dynamic Analysis
+relevant: Dynamic Analysis
 cites: 0
 score: 0
 
 title: Feedback-directed instrumentation for deployed JavaScript applications
 publication: ICSE'16
 domain: Debugging
-labels: JavaScript, Web Application
+relevant: JavaScript, Web Application
 cites: 0
 score: 0
 
 title: Floating-point precision tuning using blame analysis
 publication: ICSE'16
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Fixing deadlocks via lock pre-acquisitions
 publication: ICSE'16
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Coverage-driven test code generation for concurrent classes
 publication: ICSE'16
 domain: Generation
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Symbolic model extraction for web application verification
 publication: ICSE'17
 domain: Verification
-labels: Web Application, Symbolic Analysis
+relevant: Web Application, Symbolic Analysis
 cites: 0
 score: 0
 
 title: Optimizing test placement for module-level regression testing
 publication: ICSE'17
 domain: Testcase Prioritization
-labels: Testcase Prioritization
+relevant: Testcase Prioritization
 cites: 0
 score: 0
 
 title: Learning to prioritize test programs for compiler testing
 publication: ICSE'17
 domain: Testcase Prioritization
-labels: Testcase Prioritization, Compiler Testing
+relevant: Testcase Prioritization, Compiler Testing
 cites: 0
 score: 0
 
 title: Syntactic and semantic differencing for combinatorial models of test designs
 publication: ICSE'17
 domain: Model
-labels: Model
+relevant: Model
 cites: 0
 score: 0
 
 title: Balancing soundness and efficiency for practical testing of configurable systems
 publication: ICSE'17
 domain: Configuration
-labels: Configuration
+relevant: Configuration
 cites: 0
 score: 0
 
 title: Automatic text input generation for mobile testing
 publication: ICSE'17
 domain: Generation
-labels: Android Testing
+relevant: Android Testing
 cites: 0
 score: 0
 
 title: Evaluating and improving fault localization
 publication: ICSE'17
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 0
 score: 0
 
 title: Learning syntactic program transformations from examples
 publication: ICSE'17
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Precise condition synthesis for program repair
 publication: ICSE'17
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Performance diagnosis for inefficient loops
 publication: ICSE'17
 domain: Performance
-labels: Performance
+relevant: Performance
 cites: 0
 score: 0
 
 title: Efficient detection of thread safety violations via coverage-guided generation of concurrent tests
 publication: ICSE'17
 domain: Concurrency Testing
-labels: Concurrency Testing
+relevant: Concurrency Testing
 cites: 0
 score: 0
 
 title: Statically checking web API requests in JavaScript
 publication: ICSE'17
 domain: Testing
-labels: Static Analysis, JavaScript, Web Application
+relevant: Static Analysis, JavaScript, Web Application
 cites: 0
 score: 0
 
 title: On cross-stack configuration errors
 publication: ICSE'17
 domain: Configuration
-labels: Configuration
+relevant: Configuration
 cites: 0
 score: 0
 
 title: Search-driven string constraint solving for vulnerability detection
 publication: ICSE'17
 domain: Security
-labels: Symbolic Analysis
+relevant: Symbolic Analysis
 cites: 0
 score: 0
 
 title: Context-aware patch generation for better automated program repair
 publication: ICSE'18
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Towards practical program repair with on-demand candidate generation
 publication: ICSE'18
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Static automated program repair for heap properties
 publication: ICSE'18
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Semantic program repair using a reference implementation
 publication: ICSE'18
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Hybrid regression test selection
 publication: ICSE'18
 domain: Testcase Reduction
-labels: Testcase Reduction
+relevant: Testcase Reduction
 cites: 0
 score: 0
 
 title: Fine-grained test minimization
 publication: ICSE'18
 domain: Testcase Reduction
-labels: Testcase Reduction
+relevant: Testcase Reduction
 cites: 0
 score: 0
 
 title: FAST approaches to scalable similarity-based test case prioritization
 publication: ICSE'18
 domain: Testcase Reduction
-labels: Testcase Reduction
+relevant: Testcase Reduction
 cites: 0
 score: 0
 
 title: Towards refactoring-aware regression test selection
 publication: ICSE'18
 domain: Testcase Reduction
-labels: Testcase Reduction
+relevant: Testcase Reduction
 cites: 0
 score: 0
 
 title: Towards optimal concolic testing
 publication: ICSE'18
 domain: Concolic Testing
-labels: Concolic Testing
+relevant: Concolic Testing
 cites: 0
 score: 0
 
 title: Perses: syntax-guided program reduction
 publication: ICSE'18
 domain: Testcase Reduction
-labels: Testcase Reduction
+relevant: Testcase Reduction
 cites: 0
 score: 0
 
 title: Spatio-temporal context reduction: a pointer-analysis-based static approach for detecting use-after-free vulnerabilities
 publication: ICSE'18
 domain: Security
-labels: Security
+relevant: Security
 cites: 0
 score: 0
 
 title: DeFlaker: automatically detecting flaky tests
 publication: ICSE'18
 domain: Testcase Improvement
-labels: Testcase Improvement
+relevant: Testcase Improvement
 cites: 0
 score: 0
 
 title: ChangeLocator: locate crash-inducing changes based on crash reports
 publication: ICSE'18
 domain: Bug Localization
-labels: Bug Localization
+relevant: Bug Localization
 cites: 0
 score: 0
 
 title: Efficient sampling of SAT solutions for testing
 publication: ICSE'18
 domain: Symbolic Execution
-labels: SMT
+relevant: SMT
 cites: 0
 score: 0
 
 title: UFO: predictive concurrency use-after-free detection
 publication: ICSE'18
 domain: Bug Detection
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Collective program analysis
 publication: ICSE'18
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Redefining prioritization: continuous prioritization for continuous integration
 publication: ICSE'18
 domain: Testcase Prioritization
-labels: Testcase Prioritization
+relevant: Testcase Prioritization
 cites: 0
 score: 0
 
 title: ConflictJS: finding and understanding conflicts between JavaScript libraries
 publication: ICSE'18
 domain: Bug Detection
-labels: JavaScript, Web Application
+relevant: JavaScript, Web Application
 cites: 0
 score: 0
 
 title: Debugging data flows in reactive programs
 publication: ICSE'18
 domain: Debugging
-labels: Debugging
+relevant: Debugging
 cites: 0
 score: 0
 
 title: Identifying patch correctness in test-based program repair
 publication: ICSE'18
 domain: Misc Testing
-labels: Misc Testing
+relevant: Misc Testing
 cites: 0
 score: 0
 
 title: RFC-directed differential testing of certificate validation in SSL/TLS implementations
 publication: ICSE'18
 domain: Differential Testing
-labels: Differential Testing
+relevant: Differential Testing
 cites: 0
 score: 0
 
 title: Symbolic verification of regular properties
 publication: ICSE'18
 domain: Symbolic Analysis
-labels: Symbolic Analysis
+relevant: Symbolic Analysis
 cites: 0
 score: 0
 
 title: Metamorphic testing of RESTful web APIs
 publication: ICSE'18
 domain: Metamorphic Testing
-labels: Web Application
+relevant: Web Application
 cites: 0
 score: 0
 
 title: Generalized data structure synthesis
 publication: ICSE'18
 domain: Synthesis
-labels: Synthesis
+relevant: Synthesis
 cites: 0
 score: 0
 
 title: A graph solver for the automated generation of consistent domain-specific models
 publication: ICSE'18
 domain: Generation
-labels: Generation, Model
+relevant: Generation, Model
 cites: 0
 score: 0
 
 title: Automatically finding bugs in a commercial cyber-physical system development tool chain with SLforge
 publication: ICSE'18
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: MSeer: an advanced technique for locating multiple bugs in parallel
 publication: ICSE'18
 domain: Bug Localization
-labels: Bug Localization
+relevant: Bug Localization
 cites: 0
 score: 0
 
 title: Programming not only by example
 publication: ICSE'18
 domain: PBE
-labels: PBE
+relevant: PBE
 cites: 0
 score: 0
 
 title: A static verification framework for message passing in Go using behavioural types
 publication: ICSE'18
 domain: Verification
-labels: Static Analysis
+relevant: Static Analysis
 cites: 0
 score: 0
 
 title: Learning to spot and refactor inconsistent method names
 publication: ICSE'19
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Harnessing evolution for multi-hunk program repair
 publication: ICSE'19
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Smoke: scalable path-sensitive memory leak detection for millions of lines of code
 publication: ICSE'19
 domain: Bug Detection
-labels: Static Analysis
+relevant: Static Analysis
 cites: 0
 score: 0
 
 title: A system identification based Oracle for control-CPS software fault localization
 publication: ICSE'19
 domain: Bug Localization
-labels: Bug Localization
+relevant: Bug Localization
 cites: 0
 score: 0
 
 title: ReCDroid: automatically reproducing Android application crashes from bug reports
 publication: ICSE'19
 domain: Replay
-labels: Replay
+relevant: Replay
 cites: 0
 score: 0
 
 title: DifFuzz: differential fuzzing for side-channel analysis
 publication: ICSE'19
 domain: Program Analysis
-labels: Fuzzing, Differential Testing
+relevant: Fuzzing, Differential Testing
 cites: 0
 score: 0
 
 title: Zero-overhead path prediction with progressive symbolic execution
 publication: ICSE'19
 domain: Program Analysis
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 0
 score: 0
 
 title: Practical GUI testing of Android applications via model abstraction and refinement
 publication: ICSE'19
 domain: Android Testing
-labels: GUI Testing
+relevant: GUI Testing
 cites: 0
 score: 0
 
 title: AutoTap: synthesizing and repairing trigger-action programs using LTL properties
 publication: ICSE'19
 domain: Synthesis
-labels: Synthesis, Logic
+relevant: Synthesis, Logic
 cites: 0
 score: 0
 
 title: DockerizeMe: automatic inference of environment dependencies for python code snippets
 publication: ICSE'19
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Scalable approaches for test suite reduction
 publication: ICSE'19
 domain: Testcase Reduction
-labels: Testcase Reduction
+relevant: Testcase Reduction
 cites: 0
 score: 0
 
 title: Hunting for bugs in code coverage tools via randomized differential testing
 publication: ICSE'19
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: VFix: value-flow-guided precise program repair for null pointer dereferences
 publication: ICSE'19
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Detecting atomicity violations for event-driven Node.js applications
 publication: ICSE'19
 domain: Bug Detection
-labels: JavaScript
+relevant: JavaScript
 cites: 0
 score: 0
 
 title: Parallel refinement for multi-threaded program verification
 publication: ICSE'19
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 0
 score: 0
 
 title: Class imbalance evolution and verification latency in just-in-time software defect prediction
 publication: ICSE'19
 domain: Bug Prediction
-labels: Bug Prediction
+relevant: Bug Prediction
 cites: 0
 score: 0
 
 title: SLF: fuzzing without valid seed inputs
 publication: ICSE'19
 domain: Fuzzing
-labels: Fuzzing
+relevant: Fuzzing
 cites: 0
 score: 0
 
 title: Superion: grammar-aware greybox fuzzing
 publication: ICSE'19
 domain: Fuzzing
-labels: Fuzzing
+relevant: Fuzzing
 cites: 0
 score: 0
 
 title: Grey-box concolic testing on binary code
 publication: ICSE'19
 domain: Concolic Testing
-labels: Concolic Testing
+relevant: Concolic Testing
 cites: 0
 score: 0
 
 title: RESTler: stateful REST API fuzzing
 publication: ICSE'19
 domain: Fuzzing
-labels: Web Application
+relevant: Web Application
 cites: 0
 score: 0
 
 title: SafeCheck: safety enhancement of Java unsafe API
 publication: ICSE'19
 domain: Bug Prevention
-labels: Java, API
+relevant: Java, API
 cites: 0
 score: 0
 
 title: Redundant loads: a software inefficiency indicator
 publication: ICSE'19
 domain: Performance
-labels: Android, Performance
+relevant: Android, Performance
 cites: 0
 score: 0
 
 title: Symbolic repairs for GR(1) specifications
 publication: ICSE'19
 domain: Specification Repair
-labels: Symbolic Analysis
+relevant: Symbolic Analysis
 cites: 0
 score: 0
 
 title: Global optimization of numerical programs via prioritized stochastic algebraic transformations
 publication: ICSE'19
 domain: Program Optimization
-labels: Program Optimization
+relevant: Program Optimization
 cites: 0
 score: 0
 
 title: Ankou: Guiding Grey-box Fuzzing towards Combinatorial Difference
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Automatically Testing String Solvers
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: BCFA: Bespoke Control Flow Analysis for CFA at Scale
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Burn After Reading: A Shadow Stack with Microsecond-level Runtime Rerandomization for Protecting Return Addresses
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Causal Testing: Understanding Defects' Root Causes
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Debugging Inputs
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Efficient Generation of Error-Inducing Floating-Point Inputs via Symbolic Execution
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Extracting Taint Specifications for JavaScript Libraries
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: HyDiff: Hybrid Differential Software Analysis
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: JVM Fuzzing for JIT-Induced Side-Channel Detection
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: MemLock: Memory Usage Guided Fuzzing
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Pipelining Bottom-up Data Flow Analysis
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Quickly Generating Diverse Valid Test Inputs with Reinforcement Learning
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS Models for Finding Compiler Bugs in Simulink
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Securing UnSafe Rust Programs with XRust
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: SpecuSym: Speculative Symbolic Execution for Cache Timing Leak Detection
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Symbolic Verification of Message Passing Interface Programs
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Tailoring Programs for Static Analysis via Program Transformation
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Taming Behavioral Backward Incompatibilities via Cross-Project Testing and Analysis
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Targeted Greybox Fuzzing with Static Lookahead Analysis
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Typestate-Guided Fuzzer for Discovering Use-after-Free Vulnerabilities
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Verifying Object Construction
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: White-box Fairness Testing through Adversarial Sampling
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: sFuzz: An Efficient Adaptive Fuzzer for Solidity Smart Contracts
 publication: ICSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title:RDiff: Scaling Program Equivalence Checking via Iterative Abstraction and Refinement of Common Code
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Baital: An Adaptive Weighted Sampling Approach for Improved t-wise Coverage
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Block Public Access: Trust Safety Verification of Access Control Policies
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Boosting Fuzzer Efficiency: An Information Theoretic Perspective
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: C2S: Translating Natural Language Comments to Formal Program Specifications
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Configuration Smells in Continuous Delivery Pipelines: A Linter and a Six-Month Study on GitLab
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Cost Measures Matter for Mutation Testing Study Validity
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: CrFuzz: Fuzzing Multi-purpose Programs through Input Validation
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Detecting Critical Bugs in SMT Solvers Using Blackbox Mutational Fuzzing
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Detecting Numerical Bugs in Neural Network Architectures
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Detecting Optimization Bugs in Database Engines via Non-optimizing Reference Engine Construction
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Detecting and Understanding JavaScript Global Identifier Conflicts on the Web
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Dynamically Reconfiguring Software Microbenchmarks: Reducing Execution Time without Sacrificing Result Quality
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Efficient Binary-Level Coverage Analysis
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Efficiently Finding Higher-Order Mutants
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Evolutionary Improvement of Assertion Oracles
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Fuzzing: On the Exponential Cost of Vulnerability Discovery
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Inductive Program Synthesis over Noisy Data
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Intelligent REST API Data Fuzzing
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Interval Counterexamples for Loop Invariant Learning
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Java Ranger: Statically Summarizing Regions for Efficient Symbolic Execution of Java
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Making Symbolic Execution Promising by Learning Aggressive State-Pruning Strategy
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Willias: Mining Input Grammars from Dynamic Control Flow
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Past-Sensitive Pointer Analysis for Symbolic Execution
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: UBITect: A Precise and Scalable Method to Detect Use-before-Initialization Bugs in Linux Kernel
 publication: FSE'20
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Towards a unified formal model for supporting mechanisms of dynamic component update
 publication: FSE'05
 domain: Dynamic Update
-labels: Dynamic Update
+relevant: Dynamic Update
 cites: 0
 score: 0
 
 title: Fluent temporal logic for discrete-time event-based models
 publication: FSE'05
 domain: Model
-labels: Model, Logic
+relevant: Model, Logic
 cites: 0
 score: 0
 
 title: Arithmetic program paths
 publication: FSE'05
 domain: Program Comprehension
-labels: Program Comprehension
+relevant: Program Comprehension
 cites: 0
 score: 0
 
 title: Context- and path-sensitive memory leak detection
 publication: FSE'05
 domain: Bug Detection
-labels: Bug Detection, Memory Leak Detection
+relevant: Bug Detection, Memory Leak Detection
 cites: 0
 score: 0
 
 title: Performance data collection using a hybrid approach
 publication: FSE'05
 domain: Performance
-labels: Performance
+relevant: Performance
 cites: 0
 score: 0
 
 title: Applying classification techniques to remotely-collected program execution data
 publication: FSE'05
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Joining dataflow with predicates
 publication: FSE'05
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Lightweight object specification with typestates
 publication: FSE'05
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Relational analysis of algebraic datatypes
 publication: FSE'05
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Parameterized unit tests
 publication: FSE'05
 domain: Regression Testing
-labels: Regression Testing, Unit Testing
+relevant: Regression Testing, Unit Testing
 cites: 0
 score: 0
 
 title: CUTE: a concolic unit testing engine for C
 publication: FSE'05
 domain: Unit Testing
-labels: Unit Testing
+relevant: Unit Testing
 cites: 0
 score: 0
 
 title: SOBER: statistical model-based bug localization
 publication: FSE'05
 domain: Bug Localization
-labels: Bug Localization, Model
+relevant: Bug Localization, Model
 cites: 0
 score: 0
 
 title: Memories of bug fixes
 publication: FSE'06
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Failure proximity: a fault localization-based approach
 publication: FSE'06
 domain: 
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Finding failure-inducing changes in java programs using change classification
 publication: FSE'06
 domain: 
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Dynamic slicing long running programs through execution fast forwarding
 publication: FSE'06
 domain: 
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Controlling factors in evaluating path-sensitive error detection techniques
 publication: FSE'06
 domain: 
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: SYNERGY: a new algorithm for property checking
 publication: FSE'06
 domain: 
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Using positive tainting and syntax-aware evaluation to counter SQL injection attacks
 publication: FSE'06
 domain: Security
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Testing context-aware middleware-centric programs: a data flow approach and an RFID-based experimentation
 publication: FSE'06
 domain: Testing
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Simulation-based test adequacy criteria for distributed systems
 publication: FSE'06
 domain: Testing
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Carving differential unit test cases from system test cases
 publication: FSE'06
 domain:
-labels: Unit Testing
+relevant: Unit Testing
 cites: 0
 score: 0
 
 title: Mining specifications of malicious behavior
 publication: FSE'07
 domain:
-labels: Program Comprehension
+relevant: Program Comprehension
 cites: 0
 score: 0
 
 title: Mining API patterns as partial orders from source code: from usage scenarios to specifications
 publication: FSE'07
 domain:
-labels: API
+relevant: API
 cites: 0
 score: 0
 
 title: Detecting object usage anomalies
 publication: FSE'07
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Which warnings should I fix first
 publication: FSE'07
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Context-based detection of clone-related bugs
 publication: FSE'07
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Programming asynchronous layers with CLARITY
 publication: FSE'07
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Object and reference immutability using java generics
 publication: FSE'07
 domain:
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Efficient checkpointing of java software using context-sensitive capture and replay
 publication: FSE'07
 domain: Replay
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Parallel test generation and execution with Korat
 publication: FSE'07
 domain: Generation
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Improving test case generation for web applications using automated interface discovery
 publication: FSE'07
 domain: Generation
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: The impact of input domain reduction on search-based test data generation
 publication: FSE'07
 domain: Testcase Reduction
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: The impact of input domain reduction on search-based test data generation
 publication: FSE'07
 domain: Testcase Reduction
-labels:
+relevant:
 cites: 0
 score: 0
 
 title: Finding bugs efficiently with a SAT solver
 publication: FSE'07
 domain: Bug Detection
-labels: SMT
+relevant: SMT
 cites: 0
 score: 0
 
 title: RELAY: static race detection on millions of lines of code
 publication: FSE'07
 domain: Race Detection
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Detecting large number of infeasible paths through recognizing their patterns
 publication: FSE'07
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 0
 score: 0
 
 title: Model checking service compositions under resource constraints
 publication: FSE'07
 domain: Model Checking
-labels: Model Checking
+relevant: Model Checking
 cites: 0
 score: 0
 
 title: Difference computation of large models
 publication: FSE'07
 domain: Model
-labels: Model
+relevant: Model
 cites: 0
 score: 0
 
 title: State space exploration using feedback constraint generation and Monte-Carlo sampling
 publication: FSE'07
 domain: State Space Exploration
-labels: State Space Exploration
+relevant: State Space Exploration
 cites: 0
 score: 0
 
 title: State space exploration using feedback constraint generation and Monte-Carlo sampling
 publication: FSE'07
 domain: State Space Exploration
-labels: State Space Exploration
+relevant: State Space Exploration
 cites: 0
 score: 0
 
 title: Automated size analysis for OCL
 publication: FSE'07
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Program comprehension as fact finding
 publication: FSE'07
 domain: Program Comprehension
-labels: Program Comprehension
+relevant: Program Comprehension
 cites: 0
 score: 0
 
 title: Program comprehension as fact finding
 publication: FSE'07
 domain: Program Comprehension
-labels: Program Comprehension
+relevant: Program Comprehension
 cites: 0
 score: 0
 
 title: Finding programming errors earlier by evaluating runtime monitors ahead-of-time
 publication: FSE'08
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Profile-guided program simplification for effective testing and analysis
 publication: FSE'08
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Deriving input syntactic structure from execution
 publication: FSE'08
 domain: Grammer Extract
-labels: Grammer Extract
+relevant: Grammer Extract
 cites: 0
 score: 0
 
 title: Inter-context control-flow and data-flow test adequacy criteria for nesC applications
 publication: FSE'08
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Using assertions to help end-user programmers create dependable web macros
 publication: FSE'08
 domain: Web Application
-labels: Web Application
+relevant: Web Application
 cites: 0
 score: 0
 
 title: Randomized active atomicity violation detection in concurrent programs
 publication: FSE'08
 domain: Concurrency
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Automated identification of parameter mismatches in web applications
 publication: FSE'08
 domain: Bug Detection
-labels: Web Application
+relevant: Web Application
 cites: 0
 score: 0
 
 title: Differential symbolic execution
 publication: FSE'08
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 0
 score: 0
 
 title: Effective blame for information-flow violations
 publication: FSE'08
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 0
 score: 0
 
 title: Model-based fault detection in context-aware adaptive applications
 publication: FSE'08
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Marple: a demand-driven path-sensitive buffer overflow detector
 publication: FSE'08
 domain: Bug Detection
-labels: Bug Detection, Buffer Overflow
+relevant: Bug Detection, Buffer Overflow
 cites: 0
 score: 0
 
 title: Towards compositional synthesis of evolving systems
 publication: FSE'08
 domain: Synthesis
-labels: Synthesis
+relevant: Synthesis
 cites: 0
 score: 0
 
 title: On correct and complete strong merging of partial behaviour models
 publication: FSE'08
 domain: Model
-labels: Model
+relevant: Model
 cites: 0
 score: 0
 
 title: Javert: fully automatic mining of general temporal properties from dynamic traces
 publication: FSE'08
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Asserting and checking determinism for multithreaded programs
 publication: FSE'09
 domain: Concurrency
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Static data race detection for concurrent programs with asynchronous calls
 publication: FSE'09
 domain: Concurrency
-labels: Concurrency, Race Detection
+relevant: Concurrency, Race Detection
 cites: 0
 score: 0
 
 title: Symbolic pruning of concurrent program executions
 publication: FSE'09
 domain: Concurrency
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Darwin: an approach for debugging evolving programs
 publication: FSE'09
 domain: Debugging
-labels: Debugging
+relevant: Debugging
 cites: 0
 score: 0
 
 title: Capturing propagation of infected program states
 publication: FSE'09
 domain: Bug Localization
-labels: Bug Localization
+relevant: Bug Localization
 cites: 0
 score: 0
 
 title: Saturation-based testing of concurrent programs
 publication: FSE'09
 domain: Concurrency
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Automated security testing of web widget interactions
 publication: FSE'09
 domain: Testing
-labels: Web Application
+relevant: Web Application
 cites: 0
 score: 0
 
 title: Backward-compatible constant-time exception-protected memory
 publication: FSE'09
 domain: Misc
-labels: Misc
+relevant: Misc
 cites: 0
 score: 0
 
 title: Improving slice accuracy by compression of data and control flow paths
 publication: FSE'09
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Fitting the pieces together: a machine-checked model of safe composition
 publication: FSE'09
 domain: Model
-labels: Model
+relevant: Model
 cites: 0
 score: 0
 
 title: Synthesizing partial component-level behavior models from system specifications
 publication: FSE'09
 domain: Model
-labels: Model
+relevant: Model
 cites: 0
 score: 0
 
 title: Supporting automatic model inconsistency fixing
 publication: FSE'09
 domain: Model
-labels: Model
+relevant: Model
 cites: 0
 score: 0
 
 title: Behavioral automata composition for automatic topology independent verification of parameterized systems
 publication: FSE'09
 domain: Model
-labels: Model
+relevant: Model
 cites: 0
 score: 0
 
 title: Probabilistic environments in the quantitative analysis of (non-probabilistic) behaviour models
 publication: FSE'09
 domain: Behavior Model
-labels: Behavior Model
+relevant: Behavior Model
 cites: 0
 score: 0
 
 title: Automatic steering of behavioral model inference
 publication: FSE'09
 domain: Behavior Model
-labels: Behavior Model
+relevant: Behavior Model
 cites: 0
 score: 0
 
 title: Sireum/Topi LDP: a lightweight semi-decision procedure for optimizing symbolic execution-based analyses
 publication: FSE'09
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Titanium: efficient analysis of evolving alloy specifications
 publication: FSE'16
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Mining performance specifications
 publication: FSE'16
 domain: Performance
-labels: Mining, Specification
+relevant: Mining, Specification
 cites: 0
 score: 0
 
 title: Proteus: computing disjunctive loop summary via path dependency analysis
 publication: FSE'16
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Python predictive analysis for bug detection
 publication: FSE'16
 domain: Bug Detection
-labels: Bug Detection, Python
+relevant: Bug Detection, Python
 cites: 0
 score: 0
 
 title: Crash consistency validation made easy
 publication: FSE'16
 domain: Crash Consistency
-labels: Crash Consistency
+relevant: Crash Consistency
 cites: 0
 score: 0
 
 title: Discovering bug patterns in JavaScript
 publication: FSE'16
 domain: Bug Patterns Mining
-labels: JavaScript, Web Application
+relevant: JavaScript, Web Application
 cites: 0
 score: 0
 
 title: Effort-aware just-in-time defect prediction: simple unsupervised models could be better than supervised models
 publication: FSE'16
 domain: Bug Prediction
-labels: Bug Prediction
+relevant: Bug Prediction
 cites: 0
 score: 0
 
 title: String analysis for side channels with segmented oracles
 publication: FSE'16
 domain: Security
-labels: Security, String Analysis
+relevant: Security, String Analysis
 cites: 0
 score: 0
 
 title: Parameter-free probabilistic API mining across GitHub
 publication: FSE'16
 domain: API Mining
-labels: API Mining
+relevant: API Mining
 cites: 0
 score: 0
 
 title: Extracting instruction semantics via symbolic execution of code generators
 publication: FSE'16
 domain: Generation
-labels: Generation
+relevant: Generation
 cites: 0
 score: 0
 
 title: Efficient generation of inductive validity cores for safety properties
 publication: FSE'16
 domain: Generation
-labels: Generation
+relevant: Generation
 cites: 0
 score: 0
 
 title: Correctness witnesses: exchanging verification results between verifiers
 publication: FSE'16
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 0
 score: 0
 
 title: SMT-based verification of parameterized systems
 publication: FSE'16
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 0
 score: 0
 
 title: On-the-fly decomposition of specifications in software model checking
 publication: FSE'16
 domain: Model Checking
-labels: Model Checking
+relevant: Model Checking
 cites: 0
 score: 0
 
 title: On well-separation of GR(1) specifications
 publication: FSE'16
 domain: Specification
-labels: GR(1)
+relevant: GR(1)
 cites: 0
 score: 0
 
 title: Lightweight specification and analysis of dynamic systems with rich configurations
 publication: FSE'16
 domain: Configuration
-labels: Configuration
+relevant: Configuration
 cites: 0
 score: 0
 
 title: Understanding and detecting wake lock misuses for Android applications
 publication: FSE'16
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Minimizing GUI event traces
 publication: FSE'16
 domain: Misc
-labels: Misc
+relevant: Misc
 cites: 0
 score: 0
 
 title: Detecting and fixing precision-specific operations for measuring floating-point errors
 publication: FSE'16
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Understanding and generating high quality patches for concurrency bugs
 publication: FSE'16
 domain: Repair
-labels: Repair, Concurrency
+relevant: Repair, Concurrency
 cites: 0
 score: 0
 
 title: Anti-patterns in search-based program repair
 publication: FSE'16
 domain: Repair
-labels: Repair, Concurrency
+relevant: Repair, Concurrency
 cites: 0
 score: 0
 
 title: Flow-sensitive composition of thread-modular abstract interpretation
 publication: FSE'16
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Parallel data race detection for task parallel programs with locks
 publication: FSE'16
 domain: Bug Detection
-labels: Race Detection
+relevant: Race Detection
 cites: 0
 score: 0
 
 title: Directed test generation to detect loop inefficiencies
 publication: FSE'16
 domain: Generation
-labels: Generation
+relevant: Generation
 cites: 0
 score: 0
 
 title: Field-exhaustive testing
 publication: FSE'16
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 0
 score: 0
 
 title: Isomorphic regression testing: executing uncovered branches without test augmentation
 publication: FSE'16
 domain: Regression Testing
-labels: Regression Testing
+relevant: Regression Testing
 cites: 0
 score: 0
 
 title: Finding near-optimal configurations in product lines by random sampling
 publication: FSE'17
 domain: Configuration
-labels: Configuration
+relevant: Configuration
 cites: 0
 score: 0
 
 title: Loopster: static loop termination analysis
 publication: FSE'17
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Measuring neural efficiency of program comprehension
 publication: FSE'17
 domain: Program Comprehension
-labels: Program Comprehension
+relevant: Program Comprehension
 cites: 0
 score: 0
 
 title: Bayesian specification learning for finding API usage errors
 publication: FSE'17
 domain: Bug Detection
-labels: API
+relevant: API
 cites: 0
 score: 0
 
 title: Synergistic debug-repair of heap manipulations
 publication: FSE'17
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Failure-directed program trimming
 publication: FSE'17
 domain: Misc
-labels: Misc
+relevant: Misc
 cites: 0
 score: 0
 
 title: Kmax: finding all configurations of Kbuild makefiles statically
 publication: FSE'17
 domain: Configuration
-labels: Configuration
+relevant: Configuration
 cites: 0
 score: 0
 
 title: Adaptively generating high quality fixes for atomicity violations
 publication: FSE'17
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: AtexRace: across thread and execution sampling for in-house race detection
 publication: FSE'17
 domain: Race Detection
-labels: Race Detection
+relevant: Race Detection
 cites: 0
 score: 0
 
 title: Symbolic execution of programmable logic controller code
 publication: FSE'17
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 0
 score: 0
 
 title: A symbolic justice violations transition system for unrealizable GR(1) specifications
 publication: FSE'17
 domain: Formalization
-labels: GR(1)
+relevant: GR(1)
 cites: 0
 score: 0
 
 title: Model-level, platform-independent debugging in the context of the model-driven development of real-time systems
 publication: FSE'17
 domain: Debugging
-labels: Debugging
+relevant: Debugging
 cites: 0
 score: 0
 
 title: Toward full elasticity in distributed static analysis: the case of callgraph analysis
 publication: FSE'17
 domain: Static Analysis
-labels: Static Analysis
+relevant: Static Analysis
 cites: 0
 score: 0
 
 title: Probabilistic model checking of perturbed MDPs with applications to cloud computing
 publication: FSE'17
 domain: Model Checking
-labels: Model Checking
+relevant: Model Checking
 cites: 0
 score: 0
 
 title: Cimplifier: automatically debloating containers
 publication: FSE'17
 domain: Container
-labels: Container
+relevant: Container
 cites: 0
 score: 0
 
 title: Craig vs. Newton in software model checking
 publication: FSE'17
 domain: Model Checking
-labels: Model Checking
+relevant: Model Checking
 cites: 0
 score: 0
 
 title: Fairness testing: testing software for discrimination
 publication: FSE'17
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 0
 score: 0
 
 title: QTEP: quality-aware test case prioritization
 publication: FSE'17
 domain: Testcase Prioritization
-labels: Testcase Prioritization
+relevant: Testcase Prioritization
 cites: 0
 score: 0
 
 title: Constraint normalization and parameterized caching for quantitative program analysis
 publication: FSE'17
 domain: Program Analysis
-labels: Parameterized Program
+relevant: Parameterized Program
 cites: 0
 score: 0
 
 title: Generalized observational slicing for tree-represented modelling languages
 publication: FSE'17
 domain: Program Language
-labels: Program Slicing
+relevant: Program Slicing
 cites: 0
 score: 0
 
 title: NoFAQ: synthesizing command repairs from examples
 publication: FSE'17
 domain: Synthesis
-labels: Synthesis
+relevant: Synthesis
 cites: 0
 score: 0
 
 title: S3: syntax- and semantic-guided repair synthesis via programming by examples
 publication: FSE'17
 domain: Repair
-labels: Repair, PBE
+relevant: Repair, PBE
 cites: 0
 score: 0
 
 title: Counterexample-guided approach to finding numerical invariants
 publication: FSE'17
 domain: Program Analysis
-labels: Invariant Detection
+relevant: Invariant Detection
 cites: 0
 score: 0
 
 title: Discovering relational specifications
 publication: FSE'17
 domain: Specification
-labels: Specification
+relevant: Specification
 cites: 0
 score: 0
 
 title: Steelix: program-state based binary fuzzing
 publication: FSE'17
 domain: Fuzzing
-labels: Fuzzing
+relevant: Fuzzing
 cites: 0
 score: 0
 
 title: A compiler and verifier for page access oblivious computation
 publication: FSE'17
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 0
 score: 0
 
 title: Recovering clear, natural identifiers from obfuscated JS names
 publication: FSE'17
 domain: JavaScript
-labels: JavaScript
+relevant: JavaScript
 cites: 0
 score: 0
 
 title: DESCRY: reproducing system-level concurrency failures
 publication: FSE'17
 domain: Replay
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Reproducing concurrency failures from crash stacks
 publication: FSE'17
 domain: Replay
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Automatically analyzing groups of crashes for finding correlations
 publication: FSE'17
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Automatic inference of code transforms for patch generation
 publication: FSE'17
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Automatically diagnosing and repairing error handling bugs in C
 publication: FSE'17
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Regression test selection across JVM boundaries
 publication: FSE'17
 domain: Regression Testing
-labels: Regression Testing
+relevant: Regression Testing
 cites: 0
 score: 0
 
 title: Better test cases for better automated program repair
 publication: FSE'17
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: CloudRaid: hunting concurrency bugs in the cloud via log-mining
 publication: FSE'18
 domain: Bug Detection
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Testing multithreaded programs via thread speed control
 publication: FSE'18
 domain: Bug Detection
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Data race detection on compressed traces
 publication: FSE'18
 domain: Race Detection
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Practical AJAX race detection for JavaScript web applications
 publication: FSE'18
 domain: Race Detection
-labels: AJAX, JavaScript, Web Application
+relevant: AJAX, JavaScript, Web Application
 cites: 0
 score: 0
 
 title: Using finite-state models for log differencing
 publication: FSE'18
 domain: Misc
-labels: Misc
+relevant: Misc
 cites: 0
 score: 0
 
 title: Learning to sample: exploiting similarities across environments to learn performance models for configurable systems
 publication: FSE'18
 domain: Configuration
-labels: Configuration, Performance
+relevant: Configuration, Performance
 cites: 0
 score: 0
 
 title: MemFix: static analysis-based repair of memory deallocation errors for C
 publication: FSE'18
 domain: Static Analysis
-labels: Static Analysis
+relevant: Static Analysis
 cites: 0
 score: 0
 
 title: RefiNym: using names to refine types
 publication: FSE'18
 domain: Static Analysis
-labels: Static Analysis
+relevant: Static Analysis
 cites: 0
 score: 0
 
 title: Darwinian data structure selection
 publication: FSE'18
 domain: Static Analysis
-labels: Static Analysis
+relevant: Static Analysis
 cites: 0
 score: 0
 
 title: Scalability-first pointer analysis with self-tuning context-sensitivity
 publication: FSE'18
 domain: Pointer Analysis
-labels: Static Analysis
+relevant: Static Analysis
 cites: 0
 score: 0
 
 title: Singularity: pattern fuzzing for worst case complexity
 publication: FSE'18
 domain: Fuzzing
-labels: Fuzzing
+relevant: Fuzzing
 cites: 0
 score: 0
 
 title: Bug synthesis: challenging bug-finding tools with deep faults
 publication: FSE'18
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: The impact of regular expression denial of service (ReDoS) in practice: an empirical study at the ecosystem scale
 publication: FSE'18
 domain: Regular Expression
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Concurrency verification with maximal path causality
 publication: FSE'18
 domain: Verification
-labels: Verification
+relevant: Verification
 cites: 0
 score: 0
 
 title: Adversarial symbolic execution for detecting concurrency-related cache timing leaks
 publication: FSE'18
 domain: Concurrency
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Symbolic execution with existential second-order constraints
 publication: FSE'18
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 0
 score: 0
 
 title: Parameterized model counting for string and numeric constraints
 publication: FSE'18
 domain: Parameterized Program
-labels: Parameterized Program
+relevant: Parameterized Program
 cites: 0
 score: 0
 
 title: NAR-miner: discovering negative association rules from code for bug detection
 publication: FSE'18
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Path-based function embedding and its application to error-handling specification mining
 publication: FSE'18
 domain: Specification
-labels: Specification
+relevant: Specification
 cites: 0
 score: 0
 
 title: Visual web test repair
 publication: FSE'18
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Syntax-guided synthesis of Datalog programs
 publication: FSE'18
 domain: Synthesis
-labels: Synthesis
+relevant: Synthesis
 cites: 0
 score: 0
 
 title: Testing probabilistic programming systems
 publication: FSE'18
 domain: Testing
-labels: Probabilistic Programming Language
+relevant: Probabilistic Programming Language
 cites: 0
 score: 0
 
 title: Verifying the long-run behavior of probabilistic system models in the presence of uncertainty
 publication: FSE'18
 domain: Verification
-labels: Probabilistic Programming Language
+relevant: Probabilistic Programming Language
 cites: 0
 score: 0
 
 title: Automated patch extraction via syntax- and semantics-aware Delta debugging on source code changes
 publication: FSE'18
 domain: Path Synthesis
-labels: Debugging
+relevant: Debugging
 cites: 0
 score: 0
 
 title: Feedback-directed differential testing of interactive debuggers
 publication: FSE'18
 domain: Differential Testing
-labels: Differential Testing
+relevant: Differential Testing
 cites: 0
 score: 0
 
 title: Improving IR-based bug localization with context-aware query reformulation
 publication: FSE'18
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 0
 score: 0
 
 title: Optimizing test prioritization via test distribution analysis
 publication: FSE'18
 domain: Test Prioritization
-labels: Test Prioritization
+relevant: Test Prioritization
 cites: 0
 score: 0
 
 title: Which generated test failures are fault revealing? prioritizing failures based on inferred precondition violations using PAF
 publication: FSE'18
 domain: Test Prioritization
-labels: Test Prioritization
+relevant: Test Prioritization
 cites: 0
 score: 0
 
 title: Towards counterexample-guided k-induction for fast bug detection
 publication: FSE'18
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Towards counterexample-guided k-induction for fast bug detection
 publication: FSE'18
 domain: Bug Detection
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Efficient static checking of library updates
 publication: FSE'18
 domain: Bug Detection
-labels: Static Analysis, Library
+relevant: Static Analysis, Library
 cites: 0
 score: 0
 
 title: Regression test selection for TizenRT
 publication: FSE'18
 domain: Testcase Selection
-labels: Test Automation, Testcase Selection
+relevant: Test Automation, Testcase Selection
 cites: 0
 score: 0
 
 title: FOT: a versatile, configurable, extensible fuzzing framework
 publication: FSE'18
 domain: Fuzzing
-labels: Fuzzing
+relevant: Fuzzing
 cites: 0
 score: 0
 
 title: Themis: automatically testing software for discrimination
 publication: FSE'18
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 0
 score: 0
 
 title: Vista: web test repair using computer vision
 publication: FSE'18
 domain: Repair
-labels: Web Application
+relevant: Web Application
 cites: 0
 score: 0
 
 title: A formal verification tool for Ethereum VM bytecode
 publication: FSE'18
 domain: Verification
-labels: JVM
+relevant: JVM
 cites: 0
 score: 0
 
 title: ASketch: a sketching framework for Alloy
 publication: FSE'18
 domain: Verification
-labels: Alloy
+relevant: Alloy
 cites: 0
 score: 0
 
 title: Concolic testing for models of state-based systems
 publication: FSE'19
 domain: Concolic Testing
-labels: Stateful System
+relevant: Stateful System
 cites: 0
 score: 0
 
 title: Target-driven compositional concolic testing with function summary refinement for effective bug detection
 publication: FSE'19
 domain: Concolic Testing
-labels: Bug Detection
+relevant: Bug Detection
 cites: 0
 score: 0
 
 title: Generating automated and online test oracles for Simulink models with continuous and uncertain behaviors
 publication: FSE'19
 domain: Testing
-labels: Simulink
+relevant: Simulink
 cites: 0
 score: 0
 
 title: Diversity-based web test generation
 publication: FSE'19
 domain: Generation
-labels: Web Application
+relevant: Web Application
 cites: 0
 score: 0
 
 title: Web test dependency detection
 publication: FSE'19
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 0
 score: 0
 
 title: Testing scratch programs automatically
 publication: FSE'19
 domain: Testing
-labels: Testing, Scratch
+relevant: Testing, Scratch
 cites: 0
 score: 0
 
 title: Towards more efficient meta-heuristic algorithms for combinatorial test generation
 publication: FSE'19
 domain: Generation
-labels: Testing
+relevant: Testing
 cites: 0
 score: 0
 
 title: Compiler bug isolation via effective witness test program generation
 publication: FSE'19
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 0
 score: 0
 
 title: Concolic testing with adaptively changing search heuristics
 publication: FSE'19
 domain: Concolic Testing
-labels: Concolic Testing
+relevant: Concolic Testing
 cites: 0
 score: 0
 
 title: Symbolic execution-driven extraction of the parallel execution plans of Spark applications
 publication: FSE'19
 domain: Symbolic Execution
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Bisecting commits and modeling commit risk during testing
 publication: FSE'19
 domain: Testing
-labels: Git Commit
+relevant: Git Commit
 cites: 0
 score: 0
 
 title: White-box testing of big data analytics with complex user-defined functions
 publication: FSE'19
 domain: Testing
-labels: Testing
+relevant: Testing
 cites: 0
 score: 0
 
 title: iFixR: bug report driven program repair
 publication: FSE'19
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Exploring and exploiting the correlations between bug-inducing and bug-fixing commits
 publication: FSE'19
 domain: Mining
-labels: Git Commit
+relevant: Git Commit
 cites: 0
 score: 0
 
 title: Model-based testing of breaking changes in Node.js libraries
 publication: FSE'19
 domain: Testing
-labels: Node.js
+relevant: Node.js
 cites: 0
 score: 0
 
 title: Nodest: feedback-driven static analysis of Node.js applications
 publication: FSE'19
 domain: Static Analysis
-labels: Node.js
+relevant: Node.js
 cites: 0
 score: 0
 
 title: Effective error-specification inference via domain-knowledge expansion
 publication: FSE'19
 domain: Specification
-labels: Specification
+relevant: Specification
 cites: 0
 score: 0
 
 title: REINAM: reinforcement learning for input-grammar inference
 publication: FSE'19
 domain: Input Grammer Inference
-labels: Input Grammer Inference
+relevant: Input Grammer Inference
 cites: 0
 score: 0
 
 title: Just fuzz it: solving floating-point constraints using coverage-guided fuzzing
 publication: FSE'19
 domain: Fuzzing
-labels: Fuzzing
+relevant: Fuzzing
 cites: 0
 score: 0
 
 title: Cerebro: context-aware adaptive fuzzing for effective vulnerability detection
 publication: FSE'19
 domain: Fuzzing
-labels: Fuzzing
+relevant: Fuzzing
 cites: 0
 score: 0
 
 title: iFixFlakies: a framework for automatically fixing order-dependent flaky tests
 publication: FSE'19
 domain: Repair
-labels: Repair
+relevant: Repair
 cites: 0
 score: 0
 
 title: Binary reduction of dependency graphs
 publication: FSE'19
 domain: Delta Debugging
-labels: Delta Debugging
+relevant: Delta Debugging
 cites: 0
 score: 0
 
 title: AggrePlay: efficient record and replay of multi-threaded programs
 publication: FSE'19
 domain: Replay
-labels: Replay
+relevant: Replay
 cites: 0
 score: 0
 
 title: Mitigating power side channels during compilation
 publication: FSE'19
 domain: Security
-labels: Security
+relevant: Security
 cites: 0
 score: 0
 
 title: Maximal multi-layer specification synthesis
 publication: FSE'19
 domain: Synthesis
-labels: Specification
+relevant: Specification
 cites: 0
 score: 0
 
 title: Phoenix: automated data-driven synthesis of repairs for static analysis violations
 publication: FSE'19
 domain: Repair
-labels: Specification, Static Analysis
+relevant: Specification, Static Analysis
 cites: 0
 score: 0
 
 title: Latent error prediction and fault localization for microservice applications by learning from system trace logs
 publication: FSE'19
 domain: Fault Localization
-labels: Fault Localization
+relevant: Fault Localization
 cites: 0
 score: 0
 
 title: Detecting concurrency memory corruption vulnerabilities
 publication: FSE'19
 domain: Security
-labels: Concurrency
+relevant: Concurrency
 cites: 0
 score: 0
 
 title: Locating vulnerabilities in binaries via memory layout recovering
 publication: FSE'19
 domain: Security
-labels: Fault Localization
+relevant: Fault Localization
 cites: 0
 score: 0
 
 title: Storm: program reduction for testing and debugging probabilistic programming systems
 publication: FSE'19
 domain: Program Reduction
-labels: Probabilistic Programming Language
+relevant: Probabilistic Programming Language
 cites: 0
 score: 0
 
 title: NullAway: practical type-based null safety for Java
 publication: FSE'19
 domain: Program Analysis
-labels: Program Analysis
+relevant: Program Analysis
 cites: 0
 score: 0
 
 title: Finding and understanding bugs in software model checkers
 publication: FSE'19
 domain: Bug Detection
-labels: Model Checking
+relevant: Model Checking
 cites: 0
 score: 0
 
 title: A segmented memory model for symbolic execution
 publication: FSE'19
 domain: Symbolic Execution
-labels: Symbolic Execution
+relevant: Symbolic Execution
 cites: 0
 score: 0
 
 title: Pinpointing performance inefficiencies in Java
 publication: FSE'19
 domain: Performance
-labels: Performance
+relevant: Performance
 cites: 0
 score: 0

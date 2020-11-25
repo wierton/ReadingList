@@ -7,13 +7,13 @@
 ## Journal
 * TSE、TOSEM、TOPLAS
 
-## Classification
+## Classification [x]
 * tags: Incremental Work, Application of Methodology, Tool Integration, New Idea, Minor New Direction
 * target: the researched item
 * technique: conducted methodologies
 * keywords: null pointer dereference, ...
 
-## major class
+## major class [x]
 * Methodology Improvement
 * Specific Testing Object
 * Conducted Methodologies
@@ -23,6 +23,7 @@
 * PBE
 * Code Completion
 * Formalization
+* Verification
 * Testing
   - General Testing Methodology
     + Symbolic Execution
@@ -48,9 +49,9 @@
       * Test Data Generation
       * Grammer Aware Generation
       * Logic Constraints Aware Generation
+      * Test Data Mutation
     + Model Checking
     + Metamorphic Testing
-    + Mutation
   - Testing Improvement
     + Testcase Minimization
     + Testcase Prioritization
