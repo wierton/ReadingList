@@ -24,6 +24,12 @@
 * Code Completion
 * Formalization
 * Verification
+* Optimization
+  - Code Placement
+  - Register Allocation
+  - SIMD Optimization
+    + Data Permutation
+    + Vectorization
 * Testing
   - General Testing Methodology
     + Symbolic Execution
@@ -41,6 +47,7 @@
         - Circuit Analysis
         - Array Bounds Checking
         - Exception Handling Analysis
+        - Specification Inference
       * Dynamic Analysis
       * Concolic Analysis
       * Symbolic Analysis
@@ -94,6 +101,7 @@
     * JavaScript
     * Node.js
     * RESTful API
+    * XML
   + Alloy
   + Configuration
   + Container

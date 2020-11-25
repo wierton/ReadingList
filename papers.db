@@ -3917,3 +3917,683 @@ domain: Performance
 relevant: Performance
 cites: 0
 score: 0
+
+title: A serializability violation detector for shared-memory server programs
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Scalable statistical bug isolation
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: VYRD: verifYing concurrent programs by runtime refinement-violation detection
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Path slicing
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Checking type safety of foreign function calls
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Essential language support for generic programming
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Semantic type qualifiers
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Permission-based ownership: encapsulating state in higher-order typed languages
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Code placement for improving dynamic branch prediction accuracy
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Register allocation for software pipelined multi-dimensional loops
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Differential register allocation
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Demystifying on-the-fly spill code
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: DART: directed automated random testing
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: TraceBack: first fault diagnosis by reconstruction of distributed control flow
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Pin: building customized program analysis tools with dynamic instrumentation
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: The Atomos transactional programming language
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Compiler and runtime support for efficient software transactional memory
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Practical dynamic software updating for C
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Artemis: practical runtime monitoring of applications for execution anomalies
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Optimizing data permutations for SIMD devices
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Auto-vectorization of interleaved data for SIMD
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: SAFECode: enforcing alias analysis for weakly typed languages
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: DieHard: probabilistic memory safety for unsafe languages
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Algorithm specialization in generic programming: challenges of constrained generics in C++
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Effective static race detection for Java
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: LOCKSMITH: context-sensitive correlation analysis for race detection
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Combining abstract interpreters
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Refinement-based context-sensitive points-to analysis for Java
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Termination proofs for systems code
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Modular verification of assembly code with stack-based control abstractions
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Exterminator: automatically correcting memory errors with high probability
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Sound and precise analysis of web applications for injection vulnerabilities
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Fault-tolerant typed assembly language
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: A certified type-preserving compiler from lambda calculus to assembly language
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Certified self-modifying code
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Enforcing isolation and ordering in STM
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Valgrind: a framework for heavyweight dynamic binary instrumentation
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Static specification inference using predicate mining
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Improved error reporting for software that uses black-box components
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Shape analysis with inductive recursion synthesis
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Thread-modular shape analysis
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Making context-sensitive points-to analysis with heap cloning practical for the real world
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: The ant and the grasshopper: fast and accurate pointer analysis for millions of lines of code
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Path invariants
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: DITTO: automatic incrementalization of data structure invariant checks (in Java)
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Proving thread termination
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Regularly annotated set constraints
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Efficient static analysis of XML paths and types
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Towards locating execution omission errors
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Static error detection using semantic inconsistency inference
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Iterative context bounding for systematic testing of multithreaded programs
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Checking race freedom via linear programming
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Race directed random testing of concurrent programs
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Conditional correlation analysis for safe region-based memory management
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Grammar-based whitebox fuzzing
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Sound, complete and scalable path-sensitive analysis
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Program analysis as constraint solving
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Bootstrapping: a technique for scalable flow and context-sensitive pointer alias analysis
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Dataflow analysis for concurrent programs using datarace detection
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Inferring locks for atomic sections
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Velodrome: a sound and complete dynamic atomicity checker for multithreaded programs
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Discovering properties about arrays in simple programs
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Full functional verification of linked data structures
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Fair stateless model checking
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Dynamic software updates: a VM-centric approach
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Safe and timely updates to multi-threaded programs
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: CEAL: a C-based language for self-adjusting computation
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Staged information flow for javascript
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: A randomized dynamic program analysis technique for detecting real deadlocks
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: FastTrack: efficient and precise dynamic race detection
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: LiteRace: effective sampling for lightweight data-race detection
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: A decision procedure for subset constraints over regular languages
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Verifiable composition of deterministic grammars
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Analyzing recursive programs using a fixed-point calculus
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Program verification using templates over predicate abstraction
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Error propagation analysis for file systems
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Type-based data structure verification
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Typed self-representation
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Automatic generation of library bindings using static analysis
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Snugglebug: a powerful approach to weakest preconditions
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Control-flow refinement and progress invariants for bound analysis
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Binary analysis for measurement and attribution of program performance
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Semantics-aware trace analysis
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Trace-based just-in-time type specialization for dynamic languages
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Breadcrumbs: efficient context sensitivity for dynamic bug detection analyses
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Jinn: synthesizing dynamic bug detectors for foreign language interfaces
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Decoupled lifeguards: enabling path optimizations for dynamic correctness checking tools
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Breadcrumbs: efficient context sensitivity for dynamic bug detection analyses
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Safe to the last instruction: automated verification of a type-safe operating system
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Bringing extensibility to verified compilers
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Adversarial memory for detecting destructive races
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: PACER: proportional detection of data races
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Smooth interpretation
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: The reachability-bound problem
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Complete functional synthesis
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Willias: Mixing type checking and symbolic execution
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Inferable object-oriented typed assembly language
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
