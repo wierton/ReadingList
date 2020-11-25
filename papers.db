@@ -2307,3 +2307,1613 @@ domain:
 labels:
 cites: 0
 score: 0
+
+title:RDiff: Scaling Program Equivalence Checking via Iterative Abstraction and Refinement of Common Code
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Baital: An Adaptive Weighted Sampling Approach for Improved t-wise Coverage
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Block Public Access: Trust Safety Verification of Access Control Policies
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Boosting Fuzzer Efficiency: An Information Theoretic Perspective
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: C2S: Translating Natural Language Comments to Formal Program Specifications
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Configuration Smells in Continuous Delivery Pipelines: A Linter and a Six-Month Study on GitLab
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Cost Measures Matter for Mutation Testing Study Validity
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: CrFuzz: Fuzzing Multi-purpose Programs through Input Validation
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Detecting Critical Bugs in SMT Solvers Using Blackbox Mutational Fuzzing
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Detecting Numerical Bugs in Neural Network Architectures
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Detecting Optimization Bugs in Database Engines via Non-optimizing Reference Engine Construction
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Detecting and Understanding JavaScript Global Identifier Conflicts on the Web
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Dynamically Reconfiguring Software Microbenchmarks: Reducing Execution Time without Sacrificing Result Quality
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Efficient Binary-Level Coverage Analysis
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Efficiently Finding Higher-Order Mutants
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Evolutionary Improvement of Assertion Oracles
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Fuzzing: On the Exponential Cost of Vulnerability Discovery
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Inductive Program Synthesis over Noisy Data
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Intelligent REST API Data Fuzzing
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Interval Counterexamples for Loop Invariant Learning
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Java Ranger: Statically Summarizing Regions for Efficient Symbolic Execution of Java
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Making Symbolic Execution Promising by Learning Aggressive State-Pruning Strategy
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Willias: Mining Input Grammars from Dynamic Control Flow
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Past-Sensitive Pointer Analysis for Symbolic Execution
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: UBITect: A Precise and Scalable Method to Detect Use-before-Initialization Bugs in Linux Kernel
+publication: FSE'20
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Towards a unified formal model for supporting mechanisms of dynamic component update
+publication: FSE'05
+domain: Dynamic Update
+labels: Dynamic Update
+cites: 0
+score: 0
+
+title: Fluent temporal logic for discrete-time event-based models
+publication: FSE'05
+domain: Model
+labels: Model, Logic
+cites: 0
+score: 0
+
+title: Arithmetic program paths
+publication: FSE'05
+domain: Program Comprehension
+labels: Program Comprehension
+cites: 0
+score: 0
+
+title: Context- and path-sensitive memory leak detection
+publication: FSE'05
+domain: Bug Detection
+labels: Bug Detection, Memory Leak Detection
+cites: 0
+score: 0
+
+title: Performance data collection using a hybrid approach
+publication: FSE'05
+domain: Performance
+labels: Performance
+cites: 0
+score: 0
+
+title: Applying classification techniques to remotely-collected program execution data
+publication: FSE'05
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Joining dataflow with predicates
+publication: FSE'05
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Lightweight object specification with typestates
+publication: FSE'05
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Relational analysis of algebraic datatypes
+publication: FSE'05
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Parameterized unit tests
+publication: FSE'05
+domain: Regression Testing
+labels: Regression Testing, Unit Testing
+cites: 0
+score: 0
+
+title: CUTE: a concolic unit testing engine for C
+publication: FSE'05
+domain: Unit Testing
+labels: Unit Testing
+cites: 0
+score: 0
+
+title: SOBER: statistical model-based bug localization
+publication: FSE'05
+domain: Bug Localization
+labels: Bug Localization, Model
+cites: 0
+score: 0
+
+title: Memories of bug fixes
+publication: FSE'06
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Failure proximity: a fault localization-based approach
+publication: FSE'06
+domain: 
+labels:
+cites: 0
+score: 0
+
+title: Finding failure-inducing changes in java programs using change classification
+publication: FSE'06
+domain: 
+labels:
+cites: 0
+score: 0
+
+title: Dynamic slicing long running programs through execution fast forwarding
+publication: FSE'06
+domain: 
+labels:
+cites: 0
+score: 0
+
+title: Controlling factors in evaluating path-sensitive error detection techniques
+publication: FSE'06
+domain: 
+labels:
+cites: 0
+score: 0
+
+title: SYNERGY: a new algorithm for property checking
+publication: FSE'06
+domain: 
+labels:
+cites: 0
+score: 0
+
+title: Using positive tainting and syntax-aware evaluation to counter SQL injection attacks
+publication: FSE'06
+domain: Security
+labels:
+cites: 0
+score: 0
+
+title: Testing context-aware middleware-centric programs: a data flow approach and an RFID-based experimentation
+publication: FSE'06
+domain: Testing
+labels:
+cites: 0
+score: 0
+
+title: Simulation-based test adequacy criteria for distributed systems
+publication: FSE'06
+domain: Testing
+labels:
+cites: 0
+score: 0
+
+title: Carving differential unit test cases from system test cases
+publication: FSE'06
+domain:
+labels: Unit Testing
+cites: 0
+score: 0
+
+title: Mining specifications of malicious behavior
+publication: FSE'07
+domain:
+labels: Program Comprehension
+cites: 0
+score: 0
+
+title: Mining API patterns as partial orders from source code: from usage scenarios to specifications
+publication: FSE'07
+domain:
+labels: API
+cites: 0
+score: 0
+
+title: Detecting object usage anomalies
+publication: FSE'07
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Which warnings should I fix first
+publication: FSE'07
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Context-based detection of clone-related bugs
+publication: FSE'07
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Programming asynchronous layers with CLARITY
+publication: FSE'07
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Object and reference immutability using java generics
+publication: FSE'07
+domain:
+labels:
+cites: 0
+score: 0
+
+title: Efficient checkpointing of java software using context-sensitive capture and replay
+publication: FSE'07
+domain: Replay
+labels:
+cites: 0
+score: 0
+
+title: Parallel test generation and execution with Korat
+publication: FSE'07
+domain: Generation
+labels:
+cites: 0
+score: 0
+
+title: Improving test case generation for web applications using automated interface discovery
+publication: FSE'07
+domain: Generation
+labels:
+cites: 0
+score: 0
+
+title: The impact of input domain reduction on search-based test data generation
+publication: FSE'07
+domain: Testcase Reduction
+labels:
+cites: 0
+score: 0
+
+title: The impact of input domain reduction on search-based test data generation
+publication: FSE'07
+domain: Testcase Reduction
+labels:
+cites: 0
+score: 0
+
+title: Finding bugs efficiently with a SAT solver
+publication: FSE'07
+domain: Bug Detection
+labels: SMT
+cites: 0
+score: 0
+
+title: RELAY: static race detection on millions of lines of code
+publication: FSE'07
+domain: Race Detection
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Detecting large number of infeasible paths through recognizing their patterns
+publication: FSE'07
+domain: Symbolic Execution
+labels: Symbolic Execution
+cites: 0
+score: 0
+
+title: Model checking service compositions under resource constraints
+publication: FSE'07
+domain: Model Checking
+labels: Model Checking
+cites: 0
+score: 0
+
+title: Difference computation of large models
+publication: FSE'07
+domain: Model
+labels: Model
+cites: 0
+score: 0
+
+title: State space exploration using feedback constraint generation and Monte-Carlo sampling
+publication: FSE'07
+domain: State Space Exploration
+labels: State Space Exploration
+cites: 0
+score: 0
+
+title: State space exploration using feedback constraint generation and Monte-Carlo sampling
+publication: FSE'07
+domain: State Space Exploration
+labels: State Space Exploration
+cites: 0
+score: 0
+
+title: Automated size analysis for OCL
+publication: FSE'07
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Program comprehension as fact finding
+publication: FSE'07
+domain: Program Comprehension
+labels: Program Comprehension
+cites: 0
+score: 0
+
+title: Program comprehension as fact finding
+publication: FSE'07
+domain: Program Comprehension
+labels: Program Comprehension
+cites: 0
+score: 0
+
+title: Finding programming errors earlier by evaluating runtime monitors ahead-of-time
+publication: FSE'08
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Profile-guided program simplification for effective testing and analysis
+publication: FSE'08
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Deriving input syntactic structure from execution
+publication: FSE'08
+domain: Grammer Extract
+labels: Grammer Extract
+cites: 0
+score: 0
+
+title: Inter-context control-flow and data-flow test adequacy criteria for nesC applications
+publication: FSE'08
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Using assertions to help end-user programmers create dependable web macros
+publication: FSE'08
+domain: Web Application
+labels: Web Application
+cites: 0
+score: 0
+
+title: Randomized active atomicity violation detection in concurrent programs
+publication: FSE'08
+domain: Concurrency
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Automated identification of parameter mismatches in web applications
+publication: FSE'08
+domain: Bug Detection
+labels: Web Application
+cites: 0
+score: 0
+
+title: Differential symbolic execution
+publication: FSE'08
+domain: Symbolic Execution
+labels: Symbolic Execution
+cites: 0
+score: 0
+
+title: Effective blame for information-flow violations
+publication: FSE'08
+domain: Fault Localization
+labels: Fault Localization
+cites: 0
+score: 0
+
+title: Model-based fault detection in context-aware adaptive applications
+publication: FSE'08
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Marple: a demand-driven path-sensitive buffer overflow detector
+publication: FSE'08
+domain: Bug Detection
+labels: Bug Detection, Buffer Overflow
+cites: 0
+score: 0
+
+title: Towards compositional synthesis of evolving systems
+publication: FSE'08
+domain: Synthesis
+labels: Synthesis
+cites: 0
+score: 0
+
+title: On correct and complete strong merging of partial behaviour models
+publication: FSE'08
+domain: Model
+labels: Model
+cites: 0
+score: 0
+
+title: Javert: fully automatic mining of general temporal properties from dynamic traces
+publication: FSE'08
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Asserting and checking determinism for multithreaded programs
+publication: FSE'09
+domain: Concurrency
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Static data race detection for concurrent programs with asynchronous calls
+publication: FSE'09
+domain: Concurrency
+labels: Concurrency, Race Detection
+cites: 0
+score: 0
+
+title: Symbolic pruning of concurrent program executions
+publication: FSE'09
+domain: Concurrency
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Darwin: an approach for debugging evolving programs
+publication: FSE'09
+domain: Debugging
+labels: Debugging
+cites: 0
+score: 0
+
+title: Capturing propagation of infected program states
+publication: FSE'09
+domain: Bug Localization
+labels: Bug Localization
+cites: 0
+score: 0
+
+title: Saturation-based testing of concurrent programs
+publication: FSE'09
+domain: Concurrency
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Automated security testing of web widget interactions
+publication: FSE'09
+domain: Testing
+labels: Web Application
+cites: 0
+score: 0
+
+title: Backward-compatible constant-time exception-protected memory
+publication: FSE'09
+domain: Misc
+labels: Misc
+cites: 0
+score: 0
+
+title: Improving slice accuracy by compression of data and control flow paths
+publication: FSE'09
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Fitting the pieces together: a machine-checked model of safe composition
+publication: FSE'09
+domain: Model
+labels: Model
+cites: 0
+score: 0
+
+title: Synthesizing partial component-level behavior models from system specifications
+publication: FSE'09
+domain: Model
+labels: Model
+cites: 0
+score: 0
+
+title: Supporting automatic model inconsistency fixing
+publication: FSE'09
+domain: Model
+labels: Model
+cites: 0
+score: 0
+
+title: Behavioral automata composition for automatic topology independent verification of parameterized systems
+publication: FSE'09
+domain: Model
+labels: Model
+cites: 0
+score: 0
+
+title: Probabilistic environments in the quantitative analysis of (non-probabilistic) behaviour models
+publication: FSE'09
+domain: Behavior Model
+labels: Behavior Model
+cites: 0
+score: 0
+
+title: Automatic steering of behavioral model inference
+publication: FSE'09
+domain: Behavior Model
+labels: Behavior Model
+cites: 0
+score: 0
+
+title: Sireum/Topi LDP: a lightweight semi-decision procedure for optimizing symbolic execution-based analyses
+publication: FSE'09
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Titanium: efficient analysis of evolving alloy specifications
+publication: FSE'16
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Mining performance specifications
+publication: FSE'16
+domain: Performance
+labels: Mining, Specification
+cites: 0
+score: 0
+
+title: Proteus: computing disjunctive loop summary via path dependency analysis
+publication: FSE'16
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Python predictive analysis for bug detection
+publication: FSE'16
+domain: Bug Detection
+labels: Bug Detection, Python
+cites: 0
+score: 0
+
+title: Crash consistency validation made easy
+publication: FSE'16
+domain: Crash Consistency
+labels: Crash Consistency
+cites: 0
+score: 0
+
+title: Discovering bug patterns in JavaScript
+publication: FSE'16
+domain: Bug Patterns Mining
+labels: JavaScript, Web Application
+cites: 0
+score: 0
+
+title: Effort-aware just-in-time defect prediction: simple unsupervised models could be better than supervised models
+publication: FSE'16
+domain: Bug Prediction
+labels: Bug Prediction
+cites: 0
+score: 0
+
+title: String analysis for side channels with segmented oracles
+publication: FSE'16
+domain: Security
+labels: Security, String Analysis
+cites: 0
+score: 0
+
+title: Parameter-free probabilistic API mining across GitHub
+publication: FSE'16
+domain: API Mining
+labels: API Mining
+cites: 0
+score: 0
+
+title: Extracting instruction semantics via symbolic execution of code generators
+publication: FSE'16
+domain: Generation
+labels: Generation
+cites: 0
+score: 0
+
+title: Efficient generation of inductive validity cores for safety properties
+publication: FSE'16
+domain: Generation
+labels: Generation
+cites: 0
+score: 0
+
+title: Correctness witnesses: exchanging verification results between verifiers
+publication: FSE'16
+domain: Verification
+labels: Verification
+cites: 0
+score: 0
+
+title: SMT-based verification of parameterized systems
+publication: FSE'16
+domain: Verification
+labels: Verification
+cites: 0
+score: 0
+
+title: On-the-fly decomposition of specifications in software model checking
+publication: FSE'16
+domain: Model Checking
+labels: Model Checking
+cites: 0
+score: 0
+
+title: On well-separation of GR(1) specifications
+publication: FSE'16
+domain: Specification
+labels: GR(1)
+cites: 0
+score: 0
+
+title: Lightweight specification and analysis of dynamic systems with rich configurations
+publication: FSE'16
+domain: Configuration
+labels: Configuration
+cites: 0
+score: 0
+
+title: Understanding and detecting wake lock misuses for Android applications
+publication: FSE'16
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Minimizing GUI event traces
+publication: FSE'16
+domain: Misc
+labels: Misc
+cites: 0
+score: 0
+
+title: Detecting and fixing precision-specific operations for measuring floating-point errors
+publication: FSE'16
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Understanding and generating high quality patches for concurrency bugs
+publication: FSE'16
+domain: Repair
+labels: Repair, Concurrency
+cites: 0
+score: 0
+
+title: Anti-patterns in search-based program repair
+publication: FSE'16
+domain: Repair
+labels: Repair, Concurrency
+cites: 0
+score: 0
+
+title: Flow-sensitive composition of thread-modular abstract interpretation
+publication: FSE'16
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Parallel data race detection for task parallel programs with locks
+publication: FSE'16
+domain: Bug Detection
+labels: Race Detection
+cites: 0
+score: 0
+
+title: Directed test generation to detect loop inefficiencies
+publication: FSE'16
+domain: Generation
+labels: Generation
+cites: 0
+score: 0
+
+title: Field-exhaustive testing
+publication: FSE'16
+domain: Testing
+labels: Testing
+cites: 0
+score: 0
+
+title: Isomorphic regression testing: executing uncovered branches without test augmentation
+publication: FSE'16
+domain: Regression Testing
+labels: Regression Testing
+cites: 0
+score: 0
+
+title: Finding near-optimal configurations in product lines by random sampling
+publication: FSE'17
+domain: Configuration
+labels: Configuration
+cites: 0
+score: 0
+
+title: Loopster: static loop termination analysis
+publication: FSE'17
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Measuring neural efficiency of program comprehension
+publication: FSE'17
+domain: Program Comprehension
+labels: Program Comprehension
+cites: 0
+score: 0
+
+title: Bayesian specification learning for finding API usage errors
+publication: FSE'17
+domain: Bug Detection
+labels: API
+cites: 0
+score: 0
+
+title: Synergistic debug-repair of heap manipulations
+publication: FSE'17
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Failure-directed program trimming
+publication: FSE'17
+domain: Misc
+labels: Misc
+cites: 0
+score: 0
+
+title: Kmax: finding all configurations of Kbuild makefiles statically
+publication: FSE'17
+domain: Configuration
+labels: Configuration
+cites: 0
+score: 0
+
+title: Adaptively generating high quality fixes for atomicity violations
+publication: FSE'17
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: AtexRace: across thread and execution sampling for in-house race detection
+publication: FSE'17
+domain: Race Detection
+labels: Race Detection
+cites: 0
+score: 0
+
+title: Symbolic execution of programmable logic controller code
+publication: FSE'17
+domain: Symbolic Execution
+labels: Symbolic Execution
+cites: 0
+score: 0
+
+title: A symbolic justice violations transition system for unrealizable GR(1) specifications
+publication: FSE'17
+domain: Formalization
+labels: GR(1)
+cites: 0
+score: 0
+
+title: Model-level, platform-independent debugging in the context of the model-driven development of real-time systems
+publication: FSE'17
+domain: Debugging
+labels: Debugging
+cites: 0
+score: 0
+
+title: Toward full elasticity in distributed static analysis: the case of callgraph analysis
+publication: FSE'17
+domain: Static Analysis
+labels: Static Analysis
+cites: 0
+score: 0
+
+title: Probabilistic model checking of perturbed MDPs with applications to cloud computing
+publication: FSE'17
+domain: Model Checking
+labels: Model Checking
+cites: 0
+score: 0
+
+title: Cimplifier: automatically debloating containers
+publication: FSE'17
+domain: Container
+labels: Container
+cites: 0
+score: 0
+
+title: Craig vs. Newton in software model checking
+publication: FSE'17
+domain: Model Checking
+labels: Model Checking
+cites: 0
+score: 0
+
+title: Fairness testing: testing software for discrimination
+publication: FSE'17
+domain: Testing
+labels: Testing
+cites: 0
+score: 0
+
+title: QTEP: quality-aware test case prioritization
+publication: FSE'17
+domain: Testcase Prioritization
+labels: Testcase Prioritization
+cites: 0
+score: 0
+
+title: Constraint normalization and parameterized caching for quantitative program analysis
+publication: FSE'17
+domain: Program Analysis
+labels: Parameterized Program
+cites: 0
+score: 0
+
+title: Generalized observational slicing for tree-represented modelling languages
+publication: FSE'17
+domain: Program Language
+labels: Program Slicing
+cites: 0
+score: 0
+
+title: NoFAQ: synthesizing command repairs from examples
+publication: FSE'17
+domain: Synthesis
+labels: Synthesis
+cites: 0
+score: 0
+
+title: S3: syntax- and semantic-guided repair synthesis via programming by examples
+publication: FSE'17
+domain: Repair
+labels: Repair, PBE
+cites: 0
+score: 0
+
+title: Counterexample-guided approach to finding numerical invariants
+publication: FSE'17
+domain: Program Analysis
+labels: Invariant Detection
+cites: 0
+score: 0
+
+title: Discovering relational specifications
+publication: FSE'17
+domain: Specification
+labels: Specification
+cites: 0
+score: 0
+
+title: Steelix: program-state based binary fuzzing
+publication: FSE'17
+domain: Fuzzing
+labels: Fuzzing
+cites: 0
+score: 0
+
+title: A compiler and verifier for page access oblivious computation
+publication: FSE'17
+domain: Verification
+labels: Verification
+cites: 0
+score: 0
+
+title: Recovering clear, natural identifiers from obfuscated JS names
+publication: FSE'17
+domain: JavaScript
+labels: JavaScript
+cites: 0
+score: 0
+
+title: DESCRY: reproducing system-level concurrency failures
+publication: FSE'17
+domain: Replay
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Reproducing concurrency failures from crash stacks
+publication: FSE'17
+domain: Replay
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Automatically analyzing groups of crashes for finding correlations
+publication: FSE'17
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Automatic inference of code transforms for patch generation
+publication: FSE'17
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Automatically diagnosing and repairing error handling bugs in C
+publication: FSE'17
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Regression test selection across JVM boundaries
+publication: FSE'17
+domain: Regression Testing
+labels: Regression Testing
+cites: 0
+score: 0
+
+title: Better test cases for better automated program repair
+publication: FSE'17
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: CloudRaid: hunting concurrency bugs in the cloud via log-mining
+publication: FSE'18
+domain: Bug Detection
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Testing multithreaded programs via thread speed control
+publication: FSE'18
+domain: Bug Detection
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Data race detection on compressed traces
+publication: FSE'18
+domain: Race Detection
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Practical AJAX race detection for JavaScript web applications
+publication: FSE'18
+domain: Race Detection
+labels: AJAX, JavaScript, Web Application
+cites: 0
+score: 0
+
+title: Using finite-state models for log differencing
+publication: FSE'18
+domain: Misc
+labels: Misc
+cites: 0
+score: 0
+
+title: Learning to sample: exploiting similarities across environments to learn performance models for configurable systems
+publication: FSE'18
+domain: Configuration
+labels: Configuration, Performance
+cites: 0
+score: 0
+
+title: MemFix: static analysis-based repair of memory deallocation errors for C
+publication: FSE'18
+domain: Static Analysis
+labels: Static Analysis
+cites: 0
+score: 0
+
+title: RefiNym: using names to refine types
+publication: FSE'18
+domain: Static Analysis
+labels: Static Analysis
+cites: 0
+score: 0
+
+title: Darwinian data structure selection
+publication: FSE'18
+domain: Static Analysis
+labels: Static Analysis
+cites: 0
+score: 0
+
+title: Scalability-first pointer analysis with self-tuning context-sensitivity
+publication: FSE'18
+domain: Pointer Analysis
+labels: Static Analysis
+cites: 0
+score: 0
+
+title: Singularity: pattern fuzzing for worst case complexity
+publication: FSE'18
+domain: Fuzzing
+labels: Fuzzing
+cites: 0
+score: 0
+
+title: Bug synthesis: challenging bug-finding tools with deep faults
+publication: FSE'18
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: The impact of regular expression denial of service (ReDoS) in practice: an empirical study at the ecosystem scale
+publication: FSE'18
+domain: Regular Expression
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Concurrency verification with maximal path causality
+publication: FSE'18
+domain: Verification
+labels: Verification
+cites: 0
+score: 0
+
+title: Adversarial symbolic execution for detecting concurrency-related cache timing leaks
+publication: FSE'18
+domain: Concurrency
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Symbolic execution with existential second-order constraints
+publication: FSE'18
+domain: Symbolic Execution
+labels: Symbolic Execution
+cites: 0
+score: 0
+
+title: Parameterized model counting for string and numeric constraints
+publication: FSE'18
+domain: Parameterized Program
+labels: Parameterized Program
+cites: 0
+score: 0
+
+title: NAR-miner: discovering negative association rules from code for bug detection
+publication: FSE'18
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Path-based function embedding and its application to error-handling specification mining
+publication: FSE'18
+domain: Specification
+labels: Specification
+cites: 0
+score: 0
+
+title: Visual web test repair
+publication: FSE'18
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Syntax-guided synthesis of Datalog programs
+publication: FSE'18
+domain: Synthesis
+labels: Synthesis
+cites: 0
+score: 0
+
+title: Testing probabilistic programming systems
+publication: FSE'18
+domain: Testing
+labels: Probabilistic Programming Language
+cites: 0
+score: 0
+
+title: Verifying the long-run behavior of probabilistic system models in the presence of uncertainty
+publication: FSE'18
+domain: Verification
+labels: Probabilistic Programming Language
+cites: 0
+score: 0
+
+title: Automated patch extraction via syntax- and semantics-aware Delta debugging on source code changes
+publication: FSE'18
+domain: Path Synthesis
+labels: Debugging
+cites: 0
+score: 0
+
+title: Feedback-directed differential testing of interactive debuggers
+publication: FSE'18
+domain: Differential Testing
+labels: Differential Testing
+cites: 0
+score: 0
+
+title: Improving IR-based bug localization with context-aware query reformulation
+publication: FSE'18
+domain: Fault Localization
+labels: Fault Localization
+cites: 0
+score: 0
+
+title: Optimizing test prioritization via test distribution analysis
+publication: FSE'18
+domain: Test Prioritization
+labels: Test Prioritization
+cites: 0
+score: 0
+
+title: Which generated test failures are fault revealing? prioritizing failures based on inferred precondition violations using PAF
+publication: FSE'18
+domain: Test Prioritization
+labels: Test Prioritization
+cites: 0
+score: 0
+
+title: Towards counterexample-guided k-induction for fast bug detection
+publication: FSE'18
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Towards counterexample-guided k-induction for fast bug detection
+publication: FSE'18
+domain: Bug Detection
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Efficient static checking of library updates
+publication: FSE'18
+domain: Bug Detection
+labels: Static Analysis, Library
+cites: 0
+score: 0
+
+title: Regression test selection for TizenRT
+publication: FSE'18
+domain: Testcase Selection
+labels: Test Automation, Testcase Selection
+cites: 0
+score: 0
+
+title: FOT: a versatile, configurable, extensible fuzzing framework
+publication: FSE'18
+domain: Fuzzing
+labels: Fuzzing
+cites: 0
+score: 0
+
+title: Themis: automatically testing software for discrimination
+publication: FSE'18
+domain: Testing
+labels: Testing
+cites: 0
+score: 0
+
+title: Vista: web test repair using computer vision
+publication: FSE'18
+domain: Repair
+labels: Web Application
+cites: 0
+score: 0
+
+title: A formal verification tool for Ethereum VM bytecode
+publication: FSE'18
+domain: Verification
+labels: JVM
+cites: 0
+score: 0
+
+title: ASketch: a sketching framework for Alloy
+publication: FSE'18
+domain: Verification
+labels: Alloy
+cites: 0
+score: 0
+
+title: Concolic testing for models of state-based systems
+publication: FSE'19
+domain: Concolic Testing
+labels: Stateful System
+cites: 0
+score: 0
+
+title: Target-driven compositional concolic testing with function summary refinement for effective bug detection
+publication: FSE'19
+domain: Concolic Testing
+labels: Bug Detection
+cites: 0
+score: 0
+
+title: Generating automated and online test oracles for Simulink models with continuous and uncertain behaviors
+publication: FSE'19
+domain: Testing
+labels: Simulink
+cites: 0
+score: 0
+
+title: Diversity-based web test generation
+publication: FSE'19
+domain: Generation
+labels: Web Application
+cites: 0
+score: 0
+
+title: Web test dependency detection
+publication: FSE'19
+domain: Testing
+labels: Testing
+cites: 0
+score: 0
+
+title: Testing scratch programs automatically
+publication: FSE'19
+domain: Testing
+labels: Testing, Scratch
+cites: 0
+score: 0
+
+title: Towards more efficient meta-heuristic algorithms for combinatorial test generation
+publication: FSE'19
+domain: Generation
+labels: Testing
+cites: 0
+score: 0
+
+title: Compiler bug isolation via effective witness test program generation
+publication: FSE'19
+domain: Fault Localization
+labels: Fault Localization
+cites: 0
+score: 0
+
+title: Concolic testing with adaptively changing search heuristics
+publication: FSE'19
+domain: Concolic Testing
+labels: Concolic Testing
+cites: 0
+score: 0
+
+title: Symbolic execution-driven extraction of the parallel execution plans of Spark applications
+publication: FSE'19
+domain: Symbolic Execution
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Bisecting commits and modeling commit risk during testing
+publication: FSE'19
+domain: Testing
+labels: Git Commit
+cites: 0
+score: 0
+
+title: White-box testing of big data analytics with complex user-defined functions
+publication: FSE'19
+domain: Testing
+labels: Testing
+cites: 0
+score: 0
+
+title: iFixR: bug report driven program repair
+publication: FSE'19
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Exploring and exploiting the correlations between bug-inducing and bug-fixing commits
+publication: FSE'19
+domain: Mining
+labels: Git Commit
+cites: 0
+score: 0
+
+title: Model-based testing of breaking changes in Node.js libraries
+publication: FSE'19
+domain: Testing
+labels: Node.js
+cites: 0
+score: 0
+
+title: Nodest: feedback-driven static analysis of Node.js applications
+publication: FSE'19
+domain: Static Analysis
+labels: Node.js
+cites: 0
+score: 0
+
+title: Effective error-specification inference via domain-knowledge expansion
+publication: FSE'19
+domain: Specification
+labels: Specification
+cites: 0
+score: 0
+
+title: REINAM: reinforcement learning for input-grammar inference
+publication: FSE'19
+domain: Input Grammer Inference
+labels: Input Grammer Inference
+cites: 0
+score: 0
+
+title: Just fuzz it: solving floating-point constraints using coverage-guided fuzzing
+publication: FSE'19
+domain: Fuzzing
+labels: Fuzzing
+cites: 0
+score: 0
+
+title: Cerebro: context-aware adaptive fuzzing for effective vulnerability detection
+publication: FSE'19
+domain: Fuzzing
+labels: Fuzzing
+cites: 0
+score: 0
+
+title: iFixFlakies: a framework for automatically fixing order-dependent flaky tests
+publication: FSE'19
+domain: Repair
+labels: Repair
+cites: 0
+score: 0
+
+title: Binary reduction of dependency graphs
+publication: FSE'19
+domain: Delta Debugging
+labels: Delta Debugging
+cites: 0
+score: 0
+
+title: AggrePlay: efficient record and replay of multi-threaded programs
+publication: FSE'19
+domain: Replay
+labels: Replay
+cites: 0
+score: 0
+
+title: Mitigating power side channels during compilation
+publication: FSE'19
+domain: Security
+labels: Security
+cites: 0
+score: 0
+
+title: Maximal multi-layer specification synthesis
+publication: FSE'19
+domain: Synthesis
+labels: Specification
+cites: 0
+score: 0
+
+title: Phoenix: automated data-driven synthesis of repairs for static analysis violations
+publication: FSE'19
+domain: Repair
+labels: Specification, Static Analysis
+cites: 0
+score: 0
+
+title: Latent error prediction and fault localization for microservice applications by learning from system trace logs
+publication: FSE'19
+domain: Fault Localization
+labels: Fault Localization
+cites: 0
+score: 0
+
+title: Detecting concurrency memory corruption vulnerabilities
+publication: FSE'19
+domain: Security
+labels: Concurrency
+cites: 0
+score: 0
+
+title: Locating vulnerabilities in binaries via memory layout recovering
+publication: FSE'19
+domain: Security
+labels: Fault Localization
+cites: 0
+score: 0
+
+title: Storm: program reduction for testing and debugging probabilistic programming systems
+publication: FSE'19
+domain: Program Reduction
+labels: Probalistic Programming Language
+cites: 0
+score: 0
+
+title: NullAway: practical type-based null safety for Java
+publication: FSE'19
+domain: Program Analysis
+labels: Program Analysis
+cites: 0
+score: 0
+
+title: Finding and understanding bugs in software model checkers
+publication: FSE'19
+domain: Bug Detection
+labels: Model Checking
+cites: 0
+score: 0
+
+title: A segmented memory model for symbolic execution
+publication: FSE'19
+domain: Symbolic Execution
+labels: Symbolic Execution
+cites: 0
+score: 0
+
+title: Pinpointing performance inefficiencies in Java
+publication: FSE'19
+domain: Performance
+labels: Performance
+cites: 0
+score: 0
