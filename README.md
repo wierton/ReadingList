@@ -7,16 +7,16 @@
 ## Journal
 * TSE、TOSEM、TOPLAS
 
-## Classification [x]
-* tags: Incremental Work, Application of Methodology, Tool Integration, New Idea, Minor New Direction
-* target: the researched item
-* technique: conducted methodologies
-* keywords: null pointer dereference, ...
-
-## major class [x]
-* Methodology Improvement
-* Specific Testing Object
-* Conducted Methodologies
+## Tags
+* Incremental Work
+* Methodology Application
+* Tool Integration
+* Direction Opener
+* New Idea
+* New Topic, "clever" choice :)
+* Literature Research
+* Concept Illustration
+* NiB.S.
 
 ## domain
 * Program Synthesis
@@ -101,6 +101,7 @@
   + Git Commit
   + Java
   + JVM
+  + File System
   + API
   + State Based System
   + SQL
