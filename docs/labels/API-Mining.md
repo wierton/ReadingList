@@ -6,3 +6,4 @@
 |[ICSE'06](https://dblp.org/db/conf/icse/icse2006.html)|[API-Mining](API-Mining.md)|0|0|[Dynamically discovering likely interface invariants](https://scholar.google.com/scholar?q=Dynamically+discovering+likely+interface+invariants)|
 |[ICSE'08](https://dblp.org/db/conf/icse/icse2008.html)|[API-Mining](API-Mining.md)|0|0|[Mining library specifications using inductive logic programming](https://scholar.google.com/scholar?q=Mining+library+specifications+using+inductive+logic+programming)|
 |[ICSE'08](https://dblp.org/db/conf/icse/icse2008.html)|[API-Mining](API-Mining.md)|0|0|[DySy: dynamic symbolic execution for invariant inference](https://scholar.google.com/scholar?q=DySy%3A+dynamic+symbolic+execution+for+invariant+inference)|
+|[FSE'16](https://dblp.org/db/conf/sigsoft/fse2016.html)|[API-Mining](API-Mining.md)|0|0|[Parameter-free probabilistic API mining across GitHub](https://scholar.google.com/scholar?q=Parameter-free+probabilistic+API+mining+across+GitHub)|

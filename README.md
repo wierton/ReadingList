@@ -13,39 +13,106 @@
 * technique: conducted methodologies
 * keywords: null pointer dereference, ...
 
-## Labels
-* SMT: satisfiability modulo theory
-* Program Slicing:
-* Metamorphic Testing: mutate testcases while maintaining some invariants
-* Refactor: help refactor the code
-* Test Acceration: help accelerate some existsing testing methodologies or unit testing/regression testing
-* Web Application: as is
-* Fault Localization: find where is possibly the bug
-* Misc Testing: hard to classify
-* Concolic Execution: combine symbolic execution and concrete execution
-* Fuzzing: randomly generate/manipulate inputs with some heuristic
-* Configuration: detect errors in configuration or test systems which higly depends on configuration
-* Verification: manually or automatically give proof to program's properties
-* Fault Injection: delibrately return rubbish/inconsistent result to program when invoke external api/syscall
-* Testcase Reduction: reduce testcases' numbers or size
-* Program Comprehension: extract high level summary from program
-* Testing: as is
-* Debugging: help better debugging or related to debugging tools
-* Fault Tolarating: runtime mechanism to help program still keep running after fault
-* Performance: improve program's performance, or find performance bugs
-* Synthesis: construct program/code pieces/DSL and etc
-* Generation: testcase generation, for testing
-* Replay: replay trace which cause the bug
-* JavaScript: as is
-* Symbolic Execution: execute program with symbols and constraints
-* Regression Testing: as is
-* Fomalization: a lot of formulas/symbols, strictly illustrate the complicated (sometimes naive) solutions/problems/concepts
-* Testcase Prioritization: reorder testcases to help faster testing
-* Mutation: Mutate existing testcases
-* Program Analysis: dynamic or static analysis of program
-* Repair: fix program either from compile-time or from runtime
-* Invariant Deduction: kind of program analysis
-* Model Checking: STFW
+## major class
+* Methodology Improvement
+* Specific Testing Object
+* Conducted Methodologies
+
+## domain
+* Program Synthesis
+* PBE
+* Code Completion
+* Formalization
+* Testing
+  - General Testing Methodology
+    + Symbolic Execution
+    + Concolic Execution
+    + Program Analysis
+      * Static Analysis
+        - Pointer Analysis
+        - Input Grammer Inference
+        - Invariant Deduction
+        - Null-Dereference Analysis
+        - Path Analysis
+        - Memory Leak Detection
+        - String Analysis
+        - Buffer Overflow
+        - Circuit Analysis
+        - Array Bounds Checking
+        - Exception Handling Analysis
+      * Dynamic Analysis
+      * Concolic Analysis
+      * Symbolic Analysis
+    + Differential Testing
+    + Fuzzing
+      * Test Data Generation
+      * Grammer Aware Generation
+      * Logic Constraints Aware Generation
+    + Model Checking
+    + Metamorphic Testing
+    + Mutation
+  - Testing Improvement
+    + Testcase Minimization
+    + Testcase Prioritization
+    + Testcase Reduction
+    + Testcase Selection
+    + Testing Acceration
+    + Testing Automation
+  - Concurrency
+    + Race Detection
+  - Performance
+  - Debugging
+    + Delta Debugging
+  - Fault Injection
+  - Repair
+    + Patch Synthesis
+    + Configuration Fixing
+    + Program Repair
+  - Dynamic Software Update
+  - Fault Localization
+  - Fault Tolerating
+  - Empirical Testing
+    + Unit Testing
+    + Regression Testing
+  - Specific Testing
+    + Android
+      * Clone Detection
+    + Compiler
+      * Program Generation
+        - Grammer Based Program Generation
+        - Mutation Based Program Generation
+        - Oracle Based Program Generation
+  - Misc Testing
+
+## object
+- Testing Object
+  + Android
+  + Compiler
+  + Web Application
+    * AJAX
+    * JavaScript
+    * Node.js
+    * RESTful API
+  + Alloy
+  + Configuration
+  + Container
+  + Database Application
+  + Git Commit
+  + Java
+  + JVM
+  + API
+  + State Based System
+  + SQL
+  + Spreadsheet
+  + Simulink
+  + Scratch
+  + Regular Expression
+  + SAT/SMT
+  + Python
+  + GUI
+  + Parameterized Program
+  + TCP/UDP
+  + GR(1)
 
 ## score
 * 0, default value (unchecked)
