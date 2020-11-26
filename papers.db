@@ -2336,6 +2336,13 @@ relevant:
 cites: 0
 score: 0
 
+title: Detecting and understanding JavaScript global identifier conflicts on the web
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+score: 0
+
 title: C2S: Translating Natural Language Comments to Formal Program Specifications
 publication: FSE'20
 domain:
@@ -6034,6 +6041,258 @@ score: 0
 
 title: Testing Configuration Changes in Context to Prevent Production Failures
 publication: OSDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Automatic Generation of Pull Request Descriptions
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Systematically Covering Input Structure
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Detecting Error-Handling Bugs without Error Specification Input
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Grading-Based Test Suite Augmentation
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: History-Guided Configuration Diversification for Compiler Test-Program Generation
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Regexes are Hard: Decision-Making, Difficulties, and Risks in Programming Regular Expressions
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Accurate String Constraints Solution Counting with Weighted Automata
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Mutation Analysis for Coq
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Verifying Arithmetic in Cryptographic C Programs
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Get Rid of Inline Assembly through Verification-Oriented Lifting
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Fine-Grain Memory Object Representation in Symbolic Execution
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: WEIZZ: automatic grey-box fuzzing for structured binary formats
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Learning input tokens for effective fuzzing
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Scaffle: bug localization on millions of files
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Abstracting failure-inducing inputs
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Differential regression testing for REST APIs
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Patch based vulnerability matching for binary programs
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Identifying Java calls in native code via binary scanning
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Empirically revisiting and enhancing IR-based test-case prioritization
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: How far we have come: testing decompilation correctness of C decompilers
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Escaping dependency hell: finding build dependency errors with the unified dependency graph
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Theory and practice of string solvers
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Crash-avoiding program repair
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Practical program repair via bytecode mutation
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: TBar: revisiting template-based automated program repair
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: History-driven build failure fixing: how far are we
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Mitigating the effects of flaky tests on mutation testing
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Failure clustering without coverage
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Effective and efficient API misuse detection via exception propagation and search-based testing
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Deferred concretization in symbolic execution via fuzzing
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Differentially testing soundness and precision of program analyzers
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Judge: identifying, understanding, and evaluating sources of unsoundness in call graphs
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Interactive metamorphic testing of debuggers
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Semantic fuzzing with zest
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Detecting memory errors at runtime with source-level instrumentation
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Optimal context-sensitive dynamic partial order reduction with observers
+publication: ISSTA'19
 domain:
 relevant:
 cites: 0
