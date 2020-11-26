@@ -6298,3 +6298,227 @@ relevant:
 cites: 0
 score: 0
 
+title: Mondrix: memory isolation for linux using mondriaan memory protection
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Connections: using context to enhance file search
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Detecting past and present intrusions through vulnerability-specific predicates
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Vigilante: end-to-end containment of internet worms
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: The taser intrusion recovery system
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Hibernator: helping disk arrays sleep through the winter
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: IRON file systems
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: RaceTrack: efficient detection of data race conditions via adaptive tracking
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Rx: treating bugs as allergies - a safe method to survive software failures
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Bouncer: securing software by blocking bad input
+publication: SOSP'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: /*icomment: bugs or bad comments?*/
+publication: SOSP'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: AutoBash: improving configuration management with operating system causality analysis
+publication: SOSP'07
+domain:
+relevant:
+cites: 0
+score: 0
+
+Fast byte-granularity software fault isolatiotitle: n
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Tolerating hardware device failures in software
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Automatic device driver synthesis with termite
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Automatically patching errors in deployed software
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Detecting large-scale system problems by mining console logs
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Operating systems transactions
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: seL4: formal verification of an OS kernel
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Improving application security with data flow assertions
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Practical software model checking via dynamic interface reduction
+publication: SOSP'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Dthreads: efficient deterministic multithreading
+publication: SOSP'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Pervasive detection of process races in deployed systems
+publication: SOSP'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Detecting and surviving data races using complementary schedules
+publication: SOSP'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Willias: Towards optimization-safe systems: analyzing the impact of undefined behavior
+publication: SOSP'13
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Failure sketching: a technique for automated root cause diagnosis of in-production failures
+publication: SOSP'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Cross-checking semantic correctness: the case of finding file system bugs
+publication: SOSP'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Canopy: An End-to-End Performance Tracing And Analysis System
+publication: SOSP'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Verifying a high-performance crash-safe file system using a tree specification
+publication: SOSP'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Finding semantic bugs in file systems with an extensible fuzzing framework
+publication: SOSP'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Efficient scalable thread-safety-violation detection: finding thousands of concurrency bugs during testing
+publication: SOSP'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Scaling symbolic evaluation for automated verification of systems code with Serval
+publication: SOSP'19
+domain:
+relevant:
+cites: 0
+score: 0
+
