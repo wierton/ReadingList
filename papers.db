@@ -5682,3 +5682,360 @@ relevant:
 cites: 0
 score: 0
 
+title: Type-Safe Disks
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: SafeDrive: Safe and Recoverable Extensions Using Language-Based Techniques
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: BrowserShield: Vulnerability-Driven Filtering of Dynamic HTML
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Operating System Profiling via Latency Analysis
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: EXPLODE: A Lightweight, General System for Finding Serious Storage System Errors
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Securing Software by Enforcing Data-flow Integrity
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Bigtable: A Distributed Storage System for Structured Data
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: SQCK: A Declarative File System Checker
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Binary Translation Using Peephole Superoptimizers
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: R2: An Application-Level Kernel for Record and Replay
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Hardware Enforcement of Application Security Policies Using Tagged Memory
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Finding and Reproducing Heisenbugs in Concurrent Programs
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Gadara: Dynamic Deadlock Avoidance for Multithreaded Programs
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Deadlock Immunity: Enabling Systems to Defend Against Deadlocks
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Intrusion Recovery Using Selective Re-execution
+publication: OSDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Bypassing Races in Live Applications with Execution Filters
+publication: OSDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Effective Data-Race Detection for the Kernel
+publication: OSDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Automating Configuration Troubleshooting with Dynamic Information Flow Analysis
+publication: OSDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Can the Production Network Be the Testbed
+publication: OSDI'10
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Automated Concurrency-Bug Fixing
+publication: OSDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: SymDrive: Testing Drivers without Devices
+publication: OSDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: X-ray: Automating root-cause diagnosis of performance anomalies in production software
+publication: OSDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Dune: Safe User-level Access to Privileged CPU Features
+publication: OSDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: SHILL: A Secure Shell Scripting Language
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Code-Pointer Integrity
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Protecting Users by Confining JavaScript with COWL
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: SAMC: Semantic-Aware Model Checking for Fast Discovery of Deep Bugs in Cloud Systems
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Torturing Databases for Fun and Profit
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Willias: Nail: A Practical Tool for Parsing and Generating Data Formats
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: User-Guided Device Driver Synthesis
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Push-Button Verification of File Systems via Crash Refinement
+publication: OSDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Correlated Crash Vulnerabilities
+publication: OSDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Simplifying Datacenter Network Debugging with PathDump
+publication: OSDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Don't Get Caught in the Cold, Warm-up Your JVM: Understand and Eliminate JVM Warm-up Overhead in Data-Parallel Systems
+publication: OSDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: XFT: Practical Fault Tolerance beyond Crashes
+publication: OSDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Early Detection of Configuration Errors to Reduce Failure Damage
+publication: OSDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: REPT: Reverse Debugging of Failures in Deployed Software
+publication: OSDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing
+publication: OSDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Proving confidentiality in a file system using DiskSec
+publication: OSDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory
+publication: OSDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Orca: Differential Bug Localization in Large-Scale Services
+publication: OSDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Specification and verification in the field: Applying formal methods to BPF just-in-time compilers in the Linux kernel
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Determinizing Crash Behavior with a Verified Snapshot-Consistent Flash Translation Layer
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: From Global to Local Quiescence: Wait-Free Code Patching of Multi-Threaded Processes
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Testing Database Engines via Pivoted Query Synthesis
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Gauntlet: Finding Bugs in Compilers for Programmable Packet Processing
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Aragog: Scalable Runtime Verification of Shardable Networked Systems
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Testing Configuration Changes in Context to Prevent Production Failures
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+

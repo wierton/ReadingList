@@ -23,10 +23,12 @@
 * Program Synthesis
 * Program Similarity
 * Side Channel Mitigation
+* Binary Translation
 * PBE
 * Code Completion
 * Formalization
 * Verification
+* Replay
 * Optimization
   - Code Placement
   - Register Allocation
@@ -74,6 +76,7 @@
   - Concurrency
     + Race Detection
     + Atomicity Violation
+    + Deadlock Avoidance
   - Performance
   - Debugging
     + Delta Debugging
@@ -125,6 +128,8 @@
   + Git Commit
   + Java
   + JVM
+  + Cloud System
+  + Data Center
   + File System
   + API
   + State Based System
