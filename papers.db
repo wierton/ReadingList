@@ -4597,3 +4597,1088 @@ relevant:
 cites: 0
 score: 0
 
+title: Data representation synthesis
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Synthesis of loop-free programs
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Generalized just-in-time trace compilation using a parallel task farm in a dynamic binary translator
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Probabilistic, modular and scalable inference of typestate specifications
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Predicate abstraction and CEGAR for higher-order model checking
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Mostly-automated verification of low-level programs in computational separation logic
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Higher-order test generation
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: LeakChaser: helping programmers narrow down causes of memory leaks
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Finding and understanding bugs in C compilers
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Willias: Evaluating value-graph translation validation for LLVM
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Systematic editing: generating program transformations from an example
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Spreadsheet table transformations from examples
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Language-independent sandboxing of just-in-time compilation and self-modifying code
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Isolating and understanding concurrency errors using reconstructed execution fragments
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Automated atomicity-violation fixing
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Cause clue clauses: error localization using maximum satisfiability
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Path-based inductive synthesis for program inversion
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Directed incremental symbolic execution
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Separation logic + superposition calculus = heap theorem prover
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Precise and compact modular procedure summaries for heap manipulating programs
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: On inter-procedural analysis of programs with lists and data
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Scaling abstraction refinement via pruning
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Algorithmic profiling
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Understanding and detecting real-world performance bugs
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Input-sensitive profiling
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Language-based control and mitigation of timing channels
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Efficient state merging in symbolic execution
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Fast and precise hybrid type inference for JavaScript
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Race detection for web applications
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Test-case reduction for C compiler bugs
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: A dynamic program analysis to find floating-point accuracy problems
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Fully automatic and precise detection of thread safety violations
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Scalable and precise dynamic datarace detection for structured parallelism
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: CLAP: recording local executions to reproduce concurrency failures
+publication: PLDI'13
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Taming compiler fuzzers
+publication: PLDI'13
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Thresher: precise refutations for heap reachability
+publication: PLDI'13
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: TRANSIT: specifying protocols with concolic snippets
+publication: PLDI'13
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: DoubleChecker: efficient sound and precise atomicity checking
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Test-driven repair of data races in structured parallel programs
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Compiler-assisted detection of transient memory errors
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Compiler validation via equivalence modulo inputs
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Automatic runtime error repair and containment via recovery shepherding
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: On abstraction refinement for program analyses in Datalog
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: End-to-end verification of stack-space bounds for C programs
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: VeriCon: towards verifying controller programs in software-defined networks
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Race detection for event-driven mobile applications
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Maximal sound predictive race detection with control flow abstraction
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Test-driven synthesis
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Don't sweat the small stuff: formal verification of C code without the pain
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Natural proofs for data structure manipulation in C using separation logic
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Willias: A lightweight symbolic virtual machine for solver-aided host languages
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Automatically improving accuracy for floating point expressions
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Diagnosing type errors with class
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Provably correct peephole optimizations with alive
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Many-core compiler fuzzing
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Verifying read-copy-update in a logic for weak memory
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Asynchronous programming, analysis and testing with state machines
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Stateless model checking concurrent programs with maximal causality reduction
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Synthesizing racy tests
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Efficient synthesis of network updates
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Synthesizing data structure transformations from input-output examples
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: A formal C memory model supporting integer-pointer casts
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Defining the undefinedness of C
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Profile-guided meta-programming
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Autotuning algorithmic choice for input sensitivity
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Automatic induction proofs of data-structures in imperative programs
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Termination and non-termination specification inference
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+Finding counterexamples from parsing conflicttitle: s
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Polymorphic type inference for machine code
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Data-driven precondition inference with learned features
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Verifying bit-manipulations of floating-point
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Coverage-directed differential testing of JVM implementations
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Stratified synthesis: automatically learning the x86-64 instruction set
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Statistical similarity of binaries
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Occurrence typing modulo theories
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: MapReduce program synthesis
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Just-in-time static type checking for dynamic languages
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Synthesizing transformations on hierarchically structured data
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Program synthesis from polymorphic refinement types
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Cache locality optimization for recursive programs
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Alive-Infer: data-driven precondition inference for peephole optimizations in LLVM
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Synthesizing program input grammars
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: BARRACUDA: binary-level analysis of runtime RAces in CUDA programs
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: BigFoot: static check placement for dynamic race detection
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Dynamic race prediction in linear time
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Compositional recurrence analysis revisited
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Efficient and precise points-to analysis: modeling the heap by merging equivalent automata
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Skeletal program enumeration for rigorous compiler testing
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Automatic program inversion using symbolic transducers
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Rigorous analysis of software countermeasures against cache attacks
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Component-based synthesis of table consolidation and transformation tasks from examples
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Synthesizing highly expressive SQL queries from input-output examples
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Taming undefined behavior in LLVM
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: BLeak: automatically debugging memory leaks in web applications
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Putting in all the stops: execution control for JavaScript
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Verifying that web pages have accessible layout
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Advanced automata-based algorithms for program termination checking
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: On-stack replacement, distilled
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: EffectiveSan: type and memory error detection using dynamically typed C/C++
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Bounding data races in space and time
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Finding root causes of floating point error
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: High-coverage, unbounded sound predictive race detection
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: iReplayer: in-situ and identical record-and-replay for multithreaded applications
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: D4: fast concurrency debugging with parallel differential analysis
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: CURD: a dynamic CUDA race detector
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Program synthesis using conflict-driven learning
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Inferring crypto API rules from code changes
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Inferring type rules for syntactic sugar
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Accelerating sequential consistency for Java with speculative compilation
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Model checking for weakly consistent libraries
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Towards certified separate compilation for concurrent programs
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Incremental precision-preserving symbolic inference for probabilistic programs
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Resource-guided program synthesis
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Synthesizing database programs for schema refactoring
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Lightweight multi-language syntax transformation with parser parser combinators
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: A typed, algebraic approach to parsing
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Lazy counterfactual symbolic execution
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Sound regular expression semantics for dynamic symbolic execution of JavaScript
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Effective floating-point analysis via weak-distance minimization
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Verifying message-passing programs with dependent behavioural types
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Parser-directed fuzzing
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Learning stateful preconditions modulo a test generator
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: SLING: using dynamic analysis to infer program invariants in separation logic
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Abstract interpretation under speculative execution
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Computing summaries of string loops in C for better testing and refactoring
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Semantic program alignment for equivalence checking
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Simple and precise static analysis of untrusted Linux kernel extensions
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Armada: Low-Effort Verification of High-Performance Concurrent Programs
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Binary Rewriting without Control Flow Recovery
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: BlankIt Library Debloating: Getting What You Want Instead of Cutting What You Don’t
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: CARAT: A Case for Virtual Memory through Compiler- and Runtime-Based Address Translation
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Compiler and Runtime Support for Continuation Marks
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Constant-Time Foundations for the New Spectre Era
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Data-Driven Inference of Representation Invariants
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Debug Information Validation for Optimized Code
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Effective Function Merging in the SSA Form
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Efficient Handling of String-Number Conversion
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Exact and Approximate Methods for Proving Unrealizability of Syntax-Guided Synthesis Problems
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Faster General Parsing through Context-Free Memoization
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: First-Order Quantified Separators
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Gillian, Part I: A Multi-language Platform for Symbolic Execution
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Learning Fast and Precise Numerical Analysis
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Learning Nonlinear Loop Invariants with Gated Continuous Logic Networks
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Multi-modal Synthesis of Regular Expressions
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: OOElala: Order-of-Evaluation Based Alias Analysis for Compiler Optimization
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Optimizing Homomorphic Evaluation Circuits by Program Synthesis and Term Rewriting
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Polynomial Invariant Generation for Non-deterministic Recursive Programs
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Willias: Reconciling Enumerative and Deductive Program Synthesis
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: SCAF: A Speculation-Aware Collaborative Dependence Analysis Framework
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Scalable Validation of Binary Lifters
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Templates and Recurrences: Better Together
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: The Essence of Bluespec: A Core Language for Rule-Based Hardware Design
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Towards a Verified Range Analysis for JavaScript JITs
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Validating SMT Solvers via Semantic Fusion
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+
+title: Zippy LL(1) Parsing with Derivatives
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+score: 0
+

@@ -12,6 +12,7 @@
 * Methodology Application
 * Tool Integration
 * Direction Opener
+* Permutation and Combination
 * New Idea
 * New Topic, "clever" choice :)
 * Literature Research
@@ -20,6 +21,8 @@
 
 ## domain
 * Program Synthesis
+* Program Similarity
+* Side Channel Mitigation
 * PBE
 * Code Completion
 * Formalization
@@ -48,6 +51,8 @@
         - Array Bounds Checking
         - Exception Handling Analysis
         - Specification Inference
+        - Type Inference
+        - Semantic Inference
       * Dynamic Analysis
       * Concolic Analysis
       * Symbolic Analysis
@@ -68,6 +73,7 @@
     + Testing Automation
   - Concurrency
     + Race Detection
+    + Atomicity Violation
   - Performance
   - Debugging
     + Delta Debugging
@@ -95,7 +101,13 @@
 ## object
 - Testing Object
   + Android
+  + Linux
+    * Linux Module
+      - Linux Driver
   + Compiler
+    * OpenCL
+    * LLVM/GCC
+    * CUDA
   + Web Application
     * AJAX
     * JavaScript
@@ -103,6 +115,10 @@
     * RESTful API
     * XML
   + Alloy
+  + Undefined Behavior
+  + Numerical Program
+    * Integer Number
+    * Floating Point Number
   + Configuration
   + Container
   + Database Application
@@ -121,8 +137,15 @@
   + Python
   + GUI
   + Parameterized Program
-  + TCP/UDP
+  + Network
+    * TCP/UDP
   + GR(1)
+  + Datalog
+  + Controller
+  + MapReduce
+  + Message Passing System
+- Verification Technique
+  + Separation Logic
 
 ## score
 * 0, default value (unchecked)
