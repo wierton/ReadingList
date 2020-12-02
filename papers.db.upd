@@ -1,0 +1,7455 @@
+title: Ankou: Guiding Grey-box Fuzzing towards Combinatorial Difference
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatically Testing String Solvers
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: BCFA: Bespoke Control Flow Analysis for CFA at Scale
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Burn After Reading: A Shadow Stack with Microsecond-level Runtime Rerandomization for Protecting Return Addresses
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Causal Testing: Understanding Defects' Root Causes
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Debugging Inputs
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient Generation of Error-Inducing Floating-Point Inputs via Symbolic Execution
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Extracting Taint Specifications for JavaScript Libraries
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: HyDiff: Hybrid Differential Software Analysis
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: JVM Fuzzing for JIT-Induced Side-Channel Detection
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: MemLock: Memory Usage Guided Fuzzing
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Pipelining Bottom-up Data Flow Analysis
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Quickly Generating Diverse Valid Test Inputs with Reinforcement Learning
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS Models for Finding Compiler Bugs in Simulink
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Securing UnSafe Rust Programs with XRust
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SpecuSym: Speculative Symbolic Execution for Cache Timing Leak Detection
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Symbolic Verification of Message Passing Interface Programs
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Tailoring Programs for Static Analysis via Program Transformation
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Taming Behavioral Backward Incompatibilities via Cross-Project Testing and Analysis
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Targeted Greybox Fuzzing with Static Lookahead Analysis
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Typestate-Guided Fuzzer for Discovering Use-after-Free Vulnerabilities
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Verifying Object Construction
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: White-box Fairness Testing through Adversarial Sampling
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: sFuzz: An Efficient Adaptive Fuzzer for Solidity Smart Contracts
+publication: ICSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title:RDiff: Scaling Program Equivalence Checking via Iterative Abstraction and Refinement of Common Code
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Baital: An Adaptive Weighted Sampling Approach for Improved t-wise Coverage
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Block Public Access: Trust Safety Verification of Access Control Policies
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Boosting Fuzzer Efficiency: An Information Theoretic Perspective
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting and understanding JavaScript global identifier conflicts on the web
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: C2S: Translating Natural Language Comments to Formal Program Specifications
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Configuration Smells in Continuous Delivery Pipelines: A Linter and a Six-Month Study on GitLab
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Cost Measures Matter for Mutation Testing Study Validity
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: CrFuzz: Fuzzing Multi-purpose Programs through Input Validation
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting Critical Bugs in SMT Solvers Using Blackbox Mutational Fuzzing
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting Numerical Bugs in Neural Network Architectures
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting Optimization Bugs in Database Engines via Non-optimizing Reference Engine Construction
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting and Understanding JavaScript Global Identifier Conflicts on the Web
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Dynamically Reconfiguring Software Microbenchmarks: Reducing Execution Time without Sacrificing Result Quality
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient Binary-Level Coverage Analysis
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficiently Finding Higher-Order Mutants
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Evolutionary Improvement of Assertion Oracles
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Fuzzing: On the Exponential Cost of Vulnerability Discovery
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Inductive Program Synthesis over Noisy Data
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Intelligent REST API Data Fuzzing
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Interval Counterexamples for Loop Invariant Learning
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Java Ranger: Statically Summarizing Regions for Efficient Symbolic Execution of Java
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Making Symbolic Execution Promising by Learning Aggressive State-Pruning Strategy
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Willias: Mining Input Grammars from Dynamic Control Flow
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Past-Sensitive Pointer Analysis for Symbolic Execution
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: UBITect: A Precise and Scalable Method to Detect Use-before-Initialization Bugs in Linux Kernel
+publication: FSE'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Carving differential unit test cases from system test cases
+publication: FSE'06
+domain:
+relevant: Unit Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Mining specifications of malicious behavior
+publication: FSE'07
+domain:
+relevant: Program Comprehension
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Mining API patterns as partial orders from source code: from usage scenarios to specifications
+publication: FSE'07
+domain:
+relevant: API
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Programming asynchronous layers with CLARITY
+publication: FSE'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Object and reference immutability using java generics
+publication: FSE'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A serializability violation detector for shared-memory server programs
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Scalable statistical bug isolation
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: VYRD: verifYing concurrent programs by runtime refinement-violation detection
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Path slicing
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Checking type safety of foreign function calls
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Essential language support for generic programming
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Semantic type qualifiers
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Permission-based ownership: encapsulating state in higher-order typed languages
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Code placement for improving dynamic branch prediction accuracy
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Register allocation for software pipelined multi-dimensional loops
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Differential register allocation
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Demystifying on-the-fly spill code
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: DART: directed automated random testing
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: TraceBack: first fault diagnosis by reconstruction of distributed control flow
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Pin: building customized program analysis tools with dynamic instrumentation
+publication: PLDI'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: The Atomos transactional programming language
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Compiler and runtime support for efficient software transactional memory
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Practical dynamic software updating for C
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Artemis: practical runtime monitoring of applications for execution anomalies
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Optimizing data permutations for SIMD devices
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Auto-vectorization of interleaved data for SIMD
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SAFECode: enforcing alias analysis for weakly typed languages
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: DieHard: probabilistic memory safety for unsafe languages
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Algorithm specialization in generic programming: challenges of constrained generics in C++
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Effective static race detection for Java
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: LOCKSMITH: context-sensitive correlation analysis for race detection
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Combining abstract interpreters
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Refinement-based context-sensitive points-to analysis for Java
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Termination proofs for systems code
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Modular verification of assembly code with stack-based control abstractions
+publication: PLDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Exterminator: automatically correcting memory errors with high probability
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Sound and precise analysis of web applications for injection vulnerabilities
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Fault-tolerant typed assembly language
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A certified type-preserving compiler from lambda calculus to assembly language
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Certified self-modifying code
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Enforcing isolation and ordering in STM
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Valgrind: a framework for heavyweight dynamic binary instrumentation
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Static specification inference using predicate mining
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Improved error reporting for software that uses black-box components
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Shape analysis with inductive recursion synthesis
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Thread-modular shape analysis
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Making context-sensitive points-to analysis with heap cloning practical for the real world
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: The ant and the grasshopper: fast and accurate pointer analysis for millions of lines of code
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Path invariants
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: DITTO: automatic incrementalization of data structure invariant checks (in Java)
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Proving thread termination
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Regularly annotated set constraints
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient static analysis of XML paths and types
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Towards locating execution omission errors
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Static error detection using semantic inconsistency inference
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Iterative context bounding for systematic testing of multithreaded programs
+publication: PLDI'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Checking race freedom via linear programming
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Race directed random testing of concurrent programs
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Conditional correlation analysis for safe region-based memory management
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Grammar-based whitebox fuzzing
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Sound, complete and scalable path-sensitive analysis
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Program analysis as constraint solving
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Bootstrapping: a technique for scalable flow and context-sensitive pointer alias analysis
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Dataflow analysis for concurrent programs using datarace detection
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Inferring locks for atomic sections
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Velodrome: a sound and complete dynamic atomicity checker for multithreaded programs
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Discovering properties about arrays in simple programs
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Full functional verification of linked data structures
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Fair stateless model checking
+publication: PLDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Dynamic software updates: a VM-centric approach
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Safe and timely updates to multi-threaded programs
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: CEAL: a C-based language for self-adjusting computation
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Staged information flow for javascript
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A randomized dynamic program analysis technique for detecting real deadlocks
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: FastTrack: efficient and precise dynamic race detection
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: LiteRace: effective sampling for lightweight data-race detection
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A decision procedure for subset constraints over regular languages
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Verifiable composition of deterministic grammars
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Analyzing recursive programs using a fixed-point calculus
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Program verification using templates over predicate abstraction
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Error propagation analysis for file systems
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Type-based data structure verification
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Typed self-representation
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic generation of library bindings using static analysis
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Snugglebug: a powerful approach to weakest preconditions
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Control-flow refinement and progress invariants for bound analysis
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Binary analysis for measurement and attribution of program performance
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Semantics-aware trace analysis
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Trace-based just-in-time type specialization for dynamic languages
+publication: PLDI'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Breadcrumbs: efficient context sensitivity for dynamic bug detection analyses
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Jinn: synthesizing dynamic bug detectors for foreign language interfaces
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Decoupled lifeguards: enabling path optimizations for dynamic correctness checking tools
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Breadcrumbs: efficient context sensitivity for dynamic bug detection analyses
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Safe to the last instruction: automated verification of a type-safe operating system
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Bringing extensibility to verified compilers
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Adversarial memory for detecting destructive races
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: PACER: proportional detection of data races
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Smooth interpretation
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: The reachability-bound problem
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Complete functional synthesis
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Willias: Mixing type checking and symbolic execution
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Inferable object-oriented typed assembly language
+publication: PLDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Data representation synthesis
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Synthesis of loop-free programs
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Generalized just-in-time trace compilation using a parallel task farm in a dynamic binary translator
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Probabilistic, modular and scalable inference of typestate specifications
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Predicate abstraction and CEGAR for higher-order model checking
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Mostly-automated verification of low-level programs in computational separation logic
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Higher-order test generation
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: LeakChaser: helping programmers narrow down causes of memory leaks
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Finding and understanding bugs in C compilers
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Willias: Evaluating value-graph translation validation for LLVM
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Systematic editing: generating program transformations from an example
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Spreadsheet table transformations from examples
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Language-independent sandboxing of just-in-time compilation and self-modifying code
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Isolating and understanding concurrency errors using reconstructed execution fragments
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automated atomicity-violation fixing
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Cause clue clauses: error localization using maximum satisfiability
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Path-based inductive synthesis for program inversion
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Directed incremental symbolic execution
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Separation logic + superposition calculus = heap theorem prover
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Precise and compact modular procedure summaries for heap manipulating programs
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: On inter-procedural analysis of programs with lists and data
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Scaling abstraction refinement via pruning
+publication: PLDI'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Algorithmic profiling
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Understanding and detecting real-world performance bugs
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Input-sensitive profiling
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Language-based control and mitigation of timing channels
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient state merging in symbolic execution
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Fast and precise hybrid type inference for JavaScript
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Race detection for web applications
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Test-case reduction for C compiler bugs
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A dynamic program analysis to find floating-point accuracy problems
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Fully automatic and precise detection of thread safety violations
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Scalable and precise dynamic datarace detection for structured parallelism
+publication: PLDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: CLAP: recording local executions to reproduce concurrency failures
+publication: PLDI'13
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Taming compiler fuzzers
+publication: PLDI'13
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Thresher: precise refutations for heap reachability
+publication: PLDI'13
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: TRANSIT: specifying protocols with concolic snippets
+publication: PLDI'13
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: DoubleChecker: efficient sound and precise atomicity checking
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Test-driven repair of data races in structured parallel programs
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Compiler-assisted detection of transient memory errors
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Compiler validation via equivalence modulo inputs
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic runtime error repair and containment via recovery shepherding
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: On abstraction refinement for program analyses in Datalog
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: End-to-end verification of stack-space bounds for C programs
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: VeriCon: towards verifying controller programs in software-defined networks
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Race detection for event-driven mobile applications
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Maximal sound predictive race detection with control flow abstraction
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Test-driven synthesis
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Don't sweat the small stuff: formal verification of C code without the pain
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Natural proofs for data structure manipulation in C using separation logic
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Willias: A lightweight symbolic virtual machine for solver-aided host languages
+publication: PLDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatically improving accuracy for floating point expressions
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Diagnosing type errors with class
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Provably correct peephole optimizations with alive
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Many-core compiler fuzzing
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Verifying read-copy-update in a logic for weak memory
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Asynchronous programming, analysis and testing with state machines
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Stateless model checking concurrent programs with maximal causality reduction
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Synthesizing racy tests
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient synthesis of network updates
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Synthesizing data structure transformations from input-output examples
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A formal C memory model supporting integer-pointer casts
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Defining the undefinedness of C
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Profile-guided meta-programming
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Autotuning algorithmic choice for input sensitivity
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic induction proofs of data-structures in imperative programs
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Termination and non-termination specification inference
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+Finding counterexamples from parsing conflicttitle: s
+publication: PLDI'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Polymorphic type inference for machine code
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Data-driven precondition inference with learned features
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Verifying bit-manipulations of floating-point
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Coverage-directed differential testing of JVM implementations
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Stratified synthesis: automatically learning the x86-64 instruction set
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Statistical similarity of binaries
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Occurrence typing modulo theories
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: MapReduce program synthesis
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Just-in-time static type checking for dynamic languages
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Synthesizing transformations on hierarchically structured data
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Program synthesis from polymorphic refinement types
+publication: PLDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Cache locality optimization for recursive programs
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Alive-Infer: data-driven precondition inference for peephole optimizations in LLVM
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Synthesizing program input grammars
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: BARRACUDA: binary-level analysis of runtime RAces in CUDA programs
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: BigFoot: static check placement for dynamic race detection
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Dynamic race prediction in linear time
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Compositional recurrence analysis revisited
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient and precise points-to analysis: modeling the heap by merging equivalent automata
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Skeletal program enumeration for rigorous compiler testing
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic program inversion using symbolic transducers
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Rigorous analysis of software countermeasures against cache attacks
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Component-based synthesis of table consolidation and transformation tasks from examples
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Synthesizing highly expressive SQL queries from input-output examples
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Taming undefined behavior in LLVM
+publication: PLDI'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: BLeak: automatically debugging memory leaks in web applications
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Putting in all the stops: execution control for JavaScript
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Verifying that web pages have accessible layout
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Advanced automata-based algorithms for program termination checking
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: On-stack replacement, distilled
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: EffectiveSan: type and memory error detection using dynamically typed C/C++
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Bounding data races in space and time
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Finding root causes of floating point error
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: High-coverage, unbounded sound predictive race detection
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: iReplayer: in-situ and identical record-and-replay for multithreaded applications
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: D4: fast concurrency debugging with parallel differential analysis
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: CURD: a dynamic CUDA race detector
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Program synthesis using conflict-driven learning
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Inferring crypto API rules from code changes
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Inferring type rules for syntactic sugar
+publication: PLDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Accelerating sequential consistency for Java with speculative compilation
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Model checking for weakly consistent libraries
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Towards certified separate compilation for concurrent programs
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Incremental precision-preserving symbolic inference for probabilistic programs
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Resource-guided program synthesis
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Synthesizing database programs for schema refactoring
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Lightweight multi-language syntax transformation with parser parser combinators
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A typed, algebraic approach to parsing
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Lazy counterfactual symbolic execution
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Sound regular expression semantics for dynamic symbolic execution of JavaScript
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Effective floating-point analysis via weak-distance minimization
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Verifying message-passing programs with dependent behavioural types
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Parser-directed fuzzing
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Learning stateful preconditions modulo a test generator
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SLING: using dynamic analysis to infer program invariants in separation logic
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Abstract interpretation under speculative execution
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Computing summaries of string loops in C for better testing and refactoring
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Semantic program alignment for equivalence checking
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Simple and precise static analysis of untrusted Linux kernel extensions
+publication: PLDI'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Armada: Low-Effort Verification of High-Performance Concurrent Programs
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Binary Rewriting without Control Flow Recovery
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: BlankIt Library Debloating: Getting What You Want Instead of Cutting What You Don’t
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: CARAT: A Case for Virtual Memory through Compiler- and Runtime-Based Address Translation
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Compiler and Runtime Support for Continuation Marks
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Constant-Time Foundations for the New Spectre Era
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Data-Driven Inference of Representation Invariants
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Debug Information Validation for Optimized Code
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Effective Function Merging in the SSA Form
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient Handling of String-Number Conversion
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Exact and Approximate Methods for Proving Unrealizability of Syntax-Guided Synthesis Problems
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Faster General Parsing through Context-Free Memoization
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: First-Order Quantified Separators
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Gillian, Part I: A Multi-language Platform for Symbolic Execution
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Learning Fast and Precise Numerical Analysis
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Learning Nonlinear Loop Invariants with Gated Continuous Logic Networks
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Multi-modal Synthesis of Regular Expressions
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: OOElala: Order-of-Evaluation Based Alias Analysis for Compiler Optimization
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Optimizing Homomorphic Evaluation Circuits by Program Synthesis and Term Rewriting
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Polynomial Invariant Generation for Non-deterministic Recursive Programs
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Willias: Reconciling Enumerative and Deductive Program Synthesis
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SCAF: A Speculation-Aware Collaborative Dependence Analysis Framework
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Scalable Validation of Binary Lifters
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Templates and Recurrences: Better Together
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: The Essence of Bluespec: A Core Language for Rule-Based Hardware Design
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Towards a Verified Range Analysis for JavaScript JITs
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Validating SMT Solvers via Semantic Fusion
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Zippy LL(1) Parsing with Derivatives
+publication: PLDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Type-Safe Disks
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SafeDrive: Safe and Recoverable Extensions Using Language-Based Techniques
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: BrowserShield: Vulnerability-Driven Filtering of Dynamic HTML
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Operating System Profiling via Latency Analysis
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: EXPLODE: A Lightweight, General System for Finding Serious Storage System Errors
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Securing Software by Enforcing Data-flow Integrity
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Bigtable: A Distributed Storage System for Structured Data
+publication: OSDI'06
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SQCK: A Declarative File System Checker
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Binary Translation Using Peephole Superoptimizers
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: R2: An Application-Level Kernel for Record and Replay
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Hardware Enforcement of Application Security Policies Using Tagged Memory
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Finding and Reproducing Heisenbugs in Concurrent Programs
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Gadara: Dynamic Deadlock Avoidance for Multithreaded Programs
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Deadlock Immunity: Enabling Systems to Defend Against Deadlocks
+publication: OSDI'08
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Intrusion Recovery Using Selective Re-execution
+publication: OSDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Bypassing Races in Live Applications with Execution Filters
+publication: OSDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Effective Data-Race Detection for the Kernel
+publication: OSDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automating Configuration Troubleshooting with Dynamic Information Flow Analysis
+publication: OSDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Can the Production Network Be the Testbed
+publication: OSDI'10
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automated Concurrency-Bug Fixing
+publication: OSDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SymDrive: Testing Drivers without Devices
+publication: OSDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: X-ray: Automating root-cause diagnosis of performance anomalies in production software
+publication: OSDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Dune: Safe User-level Access to Privileged CPU Features
+publication: OSDI'12
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SHILL: A Secure Shell Scripting Language
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Code-Pointer Integrity
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Protecting Users by Confining JavaScript with COWL
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SAMC: Semantic-Aware Model Checking for Fast Discovery of Deep Bugs in Cloud Systems
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: All File Systems Are Not Created Equal: On the Complexity of Crafting Crash-Consistent Applications
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Torturing Databases for Fun and Profit
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Willias: Nail: A Practical Tool for Parsing and Generating Data Formats
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: User-Guided Device Driver Synthesis
+publication: OSDI'14
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Push-Button Verification of File Systems via Crash Refinement
+publication: OSDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Correlated Crash Vulnerabilities
+publication: OSDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Simplifying Datacenter Network Debugging with PathDump
+publication: OSDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Don't Get Caught in the Cold, Warm-up Your JVM: Understand and Eliminate JVM Warm-up Overhead in Data-Parallel Systems
+publication: OSDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: XFT: Practical Fault Tolerance beyond Crashes
+publication: OSDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Early Detection of Configuration Errors to Reduce Failure Damage
+publication: OSDI'16
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: REPT: Reverse Debugging of Failures in Deployed Software
+publication: OSDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Finding Crash-Consistency Bugs with Bounded Black-Box Crash Testing
+publication: OSDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Proving confidentiality in a file system using DiskSec
+publication: OSDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Write-Optimized and High-Performance Hashing Index Scheme for Persistent Memory
+publication: OSDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Orca: Differential Bug Localization in Large-Scale Services
+publication: OSDI'18
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Specification and verification in the field: Applying formal methods to BPF just-in-time compilers in the Linux kernel
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Determinizing Crash Behavior with a Verified Snapshot-Consistent Flash Translation Layer
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: From Global to Local Quiescence: Wait-Free Code Patching of Multi-Threaded Processes
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Testing Database Engines via Pivoted Query Synthesis
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Gauntlet: Finding Bugs in Compilers for Programmable Packet Processing
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Aragog: Scalable Runtime Verification of Shardable Networked Systems
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automated Reasoning and Detection of Specious Configuration in Large Systems with Symbolic Execution
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Testing Configuration Changes in Context to Prevent Production Failures
+publication: OSDI'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic Generation of Pull Request Descriptions
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Systematically Covering Input Structure
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting Error-Handling Bugs without Error Specification Input
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Grading-Based Test Suite Augmentation
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: History-Guided Configuration Diversification for Compiler Test-Program Generation
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Regexes are Hard: Decision-Making, Difficulties, and Risks in Programming Regular Expressions
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Accurate String Constraints Solution Counting with Weighted Automata
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Mutation Analysis for Coq
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Verifying Arithmetic in Cryptographic C Programs
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Get Rid of Inline Assembly through Verification-Oriented Lifting
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Fine-Grain Memory Object Representation in Symbolic Execution
+publication: ASE'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: WEIZZ: automatic grey-box fuzzing for structured binary formats
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Learning input tokens for effective fuzzing
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Scaffle: bug localization on millions of files
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Abstracting failure-inducing inputs
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Differential regression testing for REST APIs
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Patch based vulnerability matching for binary programs
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Identifying Java calls in native code via binary scanning
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Empirically revisiting and enhancing IR-based test-case prioritization
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: How far we have come: testing decompilation correctness of C decompilers
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Escaping dependency hell: finding build dependency errors with the unified dependency graph
+publication: ISSTA'20
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Theory and practice of string solvers
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Crash-avoiding program repair
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Practical program repair via bytecode mutation
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: TBar: revisiting template-based automated program repair
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: History-driven build failure fixing: how far are we
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Mitigating the effects of flaky tests on mutation testing
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Failure clustering without coverage
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Effective and efficient API misuse detection via exception propagation and search-based testing
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Deferred concretization in symbolic execution via fuzzing
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Differentially testing soundness and precision of program analyzers
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Judge: identifying, understanding, and evaluating sources of unsoundness in call graphs
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Interactive metamorphic testing of debuggers
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Semantic fuzzing with zest
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting memory errors at runtime with source-level instrumentation
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Optimal context-sensitive dynamic partial order reduction with observers
+publication: ISSTA'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Mondrix: memory isolation for linux using mondriaan memory protection
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Connections: using context to enhance file search
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting past and present intrusions through vulnerability-specific predicates
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Vigilante: end-to-end containment of internet worms
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: The taser intrusion recovery system
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Hibernator: helping disk arrays sleep through the winter
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: IRON file systems
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: RaceTrack: efficient detection of data race conditions via adaptive tracking
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Rx: treating bugs as allergies - a safe method to survive software failures
+publication: SOSP'05
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Bouncer: securing software by blocking bad input
+publication: SOSP'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: /*icomment: bugs or bad comments?*/
+publication: SOSP'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: AutoBash: improving configuration management with operating system causality analysis
+publication: SOSP'07
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+Fast byte-granularity software fault isolatiotitle: n
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Tolerating hardware device failures in software
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic device driver synthesis with termite
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatically patching errors in deployed software
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting large-scale system problems by mining console logs
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Operating systems transactions
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: seL4: formal verification of an OS kernel
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Improving application security with data flow assertions
+publication: SOSP'09
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Practical software model checking via dynamic interface reduction
+publication: SOSP'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Dthreads: efficient deterministic multithreading
+publication: SOSP'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Pervasive detection of process races in deployed systems
+publication: SOSP'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting and surviving data races using complementary schedules
+publication: SOSP'11
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Willias: Towards optimization-safe systems: analyzing the impact of undefined behavior
+publication: SOSP'13
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Failure sketching: a technique for automated root cause diagnosis of in-production failures
+publication: SOSP'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Cross-checking semantic correctness: the case of finding file system bugs
+publication: SOSP'15
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Canopy: An End-to-End Performance Tracing And Analysis System
+publication: SOSP'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Verifying a high-performance crash-safe file system using a tree specification
+publication: SOSP'17
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Finding semantic bugs in file systems with an extensible fuzzing framework
+publication: SOSP'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient scalable thread-safety-violation detection: finding thousands of concurrency bugs during testing
+publication: SOSP'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Scaling symbolic evaluation for automated verification of systems code with Serval
+publication: SOSP'19
+domain:
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Failure proximity: a fault localization-based approach
+publication: FSE'06
+domain: 
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Finding failure-inducing changes in java programs using change classification
+publication: FSE'06
+domain: 
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Dynamic slicing long running programs through execution fast forwarding
+publication: FSE'06
+domain: 
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Controlling factors in evaluating path-sensitive error detection techniques
+publication: FSE'06
+domain: 
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SYNERGY: a new algorithm for property checking
+publication: FSE'06
+domain: 
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Perracotta: mining temporal API rules from imperfect traces
+publication: ICSE'06
+domain: API Mining
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Dynamically discovering likely interface invariants
+publication: ICSE'06
+domain: API Mining
+relevant: API Mining
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Mining library specifications using inductive logic programming
+publication: ICSE'08
+domain: API Mining
+relevant: API Mining
+cites: 0
+tags: 0
+state: assigning labels
+
+title: DySy: dynamic symbolic execution for invariant inference
+publication: ICSE'08
+domain: API Mining
+relevant: API Mining
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Parameter-free probabilistic API mining across GitHub
+publication: FSE'16
+domain: API Mining
+relevant: API Mining
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Reducing combinatorics in GUI testing of android applications
+publication: ICSE'16
+domain: Android Testing
+relevant: GUI Testing, Testcase Reduction
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Practical GUI testing of Android applications via model abstraction and refinement
+publication: ICSE'19
+domain: Android Testing
+relevant: GUI Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Probabilistic environments in the quantitative analysis of (non-probabilistic) behaviour models
+publication: FSE'09
+domain: Behavior Model
+relevant: Behavior Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic steering of behavioral model inference
+publication: FSE'09
+domain: Behavior Model
+relevant: Behavior Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Backwards-compatible array bounds checking for C with very low overhead
+publication: ICSE'06
+domain: Bug Detection
+relevant: Bug Detection, Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Modular checking for buffer overflows in the large
+publication: ICSE'06
+domain: Bug Detection
+relevant: Bug Detection, Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Discovering faults in idiom-based exception handling
+publication: ICSE'06
+domain: Bug Detection
+relevant: Bug Detection, Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Static detection of leaks in polymorphic containers
+publication: ICSE'06
+domain: Bug Detection
+relevant: Bug Detection, Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Data flow testing of service-oriented workflow applications
+publication: ICSE'08
+domain: Bug Detection
+relevant: Testing, Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Effective static deadlock detection
+publication: ICSE'09
+domain: Bug Detection
+relevant: Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: UFO: predictive concurrency use-after-free detection
+publication: ICSE'18
+domain: Bug Detection
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: ConflictJS: finding and understanding conflicts between JavaScript libraries
+publication: ICSE'18
+domain: Bug Detection
+relevant: JavaScript, Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatically finding bugs in a commercial cyber-physical system development tool chain with SLforge
+publication: ICSE'18
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Smoke: scalable path-sensitive memory leak detection for millions of lines of code
+publication: ICSE'19
+domain: Bug Detection
+relevant: Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Hunting for bugs in code coverage tools via randomized differential testing
+publication: ICSE'19
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting atomicity violations for event-driven Node.js applications
+publication: ICSE'19
+domain: Bug Detection
+relevant: JavaScript
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Context- and path-sensitive memory leak detection
+publication: FSE'05
+domain: Bug Detection
+relevant: Bug Detection, Memory Leak Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Memories of bug fixes
+publication: FSE'06
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting object usage anomalies
+publication: FSE'07
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Which warnings should I fix first
+publication: FSE'07
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Context-based detection of clone-related bugs
+publication: FSE'07
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Finding bugs efficiently with a SAT solver
+publication: FSE'07
+domain: Bug Detection
+relevant: SMT
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Finding programming errors earlier by evaluating runtime monitors ahead-of-time
+publication: FSE'08
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Profile-guided program simplification for effective testing and analysis
+publication: FSE'08
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automated identification of parameter mismatches in web applications
+publication: FSE'08
+domain: Bug Detection
+relevant: Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Model-based fault detection in context-aware adaptive applications
+publication: FSE'08
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Marple: a demand-driven path-sensitive buffer overflow detector
+publication: FSE'08
+domain: Bug Detection
+relevant: Bug Detection, Buffer Overflow
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Python predictive analysis for bug detection
+publication: FSE'16
+domain: Bug Detection
+relevant: Bug Detection, Python
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Understanding and detecting wake lock misuses for Android applications
+publication: FSE'16
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting and fixing precision-specific operations for measuring floating-point errors
+publication: FSE'16
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Parallel data race detection for task parallel programs with locks
+publication: FSE'16
+domain: Bug Detection
+relevant: Race Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Bayesian specification learning for finding API usage errors
+publication: FSE'17
+domain: Bug Detection
+relevant: API
+cites: 0
+tags: 0
+state: assigning labels
+
+title: CloudRaid: hunting concurrency bugs in the cloud via log-mining
+publication: FSE'18
+domain: Bug Detection
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Testing multithreaded programs via thread speed control
+publication: FSE'18
+domain: Bug Detection
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Bug synthesis: challenging bug-finding tools with deep faults
+publication: FSE'18
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: NAR-miner: discovering negative association rules from code for bug detection
+publication: FSE'18
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Towards counterexample-guided k-induction for fast bug detection
+publication: FSE'18
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Towards counterexample-guided k-induction for fast bug detection
+publication: FSE'18
+domain: Bug Detection
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient static checking of library updates
+publication: FSE'18
+domain: Bug Detection
+relevant: Static Analysis, Library
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Finding and understanding bugs in software model checkers
+publication: FSE'19
+domain: Bug Detection
+relevant: Model Checking
+cites: 0
+tags: 0
+state: assigning labels
+
+title: ChangeLocator: locate crash-inducing changes based on crash reports
+publication: ICSE'18
+domain: Bug Localization
+relevant: Bug Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: MSeer: an advanced technique for locating multiple bugs in parallel
+publication: ICSE'18
+domain: Bug Localization
+relevant: Bug Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A system identification based Oracle for control-CPS software fault localization
+publication: ICSE'19
+domain: Bug Localization
+relevant: Bug Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SOBER: statistical model-based bug localization
+publication: FSE'05
+domain: Bug Localization
+relevant: Bug Localization, Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Capturing propagation of infected program states
+publication: FSE'09
+domain: Bug Localization
+relevant: Bug Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Discovering bug patterns in JavaScript
+publication: FSE'16
+domain: Bug Patterns Mining
+relevant: JavaScript, Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatically learning semantic features for defect prediction
+publication: ICSE'16
+domain: Bug Prediction
+relevant: Machine Learning
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Class imbalance evolution and verification latency in just-in-time software defect prediction
+publication: ICSE'19
+domain: Bug Prediction
+relevant: Bug Prediction
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Effort-aware just-in-time defect prediction: simple unsupervised models could be better than supervised models
+publication: FSE'16
+domain: Bug Prediction
+relevant: Bug Prediction
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SafeCheck: safety enhancement of Java unsafe API
+publication: ICSE'19
+domain: Bug Prevention
+relevant: Java, API
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Sequential Circuits for Relational Analysis
+publication: ICSE'07
+domain: Circuit Analysis
+relevant: Circuit Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Complete and accurate clone detection in graph-based models
+publication: ICSE'09
+domain: Clone Detection
+relevant: Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Graph-based pattern-oriented, context-sensitive source code completion
+publication: ICSE'12
+domain: Code Completion
+relevant:
+cites: 138
+tags: 0
+state: assigning labels
+
+title: Finding and analyzing compiler warning defects
+publication: ICSE'16
+domain: Compiler Testing
+relevant: Compiler Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automated concolic testing of smartphone apps
+publication: FSE'12
+domain: Concolic Testing
+relevant: Concolic Testing
+cites: 400
+tags: 0
+state: assigning labels
+
+title: Con2colic testing
+publication: FSE'13
+domain: Concolic Testing
+relevant: Concolic Testing
+cites: 70
+tags: 0
+state: assigning labels
+
+title: Boosting concolic testing via interpolation
+publication: FSE'13
+domain: Concolic Testing
+relevant: Concolic Testing
+cites: 62
+tags: 0
+state: assigning labels
+
+title: How we get there: a context-guided search strategy in concolic testing
+publication: FSE'14
+domain: Concolic Testing
+relevant: Concolic Testing
+cites: 59
+tags: 0
+state: assigning labels
+
+title: Hybrid Concolic Testing
+publication: ICSE'07
+domain: Concolic Testing
+relevant: Concolic Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Type-aware concolic testing of JavaScript programs
+publication: ICSE'16
+domain: Concolic Testing
+relevant: Concolic Testing, JavaScript, Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Towards optimal concolic testing
+publication: ICSE'18
+domain: Concolic Testing
+relevant: Concolic Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Grey-box concolic testing on binary code
+publication: ICSE'19
+domain: Concolic Testing
+relevant: Concolic Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Concolic testing for models of state-based systems
+publication: FSE'19
+domain: Concolic Testing
+relevant: Stateful System
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Target-driven compositional concolic testing with function summary refinement for effective bug detection
+publication: FSE'19
+domain: Concolic Testing
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Concolic testing with adaptively changing search heuristics
+publication: FSE'19
+domain: Concolic Testing
+relevant: Concolic Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Randomized active atomicity violation detection in concurrent programs
+publication: FSE'08
+domain: Concurrency
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Asserting and checking determinism for multithreaded programs
+publication: FSE'09
+domain: Concurrency
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Static data race detection for concurrent programs with asynchronous calls
+publication: FSE'09
+domain: Concurrency
+relevant: Concurrency, Race Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Symbolic pruning of concurrent program executions
+publication: FSE'09
+domain: Concurrency
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Saturation-based testing of concurrent programs
+publication: FSE'09
+domain: Concurrency
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Adversarial symbolic execution for detecting concurrency-related cache timing leaks
+publication: FSE'18
+domain: Concurrency
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient detection of thread safety violations via coverage-guided generation of concurrent tests
+publication: ICSE'17
+domain: Concurrency Testing
+relevant: Concurrency Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Using symbolic evaluation to understand behavior in configurable software systems
+publication: ICSE'10
+domain: Configuration
+relevant: Configuration
+cites: 123
+tags: 0
+state: assigning labels
+
+title: Combining Multi-Objective Search and Constraint Solving for Configuring Large Software Product Lines.
+publication: ICSE'15
+domain: Configuration
+relevant: Configuration
+cites: 148
+tags: 0
+state: assigning labels
+
+title: Balancing soundness and efficiency for practical testing of configurable systems
+publication: ICSE'17
+domain: Configuration
+relevant: Configuration
+cites: 0
+tags: 0
+state: assigning labels
+
+title: On cross-stack configuration errors
+publication: ICSE'17
+domain: Configuration
+relevant: Configuration
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Lightweight specification and analysis of dynamic systems with rich configurations
+publication: FSE'16
+domain: Configuration
+relevant: Configuration
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Finding near-optimal configurations in product lines by random sampling
+publication: FSE'17
+domain: Configuration
+relevant: Configuration
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Kmax: finding all configurations of Kbuild makefiles statically
+publication: FSE'17
+domain: Configuration
+relevant: Configuration
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Learning to sample: exploiting similarities across environments to learn performance models for configurable systems
+publication: FSE'18
+domain: Configuration
+relevant: Configuration, Performance
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Cimplifier: automatically debloating containers
+publication: FSE'17
+domain: Container
+relevant: Container
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Crash consistency validation made easy
+publication: FSE'16
+domain: Crash Consistency
+relevant: Crash Consistency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Static extraction of program configuration options
+publication: ICSE'11
+domain: Debugging
+relevant: Debugging, Configuration
+cites: 107
+tags: 0
+state: assigning labels
+
+title: Reducing confounding bias in predicate-level statistical debugging metrics
+publication: ICSE'12
+domain: Debugging
+relevant: Debugging
+cites: 38
+tags: 0
+state: assigning labels
+
+title: BugRedux: Reproducing field failures for in-house debugging
+publication: ICSE'12
+domain: Debugging
+relevant: Debugging
+cites: 194
+tags: 0
+state: assigning labels
+
+title: Object-centric debugging
+publication: ICSE'12
+domain: Debugging
+relevant: Debugging
+cites: 74
+tags: 0
+state: assigning labels
+
+title: HDD: hierarchical Delta Debugging
+publication: ICSE'06
+domain: Debugging
+relevant: Delta Debugging
+cites: 0
+tags: 0
+state: assigning labels
+
+title: HOLMES: Effective statistical debugging via efficient path profiling
+publication: ICSE'09
+domain: Debugging
+relevant: Debugging
+cites: 0
+tags: 0
+state: assigning labels
+
+title: BigDebug: debugging primitives for interactive big data processing in spark
+publication: ICSE'16
+domain: Debugging
+relevant: Debugging
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Feedback-directed instrumentation for deployed JavaScript applications
+publication: ICSE'16
+domain: Debugging
+relevant: JavaScript, Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Debugging data flows in reactive programs
+publication: ICSE'18
+domain: Debugging
+relevant: Debugging
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Darwin: an approach for debugging evolving programs
+publication: FSE'09
+domain: Debugging
+relevant: Debugging
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Model-level, platform-independent debugging in the context of the model-driven development of real-time systems
+publication: FSE'17
+domain: Debugging
+relevant: Debugging
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Binary reduction of dependency graphs
+publication: FSE'19
+domain: Delta Debugging
+relevant: Delta Debugging
+cites: 0
+tags: 0
+state: assigning labels
+
+title: RFC-directed differential testing of certificate validation in SSL/TLS implementations
+publication: ICSE'18
+domain: Differential Testing
+relevant: Differential Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Feedback-directed differential testing of interactive debuggers
+publication: FSE'18
+domain: Differential Testing
+relevant: Differential Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient large-scale trace checking using mapreduce
+publication: ICSE'16
+domain: Dynamic Analysis
+relevant: Dynamic Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Towards a unified formal model for supporting mechanisms of dynamic component update
+publication: FSE'05
+domain: Dynamic Update
+relevant: Dynamic Update
+cites: 0
+tags: 0
+state: assigning labels
+
+title: No PAIN, No Gain? The Utility of PArallel Fault INjections
+publication: ICSE'15
+domain: Fault Injection
+relevant: Fault Injection
+cites: 29
+tags: 0
+state: assigning labels
+
+title: Falcon: fault localization in concurrent programs
+publication: ICSE'10
+domain: Fault Localization
+relevant: Fault Localization, Concurrency
+cites: 150
+tags: 0
+state: assigning labels
+
+title: Adaptive bug isolation
+publication: ICSE'10
+domain: Fault Localization
+relevant: Fault Localization
+cites: 67
+tags: 0
+state: assigning labels
+
+title: Practical fault localization for dynamic web applications
+publication: ICSE'10
+domain: Fault Localization
+relevant: Fault Localization
+cites: 96
+tags: 0
+state: assigning labels
+
+title: Where should the bugs be fixed? More accurate information retrieval-based bug localization based on bug reports
+publication: ICSE'12
+domain: Fault Localization
+relevant: Fault Localization
+cites: 450
+tags: 0
+state: assigning labels
+
+title: Developer prioritization in bug repositories
+publication: ICSE'12
+domain: Fault Localization
+relevant: Fault Localization
+cites: 169
+tags: 0
+state: assigning labels
+
+title: WhoseFault: Automatic developer-to-fault assignment through fault localization
+publication: ICSE'12
+domain: Fault Localization
+relevant: Fault Localization
+cites: 60
+tags: 0
+state: assigning labels
+
+title: Test case purification for improving fault localization
+publication: FSE'14
+domain: Fault Localization
+relevant: Fault Localization
+cites: 129
+tags: 0
+state: assigning labels
+
+title: Locating causes of program failures
+publication: ICSE'05
+domain: Fault Localization
+relevant: Fault Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Locating faults through automated predicate switching
+publication: ICSE'06
+domain: Fault Localization
+relevant: Fault Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Time will tell: fault localization using time spectra
+publication: ICSE'08
+domain: Fault Localization
+relevant: Fault Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Lightweight fault-localization using multiple coverage types
+publication: ICSE'09
+domain: Fault Localization
+relevant: Fault Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Taming coincidental correctness: Coverage refinement with context patterns to improve fault localization
+publication: ICSE'09
+domain: Fault Localization
+relevant: Fault Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Evaluating and improving fault localization
+publication: ICSE'17
+domain: Fault Localization
+relevant: Fault Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Effective blame for information-flow violations
+publication: FSE'08
+domain: Fault Localization
+relevant: Fault Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Improving IR-based bug localization with context-aware query reformulation
+publication: FSE'18
+domain: Fault Localization
+relevant: Fault Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Compiler bug isolation via effective witness test program generation
+publication: FSE'19
+domain: Fault Localization
+relevant: Fault Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Latent error prediction and fault localization for microservice applications by learning from system trace logs
+publication: FSE'19
+domain: Fault Localization
+relevant: Fault Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic input rectification
+publication: ICSE'12
+domain: Fault Tolerating
+relevant:
+cites: 64
+tags: 0
+state: assigning labels
+
+title: CSSL: a logic for specifying conditional scenarios
+publication: FSE'11
+domain: Formalization
+relevant: Formalization
+cites: 12
+tags: 0
+state: assigning labels
+
+title: Modeling the HTML DOM and browser API in static analysis of JavaScript web applications
+publication: FSE'11
+domain: Formalization
+relevant: Formalization
+cites: 129
+tags: 0
+state: assigning labels
+
+title: A symbolic justice violations transition system for unrealizable GR(1) specifications
+publication: FSE'17
+domain: Formalization
+relevant: GR(1)
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting atomic-set serializability violations in multithreaded programs through active randomized testing
+publication: ICSE'10
+domain: Fuzzing
+relevant: Fuzzing
+cites: 94
+tags: 0
+state: assigning labels
+
+title: Turning programs against each other: high coverage fuzz-testing using binary-code mutation and dynamic slicing
+publication: FSE'15
+domain: Fuzzing
+relevant: Fuzzing
+cites: 49
+tags: 0
+state: assigning labels
+
+title: Taint-based directed whitebox fuzzing
+publication: ICSE'09
+domain: Fuzzing
+relevant: Fuzzing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SLF: fuzzing without valid seed inputs
+publication: ICSE'19
+domain: Fuzzing
+relevant: Fuzzing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Superion: grammar-aware greybox fuzzing
+publication: ICSE'19
+domain: Fuzzing
+relevant: Fuzzing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: RESTler: stateful REST API fuzzing
+publication: ICSE'19
+domain: Fuzzing
+relevant: Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Steelix: program-state based binary fuzzing
+publication: FSE'17
+domain: Fuzzing
+relevant: Fuzzing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Singularity: pattern fuzzing for worst case complexity
+publication: FSE'18
+domain: Fuzzing
+relevant: Fuzzing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: FOT: a versatile, configurable, extensible fuzzing framework
+publication: FSE'18
+domain: Fuzzing
+relevant: Fuzzing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Just fuzz it: solving floating-point constraints using coverage-guided fuzzing
+publication: FSE'19
+domain: Fuzzing
+relevant: Fuzzing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Cerebro: context-aware adaptive fuzzing for effective vulnerability detection
+publication: FSE'19
+domain: Fuzzing
+relevant: Fuzzing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Generating TCP/UDP network data for automated unit test generation
+publication: FSE'15
+domain: Generation
+relevant: Generation
+cites: 14
+tags: 0
+state: assigning labels
+
+title: Feedback-directed unit test generation for C/C++ using concolic execution
+publication: ICSE'13
+domain: Generation
+relevant: Repair, Generation, Concolic Execution
+cites: 45
+tags: 0
+state: assigning labels
+
+title: Test generation through programming in UDITA
+publication: ICSE'10
+domain: Generation
+relevant: Generation
+cites: 165
+tags: 0
+state: assigning labels
+
+title: Learning Combinatorial Interaction Test Generation Strategies Using Hyperheuristic Search
+publication: ICSE'15
+domain: Generation
+relevant: Generation
+cites: 90
+tags: 0
+state: assigning labels
+
+title: Automated Generation of Context-Aware Tests
+publication: ICSE'07
+domain: Generation
+relevant: Generation
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Deryaft: a tool for generating representation invariants of structurally complex data
+publication: ICSE'08
+domain: Generation
+relevant: Generation
+cites: 0
+tags: 0
+state: assigning labels
+
+title: WISE: Automated test generation for worst-case complexity
+publication: ICSE'09
+domain: Generation
+relevant: Generation
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automated test suite generation for time-continuous simulink models
+publication: ICSE'16
+domain: Generation
+relevant: Simulink
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Coverage-driven test code generation for concurrent classes
+publication: ICSE'16
+domain: Generation
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic text input generation for mobile testing
+publication: ICSE'17
+domain: Generation
+relevant: Android Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A graph solver for the automated generation of consistent domain-specific models
+publication: ICSE'18
+domain: Generation
+relevant: Generation, Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Parallel test generation and execution with Korat
+publication: FSE'07
+domain: Generation
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Improving test case generation for web applications using automated interface discovery
+publication: FSE'07
+domain: Generation
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Extracting instruction semantics via symbolic execution of code generators
+publication: FSE'16
+domain: Generation
+relevant: Generation
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient generation of inductive validity cores for safety properties
+publication: FSE'16
+domain: Generation
+relevant: Generation
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Directed test generation to detect loop inefficiencies
+publication: FSE'16
+domain: Generation
+relevant: Generation
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Diversity-based web test generation
+publication: FSE'19
+domain: Generation
+relevant: Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Towards more efficient meta-heuristic algorithms for combinatorial test generation
+publication: FSE'19
+domain: Generation
+relevant: Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Deriving input syntactic structure from execution
+publication: FSE'08
+domain: Grammer Extract
+relevant: Grammer Extract
+cites: 0
+tags: 0
+state: assigning labels
+
+title: REINAM: reinforcement learning for input-grammar inference
+publication: FSE'19
+domain: Input Grammer Inference
+relevant: Input Grammer Inference
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Recovering clear, natural identifiers from obfuscated JS names
+publication: FSE'17
+domain: JavaScript
+relevant: JavaScript
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Metamorphic testing of RESTful web APIs
+publication: ICSE'18
+domain: Metamorphic Testing
+relevant: Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Exploring and exploiting the correlations between bug-inducing and bug-fixing commits
+publication: FSE'19
+domain: Mining
+relevant: Git Commit
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Micro execution
+publication: ICSE'14
+domain: Misc
+relevant: Misc
+cites: 48
+tags: 0
+state: assigning labels
+
+title: Unit test virtualization with VMVM
+publication: ICSE'14
+domain: Misc
+relevant: Misc
+cites: 71
+tags: 0
+state: assigning labels
+
+title: On software component co-installability
+publication: FSE'11
+domain: Misc
+relevant: Misc
+cites: 26
+tags: 0
+state: assigning labels
+
+title: Backward-compatible constant-time exception-protected memory
+publication: FSE'09
+domain: Misc
+relevant: Misc
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Minimizing GUI event traces
+publication: FSE'16
+domain: Misc
+relevant: Misc
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Failure-directed program trimming
+publication: FSE'17
+domain: Misc
+relevant: Misc
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Using finite-state models for log differencing
+publication: FSE'18
+domain: Misc
+relevant: Misc
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Maintaining and evolving GUI-directed test scripts
+publication: ICSE'09
+domain: Misc Testing
+relevant: GUI Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Identifying patch correctness in test-based program repair
+publication: ICSE'18
+domain: Misc Testing
+relevant: Misc Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic model generation from documentation for Java API functions
+publication: ICSE'16
+domain: Model
+relevant: Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Syntactic and semantic differencing for combinatorial models of test designs
+publication: ICSE'17
+domain: Model
+relevant: Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Fluent temporal logic for discrete-time event-based models
+publication: FSE'05
+domain: Model
+relevant: Model, Logic
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Difference computation of large models
+publication: FSE'07
+domain: Model
+relevant: Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: On correct and complete strong merging of partial behaviour models
+publication: FSE'08
+domain: Model
+relevant: Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Fitting the pieces together: a machine-checked model of safe composition
+publication: FSE'09
+domain: Model
+relevant: Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Synthesizing partial component-level behavior models from system specifications
+publication: FSE'09
+domain: Model
+relevant: Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Supporting automatic model inconsistency fixing
+publication: FSE'09
+domain: Model
+relevant: Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Behavioral automata composition for automatic topology independent verification of parameterized systems
+publication: FSE'09
+domain: Model
+relevant: Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Symbolic model checking of declarative relational models
+publication: ICSE'06
+domain: Model Checking
+relevant: Model Checking
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Parallel Randomized State-Space Search
+publication: ICSE'07
+domain: Model Checking
+relevant: Model Checking
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Incremental state-space exploration for programs with dynamically allocated data
+publication: ICSE'08
+domain: Model Checking
+relevant: Model Checking
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Reliability of Run-Time Quality-of-Service evaluation using parametric model checking
+publication: ICSE'16
+domain: Model Checking
+relevant: Model Checking
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Model checking service compositions under resource constraints
+publication: FSE'07
+domain: Model Checking
+relevant: Model Checking
+cites: 0
+tags: 0
+state: assigning labels
+
+title: On-the-fly decomposition of specifications in software model checking
+publication: FSE'16
+domain: Model Checking
+relevant: Model Checking
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Probabilistic model checking of perturbed MDPs with applications to cloud computing
+publication: FSE'17
+domain: Model Checking
+relevant: Model Checking
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Craig vs. Newton in software model checking
+publication: FSE'17
+domain: Model Checking
+relevant: Model Checking
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Willias: From behaviour preservation to behaviour modification: constraint-based mutant generation
+publication: ICSE'10
+domain: Mutation
+relevant: Mutation, Generation
+cites: 13
+tags: 0
+state: assigning labels
+
+title: Synthesizing data structure manipulations from storyboards
+publication: FSE'11
+domain: PBE
+relevant:
+cites: 89
+tags: 0
+state: assigning labels
+
+title: Programming not only by example
+publication: ICSE'18
+domain: PBE
+relevant: PBE
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Parameterized model counting for string and numeric constraints
+publication: FSE'18
+domain: Parameterized Program
+relevant: Parameterized Program
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automated patch extraction via syntax- and semantics-aware Delta debugging on source code changes
+publication: FSE'18
+domain: Path Synthesis
+relevant: Debugging
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Model-based performance testing
+publication: ICSE'11
+domain: Performance
+relevant: Performance
+cites: 40
+tags: 0
+state: assigning labels
+
+title: Uncovering performance problems in Java applications with reference propagation profiling
+publication: ICSE'12
+domain: Performance
+relevant: Performance
+cites: 56
+tags: 0
+state: assigning labels
+
+title: Performance debugging in the large via mining millions of stack traces
+publication: ICSE'12
+domain: Performance
+relevant: Performance
+cites: 170
+tags: 0
+state: assigning labels
+
+title: Automatically finding performance problems with feedback-directed learning software testing
+publication: ICSE'12
+domain: Performance
+relevant: Performance
+cites: 111
+tags: 0
+state: assigning labels
+
+title: Predicting performance via automated feature-interaction detection
+publication: ICSE'12
+domain: Performance
+relevant: Performance
+cites: 213
+tags: 0
+state: assigning labels
+
+title: Performance regression testing target prioritization via performance risk analysis
+publication: ICSE'14
+domain: Performance
+relevant: Performance
+cites: 54
+tags: 0
+state: assigning labels
+
+title: Finding latent performance bugs in systems implementations
+publication: FSE'10
+domain: Performance
+relevant: Performance
+cites: 71
+tags: 0
+state: assigning labels
+
+title: Generating performance distributions via probabilistic symbolic execution
+publication: ICSE'16
+domain: Performance
+relevant: Symbolic Execution
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Performance diagnosis for inefficient loops
+publication: ICSE'17
+domain: Performance
+relevant: Performance
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Redundant loads: a software inefficiency indicator
+publication: ICSE'19
+domain: Performance
+relevant: Android, Performance
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Performance data collection using a hybrid approach
+publication: FSE'05
+domain: Performance
+relevant: Performance
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Mining performance specifications
+publication: FSE'16
+domain: Performance
+relevant: Mining, Specification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Pinpointing performance inefficiencies in Java
+publication: FSE'19
+domain: Performance
+relevant: Performance
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Scalability-first pointer analysis with self-tuning context-sensitivity
+publication: FSE'18
+domain: Pointer Analysis
+relevant: Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: LEAKPOINT: pinpointing the causes of memory leaks
+publication: ICSE'10
+domain: Program Analysis
+relevant: Program Analysis
+cites: 91
+tags: 0
+state: assigning labels
+
+title: Precise calling context encoding
+publication: ICSE'10
+domain: Program Analysis
+relevant: Program Analysis
+cites: 70
+tags: 0
+state: assigning labels
+
+title: Effective interprocedural resource leak detection
+publication: ICSE'10
+domain: Program Analysis
+relevant: Program Analysis
+cites: 59
+tags: 0
+state: assigning labels
+
+title: Inference of field initialization
+publication: ICSE'11
+domain: Program Analysis
+relevant: Program Analysis
+cites: 21
+tags: 0
+state: assigning labels
+
+title: Taming reflection: Aiding static analysis in the presence of reflection and custom class loaders
+publication: ICSE'11
+domain: Program Analysis
+relevant: Program Analysis
+cites: 228
+tags: 0
+state: assigning labels
+
+title: Patching vulnerabilities with sanitization synthesis
+publication: ICSE'11
+domain: Program Analysis
+relevant: Program Analysis
+cites: 60
+tags: 0
+state: assigning labels
+
+title: Model projection: simplifying models in response to restricting the environment
+publication: ICSE'11
+domain: Program Analysis
+relevant: Program Analysis
+cites: 32
+tags: 0
+state: assigning labels
+
+title: Program abstractions for behaviour validation
+publication: ICSE'11
+domain: Program Analysis
+relevant: Program Analysis
+cites: 23
+tags: 0
+state: assigning labels
+
+title: Code coverage analysis in practice for large systems
+publication: ICSE'11
+domain: Program Analysis
+relevant: Program Analysis
+cites: 12
+tags: 0
+state: assigning labels
+
+title: Practical change impact analysis based on static program slicing for industrial software systems
+publication: ICSE'11
+domain: Program Analysis
+relevant: Program Analysis
+cites: 132
+tags: 0
+state: assigning labels
+
+title: Value-based program characterization and its application to software plagiarism detection
+publication: ICSE'11
+domain: Program Analysis
+relevant: Program Analysis
+cites: 86
+tags: 0
+state: assigning labels
+
+title: Automatically detecting and describing high level actions within methods
+publication: ICSE'11
+domain: Program Analysis
+relevant: Program Analysis, Program Comprehension
+cites: 143
+tags: 0
+state: assigning labels
+
+title: Graph-based analysis and prediction for software evolution
+publication: ICSE'12
+domain: Program Analysis
+relevant: Program Analysis
+cites: 212
+tags: 0
+state: assigning labels
+
+title: Build code analysis with symbolic evaluation
+publication: ICSE'12
+domain: Program Analysis
+relevant: Program Analysis, Symbolic Execution
+cites: 62
+tags: 0
+state: assigning labels
+
+title: Using dynamic analysis to discover polynomial and array invariants
+publication: ICSE'12
+domain: Program Analysis
+relevant: Program Analysis, Invariant Deduction
+cites: 74
+tags: 0
+state: assigning labels
+
+title: Generating obstacle conditions for requirements completeness
+publication: ICSE'12
+domain: Program Analysis
+relevant: Program Analysis
+cites: 39
+tags: 0
+state: assigning labels
+
+title: Inferring class level specifications for distributed systems
+publication: ICSE'12
+domain: Program Analysis
+relevant: Program Analysis
+cites: 28
+tags: 0
+state: assigning labels
+
+title: Statically checking API protocol conformance with mined multi-object specifications
+publication: ICSE'12
+domain: Program Analysis
+relevant: Program Analysis
+cites: 85
+tags: 0
+state: assigning labels
+
+title: Detecting spurious counterexamples efficiently in abstract model checking
+publication: ICSE'13
+domain: Program Analysis
+relevant: Program Analysis
+cites: 21
+tags: 0
+state: assigning labels
+
+title: Segmented symbolic analysis
+publication: ICSE'13
+domain: Program Analysis
+relevant: Program Analysis
+cites: 18
+tags: 0
+state: assigning labels
+
+title: Using dynamic analysis to generate disjunctive invariants
+publication: ICSE'14
+domain: Program Analysis
+relevant: Program Analysis, Invariant Deduction
+cites: 28
+tags: 0
+state: assigning labels
+
+title: Inductive verification of data model invariants for web applications
+publication: ICSE'14
+domain: Program Analysis
+relevant: Program Analysis, Invariant Deduction
+cites: 17
+tags: 0
+state: assigning labels
+
+title: TypeDevil: Dynamic Type Inconsistency Analysis for JavaScript
+publication: ICSE'15
+domain: Program Analysis
+relevant: Program Analysis, JavaScript
+cites: 59
+tags: 0
+state: assigning labels
+
+title: Proving programs robust
+publication: FSE'11
+domain: Program Analysis
+relevant: Program Analysis
+cites: 134
+tags: 0
+state: assigning labels
+
+title: Checking conformance of a producer and a consumer
+publication: FSE'11
+domain: Program Analysis
+relevant: Program Analysis
+cites: 14
+tags: 0
+state: assigning labels
+
+title: Managing performance vs. accuracy trade-offs with loop perforation
+publication: FSE'11
+domain: Program Analysis
+relevant: Program Analysis, Performance
+cites: 493
+tags: 0
+state: assigning labels
+
+title: Boosting the performance of flow-sensitive points-to analysis using value flow
+publication: FSE'11
+domain: Program Analysis
+relevant: Program Analysis
+cites: 79
+tags: 0
+state: assigning labels
+
+title: Automating presentation changes in dynamic web applications via collaborative hybrid analysis
+publication: FSE'11
+domain: Program Analysis
+relevant: Program Analysis
+cites: 47
+tags: 0
+state: assigning labels
+
+title: Green: reducing, reusing and recycling constraints in program analysis
+publication: FSE'12
+domain: Program Analysis
+relevant: Program Analysis
+cites: 134
+tags: 0
+state: assigning labels
+
+title: Bayesian inference using data flow analysis
+publication: FSE'13
+domain: Program Analysis
+relevant: Program Analysis
+cites: 59
+tags: 0
+state: assigning labels
+
+title: Second-order constraints in dynamic invariant inference
+publication: FSE'13
+domain: Program Analysis
+relevant: Program Analysis
+cites: 8
+tags: 0
+state: assigning labels
+
+title: Z3-str: a z3-based string solver for web application analysis
+publication: FSE'13
+domain: Program Analysis
+relevant: Program Analysis
+cites: 202
+tags: 0
+state: assigning labels
+
+title: Effective dynamic detection of alias analysis errors
+publication: FSE'13
+domain: Program Analysis
+relevant: Program Analysis
+cites: 17
+tags: 0
+state: assigning labels
+
+title: Practical static analysis of JavaScript applications in the presence of frameworks and libraries
+publication: FSE'13
+domain: Program Analysis
+relevant: Program Analysis
+cites: 114
+tags: 0
+state: assigning labels
+
+title: Automatically computing path complexity of programs
+publication: FSE'15
+domain: Program Analysis
+relevant: Program Analysis
+cites: 12
+tags: 0
+state: assigning labels
+
+title: A user-guided approach to program analysis
+publication: FSE'15
+domain: Program Analysis
+relevant: Program Analysis
+cites: 66
+tags: 0
+state: assigning labels
+
+title: Efficient and precise dynamic impact analysis using execute-after sequences
+publication: ICSE'05
+domain: Program Analysis
+relevant: Testing, Program Analysis, Dynamic Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Understanding software application interfaces via string analysis
+publication: ICSE'06
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic generation of software behavioral models
+publication: ICSE'08
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Accurate Interprocedural Null-Dereference Analysis for Java
+publication: ICSE'09
+domain: Program Analysis
+relevant: Null-Dereference Analysis, Java
+cites: 0
+tags: 0
+state: assigning labels
+
+title: The road not taken: Estimating path execution frequency statically
+publication: ICSE'09
+domain: Program Analysis
+relevant: Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic dimension inference and checking for object-oriented programs
+publication: ICSE'09
+domain: Program Analysis
+relevant: Static Analysis, OOP
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Floating-point precision tuning using blame analysis
+publication: ICSE'16
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Collective program analysis
+publication: ICSE'18
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: DifFuzz: differential fuzzing for side-channel analysis
+publication: ICSE'19
+domain: Program Analysis
+relevant: Fuzzing, Differential Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Zero-overhead path prediction with progressive symbolic execution
+publication: ICSE'19
+domain: Program Analysis
+relevant: Symbolic Execution
+cites: 0
+tags: 0
+state: assigning labels
+
+title: DockerizeMe: automatic inference of environment dependencies for python code snippets
+publication: ICSE'19
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Applying classification techniques to remotely-collected program execution data
+publication: FSE'05
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Joining dataflow with predicates
+publication: FSE'05
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Lightweight object specification with typestates
+publication: FSE'05
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Relational analysis of algebraic datatypes
+publication: FSE'05
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automated size analysis for OCL
+publication: FSE'07
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Inter-context control-flow and data-flow test adequacy criteria for nesC applications
+publication: FSE'08
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Javert: fully automatic mining of general temporal properties from dynamic traces
+publication: FSE'08
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Improving slice accuracy by compression of data and control flow paths
+publication: FSE'09
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Sireum/Topi LDP: a lightweight semi-decision procedure for optimizing symbolic execution-based analyses
+publication: FSE'09
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Titanium: efficient analysis of evolving alloy specifications
+publication: FSE'16
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Proteus: computing disjunctive loop summary via path dependency analysis
+publication: FSE'16
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Flow-sensitive composition of thread-modular abstract interpretation
+publication: FSE'16
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Loopster: static loop termination analysis
+publication: FSE'17
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Constraint normalization and parameterized caching for quantitative program analysis
+publication: FSE'17
+domain: Program Analysis
+relevant: Parameterized Program
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Counterexample-guided approach to finding numerical invariants
+publication: FSE'17
+domain: Program Analysis
+relevant: Invariant Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatically analyzing groups of crashes for finding correlations
+publication: FSE'17
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: NullAway: practical type-based null safety for Java
+publication: FSE'19
+domain: Program Analysis
+relevant: Program Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Arithmetic program paths
+publication: FSE'05
+domain: Program Comprehension
+relevant: Program Comprehension
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Program comprehension as fact finding
+publication: FSE'07
+domain: Program Comprehension
+relevant: Program Comprehension
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Program comprehension as fact finding
+publication: FSE'07
+domain: Program Comprehension
+relevant: Program Comprehension
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Measuring neural efficiency of program comprehension
+publication: FSE'17
+domain: Program Comprehension
+relevant: Program Comprehension
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Generalized observational slicing for tree-represented modelling languages
+publication: FSE'17
+domain: Program Language
+relevant: Program Slicing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Global optimization of numerical programs via prioritized stochastic algebraic transformations
+publication: ICSE'19
+domain: Program Optimization
+relevant: Program Optimization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Storm: program reduction for testing and debugging probabilistic programming systems
+publication: FSE'19
+domain: Program Reduction
+relevant: Probabilistic Programming Language
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Cross-language program slicing for dynamic web applications
+publication: FSE'15
+domain: Program Slicing
+relevant: Program Slicing
+cites: 33
+tags: 0
+state: assigning labels
+
+title: Oracle-guided component-based program synthesis
+publication: ICSE'10
+domain: Program Synthesis
+relevant:
+cites: 423
+tags: 0
+state: assigning labels
+
+title: RELAY: static race detection on millions of lines of code
+publication: FSE'07
+domain: Race Detection
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: AtexRace: across thread and execution sampling for in-house race detection
+publication: FSE'17
+domain: Race Detection
+relevant: Race Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Data race detection on compressed traces
+publication: FSE'18
+domain: Race Detection
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Practical AJAX race detection for JavaScript web applications
+publication: FSE'18
+domain: Race Detection
+relevant: AJAX, JavaScript, Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Parameterized unit tests
+publication: FSE'05
+domain: Regression Testing
+relevant: Regression Testing, Unit Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Isomorphic regression testing: executing uncovered branches without test augmentation
+publication: FSE'16
+domain: Regression Testing
+relevant: Regression Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Regression test selection across JVM boundaries
+publication: FSE'17
+domain: Regression Testing
+relevant: Regression Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: The impact of regular expression denial of service (ReDoS) in practice: an empirical study at the ecosystem scale
+publication: FSE'18
+domain: Regular Expression
+relevant: Bug Detection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Generating range fixes for software configuration
+publication: ICSE'12
+domain: Repair
+relevant: Repair, Configuration
+cites: 103
+tags: 0
+state: assigning labels
+
+title: Axis: Automatically fixing atomicity violations through solving control constraints
+publication: ICSE'12
+domain: Repair
+relevant: Repair, Formalization
+cites: 84
+tags: 0
+state: assigning labels
+
+title: SemFix: program repair via semantic analysis
+publication: ICSE'13
+domain: Repair
+relevant: Repair, Program Analysis
+cites: 499
+tags: 0
+state: assigning labels
+
+title: Automatic recovery from runtime failures
+publication: ICSE'13
+domain: Repair
+relevant: Repair, Fault Tolerating
+cites: 95
+tags: 0
+state: assigning labels
+
+title: Program transformations to fix C integers
+publication: ICSE'13
+domain: Repair
+relevant: Repair
+cites: 68
+tags: 0
+state: assigning labels
+
+title: Automatic patch generation learned from human-written patches
+publication: ICSE'13
+domain: Repair
+relevant: Repair, Generation
+cites: 504
+tags: 0
+state: assigning labels
+
+title: MintHint: automated synthesis of repair hints
+publication: ICSE'14
+domain: Repair
+relevant: Repair, Synthesis
+cites: 89
+tags: 0
+state: assigning labels
+
+title: DirectFix: Looking for Simple Program Repairs
+publication: ICSE'15
+domain: Repair
+relevant: Repair
+cites: 223
+tags: 0
+state: assigning labels
+
+title: Safe Memory-Leak Fixing for C Programs
+publication: ICSE'15
+domain: Repair
+relevant: Repair, Fault Tolerating
+cites: 76
+tags: 0
+state: assigning labels
+
+title: Grail: context-aware fixing of concurrency bugs
+publication: FSE'14
+domain: Repair
+relevant: Repair, Concurrency
+cites: 47
+tags: 0
+state: assigning labels
+
+title: Staged program repair with condition synthesis
+publication: FSE'15
+domain: Repair
+relevant: Repair
+cites: 269
+tags: 0
+state: assigning labels
+
+title: CLOTHO: saving programs from malformed strings and incorrect string-handling
+publication: FSE'15
+domain: Repair
+relevant: Repair, Fault Tolerating
+cites: 7
+tags: 0
+state: assigning labels
+
+title: Automated repair of HTML generation errors in PHP applications using string constraint solving
+publication: ICSE'12
+domain: Repair
+relevant: Repair, SMT
+cites: 114
+tags: 0
+state: assigning labels
+
+title: Beyond the rainbow: self-adaptive failure avoidance in configurable systems
+publication: FSE'14
+domain: Repair
+relevant: Repair, Configuration
+cites: 32
+tags: 0
+state: assigning labels
+
+title: Data structure repair using goal-directed reasoning
+publication: ICSE'05
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Juzi: a tool for repairing complex data structures
+publication: ICSE'08
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatically finding patches using genetic programming
+publication: ICSE'09
+domain: Repair
+relevant: Repair, Generation
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Angelix: scalable multiline program patch synthesis via symbolic analysis
+publication: ICSE'16
+domain: Repair
+relevant: Generation, Symbolic Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Fixing deadlocks via lock pre-acquisitions
+publication: ICSE'16
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Learning syntactic program transformations from examples
+publication: ICSE'17
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Precise condition synthesis for program repair
+publication: ICSE'17
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Context-aware patch generation for better automated program repair
+publication: ICSE'18
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Towards practical program repair with on-demand candidate generation
+publication: ICSE'18
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Static automated program repair for heap properties
+publication: ICSE'18
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Semantic program repair using a reference implementation
+publication: ICSE'18
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Learning to spot and refactor inconsistent method names
+publication: ICSE'19
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Harnessing evolution for multi-hunk program repair
+publication: ICSE'19
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: VFix: value-flow-guided precise program repair for null pointer dereferences
+publication: ICSE'19
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Understanding and generating high quality patches for concurrency bugs
+publication: FSE'16
+domain: Repair
+relevant: Repair, Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Anti-patterns in search-based program repair
+publication: FSE'16
+domain: Repair
+relevant: Repair, Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Synergistic debug-repair of heap manipulations
+publication: FSE'17
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Adaptively generating high quality fixes for atomicity violations
+publication: FSE'17
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: S3: syntax- and semantic-guided repair synthesis via programming by examples
+publication: FSE'17
+domain: Repair
+relevant: Repair, PBE
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic inference of code transforms for patch generation
+publication: FSE'17
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatically diagnosing and repairing error handling bugs in C
+publication: FSE'17
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Better test cases for better automated program repair
+publication: FSE'17
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Visual web test repair
+publication: FSE'18
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Vista: web test repair using computer vision
+publication: FSE'18
+domain: Repair
+relevant: Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: iFixR: bug report driven program repair
+publication: FSE'19
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: iFixFlakies: a framework for automatically fixing order-dependent flaky tests
+publication: FSE'19
+domain: Repair
+relevant: Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Phoenix: automated data-driven synthesis of repairs for static analysis violations
+publication: FSE'19
+domain: Repair
+relevant: Specification, Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Partial replay of long-running applications
+publication: FSE'11
+domain: Replay
+relevant: Debugging, Replay
+cites: 23
+tags: 0
+state: assigning labels
+
+title: ReCDroid: automatically reproducing Android application crashes from bug reports
+publication: ICSE'19
+domain: Replay
+relevant: Replay
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient checkpointing of java software using context-sensitive capture and replay
+publication: FSE'07
+domain: Replay
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: DESCRY: reproducing system-level concurrency failures
+publication: FSE'17
+domain: Replay
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Reproducing concurrency failures from crash stacks
+publication: FSE'17
+domain: Replay
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: AggrePlay: efficient record and replay of multi-threaded programs
+publication: FSE'19
+domain: Replay
+relevant: Replay
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Semantics-based reverse engineering of object-oriented data models
+publication: ICSE'06
+domain: Reverse Engineering
+relevant: Reverse Engineering, OOP
+cites: 0
+tags: 0
+state: assigning labels
+
+title: An automated approach to generating efficient constraint solvers
+publication: ICSE'12
+domain: SMT
+relevant: SMT
+cites: 12
+tags: 0
+state: assigning labels
+
+title: Automatic creation of SQL Injection and cross-site scripting attacks
+publication: ICSE'09
+domain: Security
+relevant: Generation, SQL, Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Search-driven string constraint solving for vulnerability detection
+publication: ICSE'17
+domain: Security
+relevant: Symbolic Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Spatio-temporal context reduction: a pointer-analysis-based static approach for detecting use-after-free vulnerabilities
+publication: ICSE'18
+domain: Security
+relevant: Security
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Using positive tainting and syntax-aware evaluation to counter SQL injection attacks
+publication: FSE'06
+domain: Security
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: String analysis for side channels with segmented oracles
+publication: FSE'16
+domain: Security
+relevant: Security, String Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Mitigating power side channels during compilation
+publication: FSE'19
+domain: Security
+relevant: Security
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting concurrency memory corruption vulnerabilities
+publication: FSE'19
+domain: Security
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Locating vulnerabilities in binaries via memory layout recovering
+publication: FSE'19
+domain: Security
+relevant: Fault Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: On well-separation of GR(1) specifications
+publication: FSE'16
+domain: Specification
+relevant: GR(1)
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Discovering relational specifications
+publication: FSE'17
+domain: Specification
+relevant: Specification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Path-based function embedding and its application to error-handling specification mining
+publication: FSE'18
+domain: Specification
+relevant: Specification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Effective error-specification inference via domain-knowledge expansion
+publication: FSE'19
+domain: Specification
+relevant: Specification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Symbolic repairs for GR(1) specifications
+publication: ICSE'19
+domain: Specification Repair
+relevant: Symbolic Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automatic generation and maintenance of correct spreadsheets
+publication: ICSE'05
+domain: Spreadsheet
+relevant: Generation, Repair
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Inferring templates from spreadsheets
+publication: ICSE'06
+domain: Spreadsheet
+relevant: Spreadsheet
+cites: 0
+tags: 0
+state: assigning labels
+
+title: State space exploration using feedback constraint generation and Monte-Carlo sampling
+publication: FSE'07
+domain: State Space Exploration
+relevant: State Space Exploration
+cites: 0
+tags: 0
+state: assigning labels
+
+title: State space exploration using feedback constraint generation and Monte-Carlo sampling
+publication: FSE'07
+domain: State Space Exploration
+relevant: State Space Exploration
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Adaptive Online Program Analysis
+publication: ICSE'07
+domain: Static Analysis
+relevant: Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Path-Sensitive Inference of Function Precedence Protocols
+publication: ICSE'07
+domain: Static Analysis
+relevant: Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Toward full elasticity in distributed static analysis: the case of callgraph analysis
+publication: FSE'17
+domain: Static Analysis
+relevant: Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: MemFix: static analysis-based repair of memory deallocation errors for C
+publication: FSE'18
+domain: Static Analysis
+relevant: Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: RefiNym: using names to refine types
+publication: FSE'18
+domain: Static Analysis
+relevant: Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Darwinian data structure selection
+publication: FSE'18
+domain: Static Analysis
+relevant: Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Nodest: feedback-driven static analysis of Node.js applications
+publication: FSE'19
+domain: Static Analysis
+relevant: Node.js
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Demand-driven structural testing with dynamic instrumentation
+publication: ICSE'05
+domain: Structural Testing
+relevant: Testing, Structural Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Symbolic verification of regular properties
+publication: ICSE'18
+domain: Symbolic Analysis
+relevant: Symbolic Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Path exploration based on symbolic output
+publication: FSE'11
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 52
+tags: 0
+state: assigning labels
+
+title: Enhancing symbolic execution with veritesting
+publication: ICSE'14
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 236
+tags: 0
+state: assigning labels
+
+title: Combining Symbolic Execution and Model Checking for Data Flow Testing
+publication: ICSE'15
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 49
+tags: 0
+state: assigning labels
+
+title: Enhancing symbolic execution with built-in term rewriting and constrained lazy initialization
+publication: FSE'13
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 29
+tags: 0
+state: assigning labels
+
+title: Explicating symbolic execution (xSymExe): an evidence-based verification framework
+publication: ICSE'13
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 10
+tags: 0
+state: assigning labels
+
+title: Solving complex path conditions through heuristic search on induced polytopes
+publication: FSE'14
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 36
+tags: 0
+state: assigning labels
+
+title: Statistical symbolic execution with informed sampling
+publication: FSE'14
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 29
+tags: 0
+state: assigning labels
+
+title: SymJS: automatic symbolic testing of JavaScript web applications
+publication: FSE'14
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 87
+tags: 0
+state: assigning labels
+
+title: Symbolic execution of programs with heap inputs
+publication: FSE'15
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 24
+tags: 0
+state: assigning labels
+
+title: Assertion guided symbolic execution of multithreaded programs
+publication: FSE'15
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 47
+tags: 0
+state: assigning labels
+
+title: Synthesizing framework models for symbolic execution
+publication: ICSE'16
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient sampling of SAT solutions for testing
+publication: ICSE'18
+domain: Symbolic Execution
+relevant: SMT
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Detecting large number of infeasible paths through recognizing their patterns
+publication: FSE'07
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Differential symbolic execution
+publication: FSE'08
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Symbolic execution of programmable logic controller code
+publication: FSE'17
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Symbolic execution with existential second-order constraints
+publication: FSE'18
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Symbolic execution-driven extraction of the parallel execution plans of Spark applications
+publication: FSE'19
+domain: Symbolic Execution
+relevant: Concurrency
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A segmented memory model for symbolic execution
+publication: FSE'19
+domain: Symbolic Execution
+relevant: Symbolic Execution
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Search-based synthesis of equivalent method sequences
+publication: FSE'14
+domain: Synthesis
+relevant: Synthesis
+cites: 24
+tags: 0
+state: assigning labels
+
+title: GR(1) synthesis for LTL specification patterns
+publication: FSE'15
+domain: Synthesis
+relevant: Synthesis
+cites: 41
+tags: 0
+state: assigning labels
+
+title: Modeling readability to improve unit tests
+publication: FSE'15
+domain: Synthesis
+relevant: Synthesis
+cites: 68
+tags: 0
+state: assigning labels
+
+title: Behaviour Model Synthesis from Properties and Scenarios
+publication: ICSE'07
+domain: Synthesis
+relevant: Synthesis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Synthesizing intensional behavior models by graph transformation
+publication: ICSE'09
+domain: Synthesis
+relevant: Model
+cites: 0
+tags: 0
+state: assigning labels
+
+title: PAC learning-based verification and model synthesis
+publication: ICSE'16
+domain: Synthesis
+relevant: Machine Learning, Model, Synthesis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Generalized data structure synthesis
+publication: ICSE'18
+domain: Synthesis
+relevant: Synthesis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: AutoTap: synthesizing and repairing trigger-action programs using LTL properties
+publication: ICSE'19
+domain: Synthesis
+relevant: Synthesis, Logic
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Towards compositional synthesis of evolving systems
+publication: FSE'08
+domain: Synthesis
+relevant: Synthesis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: NoFAQ: synthesizing command repairs from examples
+publication: FSE'17
+domain: Synthesis
+relevant: Synthesis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Syntax-guided synthesis of Datalog programs
+publication: FSE'18
+domain: Synthesis
+relevant: Synthesis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Maximal multi-layer specification synthesis
+publication: FSE'19
+domain: Synthesis
+relevant: Specification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: CarFast: achieving higher statement coverage faster
+publication: FSE'12
+domain: Test Acceration
+relevant: Test Acceration
+cites: 63
+tags: 0
+state: assigning labels
+
+title: Test input generation using dynamic programming
+publication: FSE'12
+domain: Test Data Generation
+relevant: Dynamic Programming
+cites: 15
+tags: 0
+state: assigning labels
+
+title: Scalable test data generation from multidimensional models
+publication: FSE'12
+domain: Test Data Generation
+relevant:
+cites: 18
+tags: 0
+state: assigning labels
+
+title: Guided test generation for web applications
+publication: ICSE'13
+domain: Test Data Generation, Web Application
+relevant:
+cites: 47
+tags: 0
+state: assigning labels
+
+title: Strong higher order mutation-based test data generation
+publication: FSE'11
+domain: Test Data Mutation
+relevant:
+cites: 149
+tags: 0
+state: assigning labels
+
+title: Optimizing test prioritization via test distribution analysis
+publication: FSE'18
+domain: Test Prioritization
+relevant: Test Prioritization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Which generated test failures are fault revealing? prioritizing failures based on inferred precondition violations using PAF
+publication: FSE'18
+domain: Test Prioritization
+relevant: Test Prioritization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Effective test suites for mixed discrete-continuous stateflow controllers
+publication: FSE'15
+domain: Testcase Improvement
+relevant: Testcase Improvement
+cites: 24
+tags: 0
+state: assigning labels
+
+title: Improving test suites for efficient fault localization
+publication: ICSE'06
+domain: Testcase Improvement
+relevant: Fault Localization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: An intensional approach to the specification of test cases for database applications
+publication: ICSE'06
+domain: Testcase Improvement
+relevant: Database Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: DeFlaker: automatically detecting flaky tests
+publication: ICSE'18
+domain: Testcase Improvement
+relevant: Testcase Improvement
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Bridging the gap between the total and additional test-case prioritization strategies
+publication: ICSE'13
+domain: Testcase Prioritization
+relevant: Testcase Prioritization
+cites: 152
+tags: 0
+state: assigning labels
+
+title: Using an SMT solver for interactive requirements prioritization
+publication: FSE'11
+domain: Testcase Prioritization
+relevant: Testcase Prioritization, SMT
+cites: 23
+tags: 0
+state: assigning labels
+
+title: Test report prioritization to assist crowdsourced testing
+publication: FSE'15
+domain: Testcase Prioritization
+relevant: Testcase Prioritization
+cites: 49
+tags: 0
+state: assigning labels
+
+title: Optimizing test placement for module-level regression testing
+publication: ICSE'17
+domain: Testcase Prioritization
+relevant: Testcase Prioritization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Learning to prioritize test programs for compiler testing
+publication: ICSE'17
+domain: Testcase Prioritization
+relevant: Testcase Prioritization, Compiler Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Redefining prioritization: continuous prioritization for continuous integration
+publication: ICSE'18
+domain: Testcase Prioritization
+relevant: Testcase Prioritization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: QTEP: quality-aware test case prioritization
+publication: FSE'17
+domain: Testcase Prioritization
+relevant: Testcase Prioritization
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Leveraging test generation and specification mining for automated bug detection without false positives
+publication: ICSE'12
+domain: Testcase Reduction
+relevant: Testcase Reduction
+cites: 67
+tags: 0
+state: assigning labels
+
+title: On-demand test suite reduction
+publication: ICSE'12
+domain: Testcase Reduction
+relevant: Testcase Reduction
+cites: 79
+tags: 0
+state: assigning labels
+
+title: Interaction-based test-suite minimization
+publication: ICSE'13
+domain: Testcase Reduction
+relevant: Testcase Reduction
+cites: 45
+tags: 0
+state: assigning labels
+
+title: A trace simplification technique for effective debugging of concurrent programs
+publication: FSE'10
+domain: Testcase Reduction
+relevant: Testcase Reduction, Debugging, Concurrency
+cites: 62
+tags: 0
+state: assigning labels
+
+title: Comparing and combining test-suite reduction and regression test selection
+publication: FSE'15
+domain: Testcase Reduction
+relevant: Testcase Reduction
+cites: 72
+tags: 0
+state: assigning labels
+
+title: Regression Test Selection for AspectJ Software
+publication: ICSE'07
+domain: Testcase Reduction
+relevant: Testing, Regression Testing, Testcase Reduction
+cites: 0
+tags: 0
+state: assigning labels
+
+title: MINTS: A general framework and tool for supporting test-suite minimization
+publication: ICSE'09
+domain: Testcase Reduction
+relevant: Testcase Reduction
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Hybrid regression test selection
+publication: ICSE'18
+domain: Testcase Reduction
+relevant: Testcase Reduction
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Fine-grained test minimization
+publication: ICSE'18
+domain: Testcase Reduction
+relevant: Testcase Reduction
+cites: 0
+tags: 0
+state: assigning labels
+
+title: FAST approaches to scalable similarity-based test case prioritization
+publication: ICSE'18
+domain: Testcase Reduction
+relevant: Testcase Reduction
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Towards refactoring-aware regression test selection
+publication: ICSE'18
+domain: Testcase Reduction
+relevant: Testcase Reduction
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Perses: syntax-guided program reduction
+publication: ICSE'18
+domain: Testcase Reduction
+relevant: Testcase Reduction
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Scalable approaches for test suite reduction
+publication: ICSE'19
+domain: Testcase Reduction
+relevant: Testcase Reduction
+cites: 0
+tags: 0
+state: assigning labels
+
+title: The impact of input domain reduction on search-based test data generation
+publication: FSE'07
+domain: Testcase Reduction
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: The impact of input domain reduction on search-based test data generation
+publication: FSE'07
+domain: Testcase Reduction
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Regression test selection for TizenRT
+publication: FSE'18
+domain: Testcase Selection
+relevant: Test Automation, Testcase Selection
+cites: 0
+tags: 0
+state: assigning labels
+
+title: CBCD: Cloned buggy code detector
+publication: ICSE'12
+domain: Testing
+relevant: Testing
+cites: 119
+tags: 0
+state: assigning labels
+
+title: Detecting memory leaks through introspective dynamic behavior modelling using machine learning
+publication: ICSE'14
+domain: Testing
+relevant: Testing
+cites: 25
+tags: 0
+state: assigning labels
+
+title: Automated memory leak detection for production use
+publication: ICSE'14
+domain: Testing
+relevant: Testing
+cites: 33
+tags: 0
+state: assigning labels
+
+title: Exploring variability-aware execution for testing plugin-based web applications
+publication: ICSE'14
+domain: Testing
+relevant: Web Application, Testing
+cites: 106
+tags: 0
+state: assigning labels
+
+title: Patch verification via multiversion interprocedural control flow graphs
+publication: ICSE'14
+domain: Testing
+relevant: Testing, Verification, Program Analysis
+cites: 30
+tags: 0
+state: assigning labels
+
+title: Automated Modularization of GUI Test Cases
+publication: ICSE'15
+domain: Testing
+relevant: Misc Testing
+cites: 8
+tags: 0
+state: assigning labels
+
+title: ZoomIn: Discovering Failures by Detecting Wrong Assertions
+publication: ICSE'15
+domain: Testing
+relevant: Misc Testing
+cites: 10
+tags: 0
+state: assigning labels
+
+title: RECONTEST: Effective Regression Testing of Concurrent Programs
+publication: ICSE'15
+domain: Testing
+relevant: Testing, Regression Testing, Concurrency
+cites: 29
+tags: 0
+state: assigning labels
+
+title: Detecting Inconsistencies in JavaScript MVC Applications
+publication: ICSE'15
+domain: Testing
+relevant: Testing, JavaScript
+cites: 40
+tags: 0
+state: assigning labels
+
+title: A Flexible and Non-intrusive Approach for Computing Complex Structural Coverage Metrics
+publication: ICSE'15
+domain: Testing
+relevant: Misc Testing
+cites: 9
+tags: 0
+state: assigning labels
+
+title: A Genetic Algorithm for Detecting Significant Floating-Point Inaccuracies
+publication: ICSE'15
+domain: Testing
+relevant: Testing
+cites: 25
+tags: 0
+state: assigning labels
+
+title: Dynamic data flow testing of object oriented systems
+publication: ICSE'15
+domain: Testing
+relevant: Misc Testing, OOP
+cites: 30
+tags: 0
+state: assigning labels
+
+title: Representation dependence testing using program inversion
+publication: FSE'10
+domain: Testing
+relevant: Misc Testing
+cites: 12
+tags: 0
+state: assigning labels
+
+title: Practical and effective symbolic analysis for buffer overflow detection
+publication: FSE'10
+domain: Testing
+relevant: Testing
+cites: 36
+tags: 0
+state: assigning labels
+
+title: Improved multithreaded unit testing
+publication: FSE'11
+domain: Testing
+relevant: Testing, Concurrency
+cites: 62
+tags: 0
+state: assigning labels
+
+title: Testing mined specifications
+publication: FSE'11
+domain: Testing
+relevant: Testing, Formalization
+cites: 33
+tags: 0
+state: assigning labels
+
+title: Efficiency and early fault detection with lower and higher strength combinatorial interaction testing
+publication: FSE'13
+domain: Testing
+relevant: Testing
+cites: 85
+tags: 0
+state: assigning labels
+
+title: KATCH: high-coverage testing of software patches
+publication: FSE'13
+domain: Testing
+relevant: Misc Testing
+cites: 123
+tags: 0
+state: assigning labels
+
+title: Differential assertion checking
+publication: FSE'13
+domain: Testing
+relevant: Testing
+cites: 107
+tags: 0
+state: assigning labels
+
+title: Server interface descriptions for automated testing of JavaScript web applications
+publication: FSE'13
+domain: Testing
+relevant: Testing, JavaScript, Web Application
+cites: 15
+tags: 0
+state: assigning labels
+
+title: A foundation for refactoring C with macros
+publication: FSE'14
+domain: Testing
+relevant: Testing
+cites: 14
+tags: 0
+state: assigning labels
+
+title: Improving oracle quality by detecting brittle assertions and unused inputs in tests
+publication: FSE'14
+domain: Testing
+relevant: Testing
+cites: 32
+tags: 0
+state: assigning labels
+
+title: Detecting and analyzing insecure component usage
+publication: FSE'11
+domain: Testing
+relevant: Misc Testing
+cites: 1
+tags: 0
+state: assigning labels
+
+title: AI: a lightweight system for tolerating concurrency bugs
+publication: FSE'14
+domain: Testing
+relevant: Misc Testing
+cites: 20
+tags: 0
+state: assigning labels
+
+title: Check 'n' crash: combining static checking and testing
+publication: ICSE'05
+domain: Testing
+relevant: Testing, Program Analysis, Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Using GUI Run-Time State as Feedback to Generate Test Cases
+publication: ICSE'07
+domain: Testing
+relevant: Misc Testing, GUI Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: ARTOO: adaptive random testing for object-oriented software
+publication: ICSE'08
+domain: Testing
+relevant: Testing, OOP
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Invariant-based automatic testing of AJAX user interfaces
+publication: ICSE'09
+domain: Testing
+relevant: Web Application, AJAX
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Statically checking web API requests in JavaScript
+publication: ICSE'17
+domain: Testing
+relevant: Static Analysis, JavaScript, Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Testing context-aware middleware-centric programs: a data flow approach and an RFID-based experimentation
+publication: FSE'06
+domain: Testing
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Simulation-based test adequacy criteria for distributed systems
+publication: FSE'06
+domain: Testing
+relevant:
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Automated security testing of web widget interactions
+publication: FSE'09
+domain: Testing
+relevant: Web Application
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Field-exhaustive testing
+publication: FSE'16
+domain: Testing
+relevant: Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Fairness testing: testing software for discrimination
+publication: FSE'17
+domain: Testing
+relevant: Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Testing probabilistic programming systems
+publication: FSE'18
+domain: Testing
+relevant: Probabilistic Programming Language
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Themis: automatically testing software for discrimination
+publication: FSE'18
+domain: Testing
+relevant: Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Generating automated and online test oracles for Simulink models with continuous and uncertain behaviors
+publication: FSE'19
+domain: Testing
+relevant: Simulink
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Web test dependency detection
+publication: FSE'19
+domain: Testing
+relevant: Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Testing scratch programs automatically
+publication: FSE'19
+domain: Testing
+relevant: Testing, Scratch
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Bisecting commits and modeling commit risk during testing
+publication: FSE'19
+domain: Testing
+relevant: Git Commit
+cites: 0
+tags: 0
+state: assigning labels
+
+title: White-box testing of big data analytics with complex user-defined functions
+publication: FSE'19
+domain: Testing
+relevant: Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Model-based testing of breaking changes in Node.js libraries
+publication: FSE'19
+domain: Testing
+relevant: Node.js
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Efficient dependency detection for safe Java test acceleration
+publication: FSE'15
+domain: Testing Acceration
+relevant: Testing Acceration
+cites: 50
+tags: 0
+state: assigning labels
+
+title: One evaluation of model-based testing and its automation
+publication: ICSE'05
+domain: Testing Evaluation
+relevant: Testing Evaluation
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Is mutation an appropriate tool for testing experiments
+publication: ICSE'05
+domain: Testing Evaluation
+relevant: Testing Evaluation
+cites: 0
+tags: 0
+state: assigning labels
+
+title: An empirical evaluation of test case filtering techniques based on exercising complex information flows
+publication: ICSE'05
+domain: Testing Evaluation
+relevant: Testing Evaluation
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Evaluation of mutation testing for object-oriented programs.
+publication: ICSE'06
+domain: Testing Evaluation
+relevant: Testing Evaluation, OOP
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Comparing white-box and black-box test prioritization
+publication: ICSE'16
+domain: Testing Evaluation
+relevant: Testing Evaluation
+cites: 0
+tags: 0
+state: assigning labels
+
+title: CUTE: a concolic unit testing engine for C
+publication: FSE'05
+domain: Unit Testing
+relevant: Unit Testing
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Model checking lots of systems: efficient verification of temporal properties in software product lines
+publication: ICSE'10
+domain: Verification
+relevant: Verification
+cites: 356
+tags: 0
+state: assigning labels
+
+title: Symbolic model checking of software product lines
+publication: ICSE'11
+domain: Verification
+relevant: Verification
+cites: 256
+tags: 0
+state: assigning labels
+
+title: Verifying multi-threaded software using smt-based context-bounded model checking
+publication: ICSE'11
+domain: Verification
+relevant: Verification
+cites: 166
+tags: 0
+state: assigning labels
+
+title: Run-time efficient probabilistic model checking
+publication: ICSE'11
+domain: Verification
+relevant: Verification
+cites: 194
+tags: 0
+state: assigning labels
+
+title: Matching logic: a new program verification approach
+publication: ICSE'11
+domain: Verification
+relevant: Verification, Formalization
+cites: 63
+tags: 0
+state: assigning labels
+
+title: Simulation-based abstractions for software product-line model checking
+publication: ICSE'12
+domain: Verification
+relevant: Verification
+cites: 77
+tags: 0
+state: assigning labels
+
+title: Unifying execution of imperative and declarative code.
+publication: ICSE'11
+domain: Verification
+relevant: Verification
+cites: 50
+tags: 0
+state: assigning labels
+
+title: Efficient Scalable Verification of LTL Specifications
+publication: ICSE'15
+domain: Verification
+relevant: Verification
+cites: 14
+tags: 0
+state: assigning labels
+
+title: Specifying Event-Based Systems with a Counting Fluent Temporal Logic
+publication: ICSE'15
+domain: Verification
+relevant: Verification
+cites: 8
+tags: 0
+state: assigning labels
+
+title: Scalable SMT-based verification of GPU kernel functions
+publication: FSE'10
+domain: Verification
+relevant: Verification, SMT
+cites: 124
+tags: 0
+state: assigning labels
+
+title: Conditional model checking: a technique to pass information between verifiers
+publication: FSE'12
+domain: Verification
+relevant: Verification
+cites: 87
+tags: 0
+state: assigning labels
+
+title: Termination proofs from tests
+publication: FSE'13
+domain: Verification
+relevant: Verification
+cites: 27
+tags: 0
+state: assigning labels
+
+title: Verifying CTL-live properties of infinite state models using an SMT solver
+publication: FSE'14
+domain: Verification
+relevant: Verification
+cites: 6
+tags: 0
+state: assigning labels
+
+title: Verifying safety policies with size properties and alias controls
+publication: ICSE'05
+domain: Verification
+relevant: Verification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Managing space for finite-state verification
+publication: ICSE'06
+domain: Verification
+relevant: Verification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Osprey: a practical type system for validating dimensional unit correctness of C programs
+publication: ICSE'06
+domain: Verification
+relevant: Verification, Type System, Programming Language
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Integrating static analysis and general-purpose theorem proving for termination analysis
+publication: ICSE'06
+domain: Verification
+relevant: Verification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Symbolic model extraction for web application verification
+publication: ICSE'17
+domain: Verification
+relevant: Web Application, Symbolic Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A static verification framework for message passing in Go using behavioural types
+publication: ICSE'18
+domain: Verification
+relevant: Static Analysis
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Parallel refinement for multi-threaded program verification
+publication: ICSE'19
+domain: Verification
+relevant: Verification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Correctness witnesses: exchanging verification results between verifiers
+publication: FSE'16
+domain: Verification
+relevant: Verification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: SMT-based verification of parameterized systems
+publication: FSE'16
+domain: Verification
+relevant: Verification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A compiler and verifier for page access oblivious computation
+publication: FSE'17
+domain: Verification
+relevant: Verification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Concurrency verification with maximal path causality
+publication: FSE'18
+domain: Verification
+relevant: Verification
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Verifying the long-run behavior of probabilistic system models in the presence of uncertainty
+publication: FSE'18
+domain: Verification
+relevant: Probabilistic Programming Language
+cites: 0
+tags: 0
+state: assigning labels
+
+title: A formal verification tool for Ethereum VM bytecode
+publication: FSE'18
+domain: Verification
+relevant: JVM
+cites: 0
+tags: 0
+state: assigning labels
+
+title: ASketch: a sketching framework for Alloy
+publication: FSE'18
+domain: Verification
+relevant: Alloy
+cites: 0
+tags: 0
+state: assigning labels
+
+title: Using assertions to help end-user programmers create dependable web macros
+publication: FSE'08
+domain: Web Application
+relevant: Web Application
+cites: 0
+tags: 0
+state: assigning labels
